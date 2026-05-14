@@ -17,6 +17,12 @@ ORDER BY ingested_at;
 
 SELECT * FROM bronze.cooperados c ;
 
+select * from bronze.clientes c ;
+select * from bronze.fazendas f ;
+
+SELECT * FROM bronze.rotas r ;
+
+select * from bronze.produtos p ;
 
 
 

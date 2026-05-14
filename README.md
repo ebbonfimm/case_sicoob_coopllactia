@@ -10,6 +10,23 @@
 - Criação Scripts de Geração de dados sintéticos e Ingestão da camada Bronze no banco
 - Execução dos scripts
 - Criação da estrutura do dbt com dbt init dbt_project
+- Geração do script das tabelas
+
+#### Estrutura do projeto
+
+```
+dbt_project/ — Toda a estrutura de pastas e conteúdo do DBT
+docs/ - Comandos DDL
+ingestion/ - Script para criação dos dados sintéticos e ingestão na camada bronze do banco de dados
+raw_data/ - Dados Crus, gerados pelo código Python
+
+arquivo docker-compose.yaml -> Arquivo contendo as configurações do Container Docker que roda o banco de dados PostgreSQL
+
+arquivo general.sql -> Arquivo de apoio, foi usado para interagir com o banco de dados. Não contém uma estrutura, serviu somente como apoio mesmo.
+
+arquivos requirements.txt -> dependências do Python necessárias para o projeto
+
+```
 
 ### Configurações do DBT no momento da Criação
 
@@ -33,18 +50,13 @@ schema (default schema that dbt will build objects in): public
 threads (1 or more) [1]: 4
 ```
 
-#### Estrutura de pastas do dbt_project
+### Estrutura de pastas do dbt_project (Principal)
 
 ```
-models/ — onde ficam os SQLs do Silver e Gold. É aqui que vamos trabalhar mais
-
-tests/ — testes de qualidade dos dados (ex: verificar se há nulos em colunas obrigatórias)
-
-seeds/ — arquivos CSV pequenos que o dbt carrega direto no banco (tabelas de referência)
-
-macros/ — funções SQL reutilizáveis
-
-analyses/ e snapshots/ — não vamos usar nesse projeto
+models/ — Onde ficam as queries
+    - bronze/
+    - silver/
+    - gold/
 
 dbt_project.yml — arquivo de configuração central do projeto
 ```
