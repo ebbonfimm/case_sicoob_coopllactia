@@ -1,5 +1,7 @@
 # Coopllactia
 
+Feito por Eduardo Braga Bonfim
+
 ### Passo a passo da Criação da estrutura do projeto
 
 - Criação da Estrutura de pastas
@@ -66,6 +68,21 @@ dbt_project.yml — arquivo de configuração central do projeto
 Get-Content $env:USERPROFILE\.dbt\profiles.yml
 
 ---
+
+## Instruções de Execução do Projeto
+
+```
+1. Tenha o Docker os drivers do PostgrSQL isnstalados na máquina
+2. Navegue até o diretório do projeto com comando "cd"
+3. Execute o comando "docker-compose up -d" para subir a instância do banco
+4. Ainda dentro da pasta do projeto (.../coopllactia), crie uma .venv executando o comando "python -m venv .venv"
+5. Após criar, ative a .venv (comando varia de acordo com o SO)
+6. Execute "pip install -r requirements.txt" para instalar as dependências
+7. Executar o script "geracao_dados.py"
+8. Executar o script "ingestao_bronze.py"
+9. Feito tudo isso, navegue até a pasta dbt_project e execute o comando "dbt run" para rodar todos os models
+10. voilá, dados populados no PostgreSQL prontos para gerar Insights
+```
 
 ### Informações Extras:
 
