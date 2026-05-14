@@ -1,0 +1,21 @@
+id_rota,nome_rota,municipio_origem,km_total,veiculo_tipo,ativa
+1,Rota 01,Monte Carmelo,360.8,Caminhão Tanque,sim
+2,Rota 02,Uberlândia,76.0,Caminhão Tanque,Não
+3,Rota 03,Frutal,104.9,Carreta,Sim
+4,Rota 04,Ituiutaba,88.8,Caminhonete,Sim
+5,Rota 05,Ituiutaba,60.5,Carreta,Sim
+6,Rota 06,Ituiutaba,298.6,Caminhão Tanque,Não
+7,Rota 07,Uberaba,30.4,Caminhonete,SIM
+8,Rota 08,Paracatu,33.4,Carreta,Sim
+9,Rota 09,Frutal,286.8,Caminhonete,SIM
+10,Rota 10,Uberaba,68.2,Caminhonete,SIM
+11,Rota 11,Patos de Minas,55.3,Carreta,Sim
+12,Rota 12,Patos de Minas,192.8,Carreta,Sim
+13,Rota 13,Patos de Minas,370.4,Carreta,Não
+14,Rota 14,Uberaba,361.7,Caminhão Tanque,Sim
+15,Rota 15,Frutal,160.1,Caminhonete,Sim
+16,Rota 16,Araxá,132.5,Caminhão Tanque,Sim
+17,Rota 17,Ituiutaba,318.2,Carreta,Sim
+18,Rota 18,Ituiutaba,106.0,Carreta,Sim
+19,Rota 19,Ituiutaba,269.1,Caminhão Tanque,Não
+20,Rota 20,Araxá,214.8,Carreta,Sim

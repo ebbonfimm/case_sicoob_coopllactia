@@ -1,0 +1,29 @@
+sources:
+  - name: bronze
+    schema: bronze
+    description: "Camada Bronze — dados crus ingeridos pelo pipeline Python, com metadados de rastreabilidade."
+    tables:
+      - name: cooperados
+        description: "quem é a pessoa/empresa"
+      - name: coletas
+        description: "registro diário do volume de leite coletado em cada fazenda"
+      - name: produtos
+        description: "catálogo de produtos fabricados pela cooperativa"
+      - name: producao
+        description: "ordens de produção na planta industrial"
+      - name: clientes
+        description: "empresas ou pessoas que compram os produtos da cooperativa"
+      - name: pedidos
+        description: "cabeçalho de cada pedido de venda realizado"
+      - name: itens_pedido
+        description: "os produtos dentro de cada pedido, com quantidade e preço"
+      - name: rotas
+        description: "os trajetos utilizados para coleta e entrega"
+      - name: entregas
+        description: "execução logística de cada pedido, com prazo e custo de frete"
+      - name: custos_operacionais
+        description: "custos fixos e variáveis registrados por centro de custo"
+      - name: perdas
+        description: "ocorrências de perda de volume ou valor em qualquer etapa da cadeia"
+      - name: fazendas
+        description: "as propriedades do cooperado"

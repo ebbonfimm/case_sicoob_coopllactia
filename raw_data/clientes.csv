@@ -1,0 +1,201 @@
+id_cliente,nome_cliente,segmento,estado,cidade,cnpj,ativo
+1,Cliente 1,food service,DF,Cidade 28,,Sim
+2,Cliente 2,Exportação,PR,Cidade 16,92.258.283/0001-65,Sim
+3,Cliente 3,Food Service,MG,Cidade 44,,Sim
+4,Cliente 4,VAREJO,DF,,19.216.681/0001-85,Sim
+5,Cliente 5,Atacado,MG,Cidade 5,10.741.652/0001-10,Sim
+6,Cliente 6,Varejo,RJ,Cidade 37,95.938.970/0001-18,Sim
+7,Cliente 7,VAREJO,GO,Cidade 14,95.397.818/0001-43,Sim
+8,Cliente 8,Varejo,RJ,Cidade 9,92.809.375/0001-88,Sim
+9,Cliente 9,Food Service,RJ,Cidade 50,13.859.335/0001-51,Sim
+10,Cliente 10,varejo,SP,Cidade 14,15.349.429/0001-76,Sim
+11,Cliente 11,Varejo,SP,Cidade 16,35.396.626/0001-16,Sim
+12,Cliente 12,Atacado,RS,Cidade 7,,Sim
+13,Cliente 13,Food Service,BA,Cidade 6,22.321.160/0001-19,sim
+14,Cliente 14,exportação,SP,Cidade 43,37.707.455/0001-18,Sim
+15,Cliente 15,Exportação,BA,Cidade 41,45.270.798/0001-39,Não
+16,Cliente 16,Food Service,RJ,Cidade 48,15.906.842/0001-31,SIM
+17,Cliente 17,Exportação,MG,Cidade 45,43.339.621/0001-62,SIM
+18,Cliente 18,exportação,PR,Cidade 5,24.874.676/0001-28,SIM
+19,Cliente 19,Exportação,BA,Cidade 1,,Sim
+20,Cliente 20,Exportação,RS,Cidade 46,84.119.463/0001-87,Não
+21,Cliente 21,VAREJO,BA,Cidade 30,54.840.959/0001-71,Sim
+22,Cliente 22,FOOD SERVICE,RJ,Cidade 3,61.813.512/0001-11,Sim
+23,Cliente 23,Exportação,MG,Cidade 2,71.478.166/0001-67,Sim
+24,Cliente 24,Exportação,GO,Cidade 27,72.607.892/0001-73,sim
+25,Cliente 25,atacado,RJ,Cidade 47,,Sim
+26,Cliente 26,Atacado,MG,Cidade 34,40.299.840/0001-43,sim
+27,Cliente 27,Food Service,BA,Cidade 11,65.794.806/0001-10,Sim
+28,Cliente 28,Food Service,RS,Cidade 38,68.530.725/0001-86,Não
+29,Cliente 29,EXPORTAÇÃO,BA,Cidade 46,80.184.876/0001-69,Sim
+30,Cliente 30,Atacado,RJ,Cidade 20,46.645.691/0001-43,Sim
+31,Cliente 31,Varejo,RJ,Cidade 29,71.765.341/0001-48,Sim
+32,Cliente 32,Food Service,DF,,95.331.749/0001-12,sim
+33,Cliente 33,Varejo,DF,,97.251.105/0001-14,Sim
+34,Cliente 34,Exportação,BA,Cidade 27,87.385.512/0001-47,Sim
+35,Cliente 35,Atacado,PR,Cidade 30,48.765.504/0001-73,Sim
+36,Cliente 36,varejo,MG,Cidade 28,88.695.160/0001-67,Não
+37,Cliente 37,Food Service,GO,Cidade 27,15.149.402/0001-35,Sim
+38,Cliente 38,Exportação,PR,Cidade 40,94.276.412/0001-98,Sim
+39,Cliente 39,Exportação,GO,Cidade 21,34.688.579/0001-34,sim
+40,Cliente 40,Exportação,RS,Cidade 49,49.491.442/0001-24,Sim
+41,Cliente 41,Food Service,MG,Cidade 36,73.321.371/0001-63,Sim
+42,Cliente 42,Exportação,SP,Cidade 6,59.818.238/0001-36,Não
+43,Cliente 43,Atacado,RS,Cidade 12,42.579.338/0001-47,Sim
+44,Cliente 44,Varejo,PR,,46.360.526/0001-87,Não
+45,Cliente 45,Atacado,MG,Cidade 49,31.934.540/0001-42,Sim
+46,Cliente 46,Food Service,PR,Cidade 3,50.223.270/0001-62,Sim
+47,Cliente 47,Exportação,DF,Cidade 32,55.326.212/0001-96,NÃO
+48,Cliente 48,Exportação,RJ,Cidade 7,42.557.280/0001-30,Sim
+49,Cliente 49,Varejo,PR,,61.356.354/0001-70,Sim
+50,Cliente 50,VAREJO,RJ,Cidade 9,12.405.817/0001-31,Não
+51,Cliente 51,Food Service,MG,Cidade 9,25.953.745/0001-13,Sim
+52,Cliente 52,Exportação,RS,Cidade 9,14.766.526/0001-79,Não
+53,Cliente 53,Varejo,SP,Cidade 46,25.480.997/0001-14,sim
+54,Cliente 54,Atacado,SP,Cidade 22,61.830.509/0001-85,Sim
+55,Cliente 55,Varejo,GO,Cidade 29,50.763.568/0001-39,Não
+56,Cliente 56,Varejo,RS,Cidade 45,16.110.440/0001-73,Não
+57,Cliente 57,Atacado,PR,Cidade 24,45.419.208/0001-93,Não
+58,Cliente 58,Exportação,GO,Cidade 32,46.654.222/0001-15,Sim
+59,Cliente 59,Atacado,GO,Cidade 9,67.942.583/0001-51,Sim
+60,Cliente 60,ATACADO,GO,Cidade 40,15.618.825/0001-59,Não
+61,Cliente 61,Exportação,DF,Cidade 6,58.675.878/0001-47,Sim
+62,Cliente 62,Varejo,BA,Cidade 34,,Sim
+63,Cliente 63,Food Service,MG,Cidade 32,87.910.421/0001-13,sim
+64,Cliente 64,Food Service,RJ,Cidade 45,29.102.619/0001-94,Sim
+65,Cliente 65,Atacado,GO,Cidade 43,,Sim
+66,Cliente 66,FOOD SERVICE,SP,Cidade 17,13.589.315/0001-52,Sim
+67,Cliente 67,Exportação,MG,Cidade 24,43.268.985/0001-32,Sim
+68,Cliente 68,food service,RS,Cidade 28,82.900.328/0001-46,Não
+69,Cliente 69,ATACADO,DF,Cidade 4,67.392.709/0001-94,Sim
+70,Cliente 70,VAREJO,SP,Cidade 29,57.396.524/0001-78,Sim
+71,Cliente 71,Food Service,RS,Cidade 46,52.614.553/0001-11,Não
+72,Cliente 72,Varejo,SP,Cidade 23,72.537.919/0001-99,Sim
+73,Cliente 73,Varejo,GO,Cidade 31,66.214.340/0001-29,Sim
+74,Cliente 74,Varejo,DF,Cidade 50,86.191.759/0001-43,Sim
+75,Cliente 75,FOOD SERVICE,PR,Cidade 1,22.651.546/0001-57,não
+76,Cliente 76,Exportação,SP,Cidade 19,81.812.674/0001-42,Sim
+77,Cliente 77,Food Service,SP,Cidade 37,60.961.249/0001-46,Sim
+78,Cliente 78,Atacado,RJ,Cidade 11,42.351.736/0001-84,Não
+79,Cliente 79,Exportação,GO,Cidade 7,23.978.529/0001-46,SIM
+80,Cliente 80,Atacado,GO,Cidade 26,15.260.469/0001-37,Sim
+81,Cliente 81,Varejo,BA,Cidade 33,81.405.103/0001-80,Sim
+82,Cliente 82,Atacado,GO,Cidade 12,,sim
+83,Cliente 83,Atacado,BA,Cidade 8,60.513.317/0001-11,Sim
+84,Cliente 84,Exportação,DF,Cidade 21,,Sim
+85,Cliente 85,Atacado,RS,Cidade 32,73.803.114/0001-94,Sim
+86,Cliente 86,Varejo,SP,Cidade 12,63.313.647/0001-43,Sim
+87,Cliente 87,Exportação,BA,Cidade 16,75.714.133/0001-67,não
+88,Cliente 88,Atacado,RJ,Cidade 40,73.642.218/0001-76,Sim
+89,Cliente 89,Exportação,BA,Cidade 14,84.314.398/0001-45,Sim
+90,Cliente 90,Exportação,RS,Cidade 22,17.966.566/0001-92,Sim
+91,Cliente 91,Exportação,RS,Cidade 12,48.939.107/0001-19,Sim
+92,Cliente 92,Exportação,PR,Cidade 50,87.606.784/0001-79,SIM
+93,Cliente 93,Atacado,MG,Cidade 36,44.927.956/0001-89,Não
+94,Cliente 94,Exportação,DF,Cidade 31,83.920.761/0001-45,Sim
+95,Cliente 95,FOOD SERVICE,RS,Cidade 7,81.997.395/0001-98,Não
+96,Cliente 96,Varejo,RJ,Cidade 15,31.276.968/0001-31,SIM
+97,Cliente 97,Food Service,DF,Cidade 21,32.307.800/0001-89,Sim
+98,Cliente 98,Atacado,RS,Cidade 4,71.842.307/0001-14,Sim
+99,Cliente 99,ATACADO,DF,Cidade 22,90.776.127/0001-48,Sim
+100,Cliente 100,Varejo,DF,Cidade 32,96.657.295/0001-83,Não
+101,Cliente 101,Food Service,MG,Cidade 5,46.771.986/0001-95,Sim
+102,Cliente 102,Atacado,SP,Cidade 44,91.468.892/0001-87,Sim
+103,Cliente 103,Food Service,GO,Cidade 29,54.972.917/0001-27,Sim
+104,Cliente 104,Food Service,PR,Cidade 50,80.185.911/0001-77,sim
+105,Cliente 105,Atacado,PR,Cidade 34,57.722.474/0001-95,SIM
+106,Cliente 106,Atacado,DF,Cidade 5,,Não
+107,Cliente 107,Atacado,DF,Cidade 6,38.353.358/0001-87,Sim
+108,Cliente 108,Varejo,BA,Cidade 24,79.991.984/0001-43,Sim
+109,Cliente 109,Exportação,DF,Cidade 2,44.632.364/0001-40,Sim
+110,Cliente 110,varejo,BA,Cidade 13,43.511.401/0001-92,Não
+111,Cliente 111,Food Service,MG,,46.696.132/0001-13,Sim
+112,Cliente 112,Food Service,DF,Cidade 19,33.751.755/0001-69,sim
+113,Cliente 113,Food Service,SP,Cidade 50,11.667.608/0001-63,Sim
+114,Cliente 114,Exportação,DF,Cidade 23,75.263.346/0001-12,Sim
+115,Cliente 115,FOOD SERVICE,DF,Cidade 26,84.323.543/0001-27,Sim
+116,Cliente 116,Food Service,BA,Cidade 38,14.387.943/0001-62,Sim
+117,Cliente 117,Exportação,SP,Cidade 4,80.485.239/0001-66,Sim
+118,Cliente 118,Varejo,RJ,Cidade 37,96.505.100/0001-19,Sim
+119,Cliente 119,Exportação,MG,Cidade 14,,Sim
+120,Cliente 120,Food Service,MG,Cidade 31,32.628.313/0001-50,Não
+121,Cliente 121,Varejo,DF,Cidade 26,82.279.466/0001-57,Sim
+122,Cliente 122,Varejo,RS,Cidade 44,73.596.631/0001-51,Sim
+123,Cliente 123,Varejo,DF,,,Sim
+124,Cliente 124,Food Service,DF,Cidade 4,64.621.837/0001-60,Sim
+125,Cliente 125,VAREJO,MG,Cidade 27,61.371.476/0001-58,Sim
+126,Cliente 126,Exportação,DF,Cidade 1,55.277.473/0001-19,Não
+127,Cliente 127,ATACADO,PR,Cidade 6,40.348.997/0001-62,Não
+128,Cliente 128,FOOD SERVICE,RJ,Cidade 5,95.302.356/0001-14,Não
+129,Cliente 129,Exportação,SP,Cidade 47,23.676.298/0001-85,Sim
+130,Cliente 130,Varejo,GO,Cidade 25,58.530.297/0001-50,Sim
+131,Cliente 131,ATACADO,SP,Cidade 25,40.633.990/0001-16,Sim
+132,Cliente 132,Exportação,DF,Cidade 16,64.575.521/0001-41,Sim
+133,Cliente 133,Varejo,RJ,Cidade 46,87.423.557/0001-42,Sim
+134,Cliente 134,Food Service,DF,Cidade 18,88.448.754/0001-82,Sim
+135,Cliente 135,Exportação,RS,Cidade 48,82.988.836/0001-34,SIM
+136,Cliente 136,Food Service,PR,Cidade 11,39.574.419/0001-24,Sim
+137,Cliente 137,Atacado,DF,Cidade 2,65.506.205/0001-42,Sim
+138,Cliente 138,Atacado,PR,Cidade 21,28.214.458/0001-76,Sim
+139,Cliente 139,Varejo,DF,Cidade 29,78.374.444/0001-62,sim
+140,Cliente 140,Food Service,MG,Cidade 4,19.529.851/0001-30,Não
+141,Cliente 141,FOOD SERVICE,GO,Cidade 44,36.294.137/0001-39,sim
+142,Cliente 142,Atacado,SP,Cidade 44,18.919.633/0001-71,Sim
+143,Cliente 143,varejo,MG,,34.981.266/0001-21,sim
+144,Cliente 144,Food Service,DF,,22.295.670/0001-67,SIM
+145,Cliente 145,atacado,MG,Cidade 47,30.581.796/0001-73,Sim
+146,Cliente 146,Varejo,MG,,54.644.837/0001-71,Sim
+147,Cliente 147,Food Service,SP,Cidade 31,92.148.704/0001-87,Sim
+148,Cliente 148,Varejo,DF,Cidade 7,61.320.107/0001-52,Não
+149,Cliente 149,Atacado,MG,Cidade 5,79.246.528/0001-40,Sim
+150,Cliente 150,Varejo,DF,Cidade 16,15.218.163/0001-13,Sim
+151,Cliente 151,Exportação,RJ,Cidade 48,85.965.508/0001-59,Não
+152,Cliente 152,exportação,MG,Cidade 20,32.756.337/0001-52,NÃO
+153,Cliente 153,Atacado,MG,,25.571.192/0001-67,Sim
+154,Cliente 154,Exportação,BA,Cidade 7,37.319.893/0001-82,Sim
+155,Cliente 155,Food Service,PR,Cidade 27,80.390.691/0001-25,Sim
+156,Cliente 156,varejo,BA,Cidade 34,51.818.529/0001-25,Sim
+157,Cliente 157,Exportação,BA,Cidade 10,48.848.442/0001-18,Não
+158,Cliente 158,exportação,RS,Cidade 12,,sim
+159,Cliente 159,Exportação,RJ,Cidade 39,99.536.973/0001-66,Sim
+160,Cliente 160,Food Service,BA,Cidade 19,77.122.448/0001-45,Sim
+161,Cliente 161,Food Service,SP,Cidade 46,27.977.413/0001-87,Não
+162,Cliente 162,exportação,DF,Cidade 17,22.341.393/0001-83,Não
+163,Cliente 163,Exportação,MG,,94.385.242/0001-59,SIM
+164,Cliente 164,Atacado,DF,Cidade 2,65.686.340/0001-86,Sim
+165,Cliente 165,EXPORTAÇÃO,GO,Cidade 29,94.252.810/0001-35,Sim
+166,Cliente 166,Exportação,RJ,Cidade 29,31.759.172/0001-38,sim
+167,Cliente 167,Food Service,GO,Cidade 29,,Sim
+168,Cliente 168,Food Service,RJ,Cidade 30,79.949.104/0001-61,Sim
+169,Cliente 169,Varejo,BA,Cidade 28,23.368.871/0001-53,Sim
+170,Cliente 170,Atacado,MG,Cidade 29,40.686.340/0001-68,sim
+171,Cliente 171,Atacado,PR,Cidade 41,40.776.447/0001-77,sim
+172,Cliente 172,VAREJO,GO,Cidade 38,91.937.865/0001-66,sim
+173,Cliente 173,Varejo,DF,Cidade 39,65.629.925/0001-78,Sim
+174,Cliente 174,Varejo,PR,Cidade 6,74.626.582/0001-16,Não
+175,Cliente 175,ATACADO,RJ,Cidade 23,,Não
+176,Cliente 176,Atacado,BA,Cidade 10,72.349.863/0001-55,sim
+177,Cliente 177,Exportação,RJ,Cidade 5,26.918.194/0001-40,Sim
+178,Cliente 178,Atacado,MG,Cidade 15,57.635.741/0001-88,Sim
+179,Cliente 179,VAREJO,SP,,87.909.159/0001-12,não
+180,Cliente 180,Varejo,GO,Cidade 47,76.956.619/0001-84,Sim
+181,Cliente 181,Exportação,BA,Cidade 20,53.530.621/0001-92,Não
+182,Cliente 182,Atacado,RS,Cidade 22,70.406.655/0001-29,SIM
+183,Cliente 183,Exportação,MG,Cidade 8,,Sim
+184,Cliente 184,Food Service,BA,Cidade 16,82.653.168/0001-49,Não
+185,Cliente 185,atacado,RS,Cidade 6,37.593.953/0001-18,Não
+186,Cliente 186,Atacado,RS,Cidade 45,42.373.646/0001-57,sim
+187,Cliente 187,Food Service,PR,Cidade 31,45.735.172/0001-54,Sim
+188,Cliente 188,Varejo,RS,Cidade 6,92.216.611/0001-90,Sim
+189,Cliente 189,Exportação,GO,Cidade 27,14.430.591/0001-22,Sim
+190,Cliente 190,Food Service,MG,Cidade 1,49.546.314/0001-17,Sim
+191,Cliente 191,Food Service,RJ,Cidade 16,88.680.751/0001-20,Sim
+192,Cliente 192,Varejo,RJ,Cidade 24,68.586.282/0001-87,Sim
+193,Cliente 193,Varejo,DF,Cidade 3,48.109.108/0001-77,NÃO
+194,Cliente 194,Exportação,MG,Cidade 7,91.642.102/0001-20,Sim
+195,Cliente 195,varejo,BA,Cidade 13,40.323.856/0001-72,Não
+196,Cliente 196,Exportação,PR,Cidade 28,34.850.956/0001-64,Não
+197,Cliente 197,Food Service,GO,Cidade 7,,Sim
+198,Cliente 198,Food Service,RJ,Cidade 9,11.775.517/0001-23,NÃO
+199,Cliente 199,Exportação,BA,Cidade 15,,Sim
+200,Cliente 200,FOOD SERVICE,DF,Cidade 47,86.339.833/0001-45,SIM

@@ -1,0 +1,1001 @@
+id_custo,centro_custo,tipo_custo,descricao,valor,data_referencia,competencia
+1,Logística,Fixo,Mão de obra,143506.01,2024-07-15,2024-07
+2,Administrativo,Variável,Mão de obra,114287.93,2023-04-18,2023-04
+3,Comercial,fixo,Energia,73401.92,2024-08-03,2024-08
+4,Administrativo,variável,,132648.73,2023-09-20,2023-09
+5,Comercial,variável,Aluguel,58213.02,2023-02-06,2023-02
+6,Coleta,Variável,Mão de obra,16259.4,2024-10-24,2024-10
+7,Logística,VARIÁVEL,Combustível,30527.35,2023-11-19,2023-11
+8,Administrativo,Fixo,Mão de obra,22392.55,2024-01-02,2024-01
+9,Coleta,variável,Combustível,148643.37,2024-09-27,2024-09
+10,Comercial,Variável,Combustível,16247.28,2024-10-25,2024-10
+11,Administrativo,Fixo,Energia,104675.76,2024-06-30,2024-06
+12,Comercial,Variável,Combustível,33632.48,2024-08-07,2024-08
+13,Comercial,Variável,Mão de obra,91961.41,2024-07-10,2024-07
+14,Produção,Fixo,Energia,91106.69,2023-06-23,2023-06
+15,Produção,fixo,Combustível,77947.38,2023-10-31,2023-10
+16,Comercial,FIXO,Manutenção,128445.58,2023-06-11,2023-06
+17,Coleta,Variável,Aluguel,25541.26,2024-01-26,2024-01
+18,Coleta,Variável,Combustível,30952.58,2024-12-02,2024-12
+19,Comercial,VARIÁVEL,Energia,22239.08,2024-10-22,2024-10
+20,Administrativo,Fixo,Energia,131979.99,2024-10-25,2024-10
+21,Logística,variável,Energia,90010.93,2024-09-09,2024-09
+22,Coleta,Fixo,Energia,61807.18,2024-05-20,2024-05
+23,Coleta,Fixo,Aluguel,134707.13,2023-04-12,2023-04
+24,Logística,Fixo,Energia,133119.66,2023-08-21,2023-08
+25,Produção,Variável,Manutenção,133454.64,2023-08-31,2023-08
+26,Administrativo,VARIÁVEL,Energia,97563.43,2023-06-08,2023-06
+27,Coleta,Fixo,Energia,102427.61,2023-02-21,2023-02
+28,Comercial,Fixo,Mão de obra,12218.71,2024-05-29,2024-05
+29,Logística,Fixo,Manutenção,42460.06,2024-10-05,2024-10
+30,Administrativo,Fixo,Mão de obra,142905.97,2024-08-19,2024-08
+31,Comercial,Variável,Manutenção,5544.87,2024-01-22,2024-01
+32,Coleta,Variável,,88983.98,2024-02-22,2024-02
+33,Coleta,Variável,Manutenção,136298.72,2024-09-13,2024-09
+34,Produção,fixo,Combustível,82340.98,2023-06-12,2023-06
+35,Administrativo,Fixo,Manutenção,103782.62,2024-07-13,2024-07
+36,Logística,Variável,Energia,72756.48,2023-02-16,2023-02
+37,Administrativo,Fixo,Energia,69713.71,2024-07-04,2024-07
+38,Produção,Variável,Combustível,1374.17,2024-02-19,2024-02
+39,Administrativo,Variável,Aluguel,45300.15,2023-12-12,2023-12
+40,Logística,Variável,Mão de obra,39569.56,2023-08-17,2023-08
+41,Comercial,variável,Energia,136476.45,2024-09-20,2024-09
+42,Produção,VARIÁVEL,Aluguel,28164.98,2024-04-26,2024-04
+43,Comercial,Fixo,Aluguel,106783.25,2023-03-08,2023-03
+44,Coleta,fixo,Aluguel,120563.64,2024-10-01,2024-10
+45,Produção,Fixo,Manutenção,74985.41,2023-09-17,2023-09
+46,Coleta,Fixo,Manutenção,87530.43,2024-04-13,2024-04
+47,Produção,Variável,Aluguel,55312.98,2023-12-22,2023-12
+48,Produção,FIXO,Aluguel,24309.65,2024-08-03,2024-08
+49,Coleta,Variável,Combustível,6334.64,2024-11-23,2024-11
+50,Coleta,Variável,Mão de obra,89232.17,2024-10-05,2024-10
+51,Administrativo,VARIÁVEL,Combustível,52163.66,2023-10-27,2023-10
+52,Administrativo,Fixo,Mão de obra,14797.4,2024-12-03,2024-12
+53,Produção,Fixo,Manutenção,17577.73,2023-12-11,2023-12
+54,Administrativo,fixo,Energia,31765.08,2023-05-28,2023-05
+55,Logística,Variável,Aluguel,112818.36,2024-11-09,2024-11
+56,Produção,Variável,Combustível,100415.09,2023-05-25,2023-05
+57,Logística,Variável,Manutenção,35964.96,2023-01-25,2023-01
+58,Coleta,Variável,Mão de obra,8994.37,2024-07-07,2024-07
+59,Administrativo,Fixo,Manutenção,134246.98,2023-10-24,2023-10
+60,Logística,Fixo,Combustível,52942.43,2023-09-18,2023-09
+61,Produção,Variável,Combustível,67652.13,2023-08-03,2023-08
+62,Logística,Variável,Energia,17162.91,2024-02-25,2024-02
+63,Produção,variável,Aluguel,7185.82,2024-03-08,2024-03
+64,Comercial,Fixo,Aluguel,40928.85,2024-05-28,2024-05
+65,Comercial,VARIÁVEL,,133621.21,2024-01-21,2024-01
+66,Administrativo,Fixo,Mão de obra,96049.87,2024-11-04,2024-11
+67,Comercial,Variável,Mão de obra,118779.58,2023-10-13,2023-10
+68,Coleta,Variável,Aluguel,45619.95,2024-07-26,2024-07
+69,Produção,VARIÁVEL,Mão de obra,115200.16,2023-10-25,2023-10
+70,Coleta,Variável,Mão de obra,115787.55,2024-02-15,2024-02
+71,Coleta,Variável,Mão de obra,83184.86,2024-08-07,2024-08
+72,Logística,Fixo,Mão de obra,147705.26,2024-03-21,2024-03
+73,Comercial,Variável,Energia,111678.49,2023-03-21,2023-03
+74,Coleta,VARIÁVEL,Manutenção,115800.38,2024-03-24,2024-03
+75,Comercial,Fixo,Mão de obra,74324.11,2023-05-19,2023-05
+76,Comercial,Fixo,Manutenção,83660.78,2023-10-15,2023-10
+77,Produção,Variável,Energia,100855.69,2023-01-18,2023-01
+78,Comercial,Variável,Energia,24932.09,2024-02-25,2024-02
+79,Logística,Variável,Mão de obra,10409.03,2023-11-19,2023-11
+80,Logística,Fixo,Mão de obra,95749.47,2023-09-02,2023-09
+81,Produção,Fixo,Aluguel,116307.87,2024-05-15,2024-05
+82,Coleta,Fixo,Aluguel,91413.4,2023-03-03,2023-03
+83,Coleta,Fixo,Combustível,79624.87,2024-03-15,2024-03
+84,Coleta,Fixo,Combustível,95673.83,2024-03-10,2024-03
+85,Produção,Fixo,,106217.42,2023-07-29,2023-07
+86,Comercial,Fixo,Manutenção,90077.4,2023-12-24,2023-12
+87,Coleta,Variável,Combustível,38981.25,2024-12-16,2024-12
+88,Produção,Variável,Aluguel,68882.49,2024-01-02,2024-01
+89,Coleta,Fixo,Mão de obra,51006.5,2024-06-11,2024-06
+90,Produção,Fixo,Combustível,50102.13,2023-03-03,2023-03
+91,Administrativo,Fixo,Aluguel,709.08,2023-10-20,2023-10
+92,Produção,Variável,Manutenção,37384.8,2023-11-19,2023-11
+93,Produção,Variável,Manutenção,122967.14,2024-01-09,2024-01
+94,Produção,FIXO,Aluguel,102505.92,2023-09-25,2023-09
+95,Logística,Fixo,Aluguel,82543.74,2024-10-11,2024-10
+96,Administrativo,Variável,Mão de obra,56474.73,2024-10-07,2024-10
+97,Coleta,Variável,Aluguel,90831.88,2024-06-11,2024-06
+98,Coleta,fixo,Manutenção,83008.57,2023-03-26,2023-03
+99,Comercial,FIXO,Aluguel,1477.97,2023-05-22,2023-05
+100,Administrativo,Variável,Mão de obra,97104.89,2023-08-25,2023-08
+101,Comercial,Fixo,Aluguel,45608.32,2024-08-25,2024-08
+102,Produção,Fixo,Combustível,28988.08,2023-07-05,2023-07
+103,Logística,Fixo,Aluguel,105379.29,2024-01-15,2024-01
+104,Produção,Fixo,Manutenção,54846.55,2023-06-23,2023-06
+105,Logística,Fixo,Mão de obra,137644.26,2023-04-08,2023-04
+106,Comercial,Fixo,Mão de obra,90300.62,2023-02-01,2023-02
+107,Coleta,Fixo,Mão de obra,116487.8,2023-03-30,2023-03
+108,Logística,Fixo,Mão de obra,58146.15,2023-03-02,2023-03
+109,Produção,Variável,,54892.62,2024-03-14,2024-03
+110,Coleta,Fixo,Mão de obra,91632.16,25/10/2023,2023-10
+111,Logística,Fixo,Combustível,31995.8,2024-06-17,2024-06
+112,Administrativo,Variável,Manutenção,73082.29,2024-11-11,2024-11
+113,Administrativo,Variável,Aluguel,22552.31,2023-08-21,2023-08
+114,Administrativo,Variável,Combustível,105225.94,2023-08-06,2023-08
+115,Administrativo,fixo,Mão de obra,15578.63,2024-05-28,2024-05
+116,Comercial,Fixo,Energia,80870.77,2023-09-28,2023-09
+117,Produção,Variável,Combustível,113507.64,2023-02-27,2023-02
+118,Comercial,Variável,Aluguel,127035.14,2023-10-26,2023-10
+119,Comercial,Variável,Mão de obra,86208.88,2023-10-30,2023-10
+120,Logística,Fixo,Manutenção,49650.41,2024-11-12,2024-11
+121,Produção,Fixo,Manutenção,76516.93,10/07/2023,2023-07
+122,Comercial,Variável,Manutenção,149321.32,2023-05-14,2023-05
+123,Produção,Variável,Energia,36985.0,20/11/2023,2023-11
+124,Coleta,FIXO,Mão de obra,16184.32,2023-06-11,2023-06
+125,Produção,Fixo,Mão de obra,63817.11,2024-02-03,2024-02
+126,Administrativo,Variável,Mão de obra,133085.22,2023-04-13,2023-04
+127,Coleta,Variável,Manutenção,53281.42,2024-01-10,2024-01
+128,Administrativo,Variável,Aluguel,97649.65,2024-04-07,2024-04
+129,Logística,Fixo,Energia,46940.55,2024-09-20,2024-09
+130,Comercial,Fixo,Aluguel,70733.03,2023-09-16,2023-09
+131,Produção,Variável,Combustível,10812.68,2023-07-10,2023-07
+132,Administrativo,Variável,Aluguel,70568.72,2023-08-06,2023-08
+133,Produção,Fixo,Combustível,114741.17,2024-02-11,2024-02
+134,Comercial,Variável,Manutenção,18629.46,2024-10-05,2024-10
+135,Produção,Variável,Aluguel,89551.45,2024-07-18,2024-07
+136,Coleta,Fixo,Combustível,26147.0,2023-03-15,2023-03
+137,Produção,Variável,Mão de obra,35451.74,2023-09-06,2023-09
+138,Produção,Variável,Combustível,68350.05,2024-04-19,2024-04
+139,Administrativo,Variável,Aluguel,41101.64,2024-11-21,2024-11
+140,Produção,Fixo,Aluguel,44229.88,2024-10-31,2024-10
+141,Produção,Fixo,Manutenção,145246.3,2023-12-27,2023-12
+142,Logística,Variável,Aluguel,63283.25,2023-05-17,2023-05
+143,Coleta,Fixo,Energia,36069.56,2023-05-12,2023-05
+144,Coleta,Fixo,Combustível,24041.12,2023-04-27,2023-04
+145,Coleta,Variável,Energia,39179.39,2023-03-22,2023-03
+146,Administrativo,Variável,Energia,74441.87,2024-03-04,2024-03
+147,Comercial,Variável,Aluguel,19562.83,2024-03-18,2024-03
+148,Administrativo,Variável,Energia,108618.63,2024-05-01,2024-05
+149,Produção,FIXO,Combustível,42482.92,2024-08-13,2024-08
+150,Administrativo,Variável,Manutenção,146034.42,2024-06-24,2024-06
+151,Administrativo,FIXO,Manutenção,70787.7,2024-05-11,2024-05
+152,Comercial,Fixo,Energia,24516.81,2023-12-15,2023-12
+153,Produção,Variável,Aluguel,146655.7,2024-08-10,2024-08
+154,Logística,Variável,Aluguel,59476.78,2023-10-29,2023-10
+155,Administrativo,Fixo,Manutenção,108130.78,2023-01-24,2023-01
+156,Produção,Variável,Manutenção,118631.64,2024-11-12,2024-11
+157,Produção,Fixo,Aluguel,31604.87,2023-05-10,2023-05
+158,Administrativo,Fixo,Manutenção,47884.71,2023-03-06,2023-03
+159,Coleta,variável,,34319.87,2023-04-16,2023-04
+160,Logística,Fixo,Mão de obra,116926.4,2024-08-22,2024-08
+161,Logística,Fixo,Combustível,107663.49,2024-10-14,2024-10
+162,Administrativo,Variável,Combustível,36202.74,2023-09-12,2023-09
+163,Comercial,Variável,Manutenção,28205.18,2023-01-25,2023-01
+164,Comercial,Fixo,Aluguel,82955.69,2023-07-30,2023-07
+165,Comercial,VARIÁVEL,Aluguel,77123.89,2023-02-26,2023-02
+166,Administrativo,VARIÁVEL,Combustível,94721.08,2023-09-30,2023-09
+167,Produção,VARIÁVEL,Aluguel,58658.69,2023-04-07,2023-04
+168,Administrativo,Variável,Aluguel,81550.34,01/10/2024,2024-10
+169,Logística,Fixo,Energia,39106.18,2024-10-22,2024-10
+170,Coleta,Variável,Manutenção,102767.29,2024-06-29,2024-06
+171,Coleta,Variável,Manutenção,112173.13,2023-01-26,2023-01
+172,Coleta,Fixo,Manutenção,36403.37,2023-11-24,2023-11
+173,Logística,Variável,Mão de obra,44541.02,2024-02-07,2024-02
+174,Administrativo,Fixo,Energia,62253.25,2023-12-15,2023-12
+175,Comercial,Variável,Combustível,21022.07,2023-02-11,2023-02
+176,Coleta,Variável,Energia,4144.29,2024-05-26,2024-05
+177,Produção,Fixo,Combustível,145589.14,2023-09-11,2023-09
+178,Produção,Variável,Energia,16349.3,2023-09-06,2023-09
+179,Administrativo,Variável,Energia,125916.94,2023-12-10,2023-12
+180,Logística,FIXO,Aluguel,42658.36,2024-08-14,2024-08
+181,Comercial,Variável,Combustível,133568.6,2024-09-10,2024-09
+182,Comercial,FIXO,Aluguel,119137.4,2024-10-25,2024-10
+183,Coleta,FIXO,Mão de obra,120939.01,2023-11-29,2023-11
+184,Produção,Fixo,Energia,95013.0,2023-05-10,2023-05
+185,Produção,Variável,Manutenção,90113.65,2023-02-21,2023-02
+186,Logística,Fixo,Manutenção,6305.93,2023-03-01,2023-03
+187,Coleta,Fixo,Mão de obra,82296.67,2024-03-24,2024-03
+188,Logística,Variável,Combustível,1557.4,2024-03-13,2024-03
+189,Administrativo,Variável,Mão de obra,68175.16,2023-07-29,2023-07
+190,Produção,Variável,Aluguel,3978.74,2023-02-11,2023-02
+191,Comercial,Variável,,40765.47,2023-03-03,2023-03
+192,Coleta,Fixo,Energia,62590.21,2024-10-08,2024-10
+193,Comercial,Variável,Mão de obra,27693.6,2024-09-09,2024-09
+194,Coleta,Variável,Manutenção,101312.98,2024-05-01,2024-05
+195,Coleta,Fixo,Combustível,19408.09,2023-11-20,2023-11
+196,Comercial,Fixo,Energia,34365.39,2023-10-11,2023-10
+197,Produção,variável,Mão de obra,47140.34,2023-10-18,2023-10
+198,Administrativo,Variável,Combustível,73383.2,2023-05-17,2023-05
+199,Comercial,Fixo,Mão de obra,16617.0,2023-08-28,2023-08
+200,Coleta,Variável,Mão de obra,51906.09,2024-06-26,2024-06
+201,Administrativo,VARIÁVEL,Manutenção,12890.09,2024-07-24,2024-07
+202,Logística,Variável,Energia,50396.77,2024-05-09,2024-05
+203,Logística,FIXO,Energia,83820.35,2024-12-22,2024-12
+204,Coleta,Fixo,Combustível,111109.74,2023-03-27,2023-03
+205,Produção,VARIÁVEL,Aluguel,95329.25,2023-05-19,2023-05
+206,Coleta,Variável,Aluguel,101586.19,2023-08-13,2023-08
+207,Comercial,FIXO,Energia,103368.66,2023-02-14,2023-02
+208,Comercial,fixo,Mão de obra,87980.56,2024-09-18,2024-09
+209,Coleta,Fixo,Aluguel,42510.9,2024-02-21,2024-02
+210,Comercial,FIXO,Manutenção,67159.88,2024-10-12,2024-10
+211,Administrativo,Variável,Manutenção,63334.78,2023-01-30,2023-01
+212,Comercial,VARIÁVEL,Manutenção,56516.7,2024-07-27,2024-07
+213,Logística,Fixo,Mão de obra,84138.96,2024-09-03,2024-09
+214,Coleta,Fixo,Aluguel,24663.6,2024-11-19,2024-11
+215,Administrativo,Fixo,Mão de obra,130888.59,2024-06-29,2024-06
+216,Coleta,Fixo,Energia,83150.61,2024-08-16,2024-08
+217,Produção,fixo,Energia,51032.25,2023-08-22,2023-08
+218,Comercial,Fixo,Manutenção,69734.36,2024-11-10,2024-11
+219,Coleta,Fixo,Combustível,134371.72,2024-03-26,2024-03
+220,Coleta,Variável,Mão de obra,80001.49,2023-07-16,2023-07
+221,Coleta,Fixo,Aluguel,2315.2,2023-05-12,2023-05
+222,Coleta,Variável,Manutenção,9100.72,2023-06-28,2023-06
+223,Administrativo,Fixo,Combustível,17107.94,2024-08-05,2024-08
+224,Administrativo,VARIÁVEL,Combustível,44982.48,2024-03-19,2024-03
+225,Produção,Variável,Combustível,116694.84,2023-01-08,2023-01
+226,Administrativo,FIXO,Mão de obra,120958.44,2023-01-27,2023-01
+227,Administrativo,Fixo,Aluguel,78054.11,2023-12-21,2023-12
+228,Comercial,Fixo,Mão de obra,21194.68,2023-08-15,2023-08
+229,Logística,FIXO,Aluguel,95261.11,2023-05-21,2023-05
+230,Produção,Fixo,Energia,28609.68,2024-05-24,2024-05
+231,Comercial,Fixo,Combustível,79043.52,2023-07-07,2023-07
+232,Produção,FIXO,Energia,134770.74,2024-08-27,2024-08
+233,Logística,Variável,Aluguel,54443.5,2024-08-02,2024-08
+234,Produção,fixo,Manutenção,100787.26,2023-11-29,2023-11
+235,Administrativo,fixo,Mão de obra,71396.07,2023-11-03,2023-11
+236,Administrativo,Variável,Manutenção,4893.15,2023-02-19,2023-02
+237,Administrativo,Fixo,Manutenção,76152.34,2023-10-17,2023-10
+238,Coleta,Variável,Combustível,91562.53,23/06/2024,2024-06
+239,Coleta,variável,Aluguel,90308.21,2023-05-25,2023-05
+240,Logística,variável,Combustível,40109.17,2024-07-13,2024-07
+241,Coleta,Variável,Mão de obra,111098.25,2023-07-16,2023-07
+242,Administrativo,Fixo,Mão de obra,38130.21,2023-03-19,2023-03
+243,Comercial,Variável,Manutenção,114932.81,2023-02-12,2023-02
+244,Comercial,Variável,Combustível,43937.43,2023-05-25,2023-05
+245,Coleta,Fixo,Energia,11626.79,2024-04-08,2024-04
+246,Produção,variável,Manutenção,91724.21,2024-02-14,2024-02
+247,Comercial,Variável,Manutenção,118107.26,2023-10-01,2023-10
+248,Administrativo,variável,Energia,136979.96,2023-10-20,2023-10
+249,Logística,Variável,Manutenção,28647.47,2023-03-13,2023-03
+250,Coleta,Fixo,Manutenção,8338.96,2024-07-01,2024-07
+251,Produção,Fixo,Energia,111202.22,2024-11-02,2024-11
+252,Comercial,fixo,Combustível,127830.22,2024-02-20,2024-02
+253,Administrativo,Fixo,Manutenção,8858.24,2023-03-28,2023-03
+254,Coleta,Variável,Energia,70399.93,2023-06-22,2023-06
+255,Coleta,Variável,Aluguel,116329.38,2024-02-06,2024-02
+256,Produção,variável,Mão de obra,107031.03,2024-02-03,2024-02
+257,Logística,fixo,Manutenção,104941.99,2023-04-27,2023-04
+258,Produção,Fixo,Manutenção,61236.38,2024-02-29,2024-02
+259,Logística,Variável,Aluguel,26572.65,2024-10-04,2024-10
+260,Logística,Fixo,Energia,116293.19,2024-07-12,2024-07
+261,Comercial,Variável,Energia,81576.71,2023-01-19,2023-01
+262,Administrativo,VARIÁVEL,Combustível,119068.24,2023-07-08,2023-07
+263,Coleta,VARIÁVEL,Combustível,30227.98,2023-06-23,2023-06
+264,Administrativo,fixo,Energia,16441.46,2023-09-11,2023-09
+265,Comercial,fixo,Energia,6335.28,2023-09-18,2023-09
+266,Administrativo,VARIÁVEL,Energia,67474.88,2023-08-06,2023-08
+267,Produção,Fixo,Mão de obra,12005.62,2024-02-27,2024-02
+268,Produção,fixo,Combustível,21823.83,2023-06-25,2023-06
+269,Comercial,Variável,Energia,78796.77,2023-07-25,2023-07
+270,Logística,fixo,Manutenção,88542.49,2023-10-06,2023-10
+271,Coleta,Variável,Combustível,41240.04,2024-04-17,2024-04
+272,Coleta,Fixo,Aluguel,70661.66,2023-09-06,2023-09
+273,Logística,VARIÁVEL,Combustível,75438.31,2024-07-31,2024-07
+274,Produção,Fixo,Aluguel,2643.05,2023-07-05,2023-07
+275,Logística,Fixo,Mão de obra,2258.54,2024-12-12,2024-12
+276,Comercial,Variável,Manutenção,63680.81,2024-07-03,2024-07
+277,Coleta,Variável,Mão de obra,51243.43,2024-05-17,2024-05
+278,Comercial,Fixo,Combustível,98666.61,2023-04-21,2023-04
+279,Produção,Fixo,Mão de obra,112568.89,2024-01-18,2024-01
+280,Logística,FIXO,Combustível,45257.0,2024-07-01,2024-07
+281,Logística,Fixo,,17007.5,2023-01-29,2023-01
+282,Coleta,Fixo,Aluguel,28844.15,2024-05-20,2024-05
+283,Administrativo,Fixo,Energia,37661.4,08/07/2024,2024-07
+284,Coleta,Variável,Manutenção,69850.35,2023-09-13,2023-09
+285,Produção,Fixo,Combustível,140622.97,2023-06-05,2023-06
+286,Logística,Variável,Combustível,28047.77,2023-05-11,2023-05
+287,Administrativo,Variável,Aluguel,101974.69,2024-03-08,2024-03
+288,Produção,variável,Energia,39021.55,24/05/2023,2023-05
+289,Comercial,Fixo,Manutenção,137497.29,2024-04-29,2024-04
+290,Coleta,Variável,Energia,119314.5,2024-03-10,2024-03
+291,Logística,Variável,Energia,63204.19,2024-10-30,2024-10
+292,Comercial,Variável,Combustível,131256.23,2023-04-18,2023-04
+293,Administrativo,FIXO,Aluguel,12037.94,2023-12-02,2023-12
+294,Logística,Fixo,Energia,56880.43,2023-01-27,2023-01
+295,Comercial,Fixo,Energia,14195.27,30/12/2023,2023-12
+296,Logística,Fixo,Aluguel,24450.14,2024-09-15,2024-09
+297,Administrativo,VARIÁVEL,Energia,59984.04,2024-01-08,2024-01
+298,Produção,Fixo,Aluguel,120823.39,2024-08-07,2024-08
+299,Comercial,Fixo,Mão de obra,69032.82,2024-08-16,2024-08
+300,Produção,Fixo,Aluguel,80120.34,2024-09-30,2024-09
+301,Comercial,Variável,Aluguel,64938.31,2023-05-09,2023-05
+302,Administrativo,variável,Combustível,78141.63,2024-02-07,2024-02
+303,Produção,Variável,Manutenção,61125.12,2024-07-31,2024-07
+304,Logística,Variável,Mão de obra,134541.36,2023-10-18,2023-10
+305,Coleta,FIXO,Manutenção,20232.94,2023-07-14,2023-07
+306,Produção,Variável,Energia,17830.33,13/01/2024,2024-01
+307,Logística,Variável,Energia,53142.34,2024-07-13,2024-07
+308,Administrativo,Variável,Aluguel,140134.75,2024-02-20,2024-02
+309,Administrativo,Variável,Aluguel,9567.42,2023-03-25,2023-03
+310,Administrativo,FIXO,Energia,110222.9,2024-12-19,2024-12
+311,Coleta,Fixo,Aluguel,17522.26,2024-01-05,2024-01
+312,Logística,Variável,Energia,9295.97,2023-07-26,2023-07
+313,Produção,Variável,Manutenção,40404.22,2023-09-14,2023-09
+314,Coleta,Variável,Mão de obra,49463.82,2023-10-04,2023-10
+315,Logística,fixo,Energia,122113.79,2024-04-15,2024-04
+316,Logística,Fixo,Energia,44714.43,10/11/2024,2024-11
+317,Administrativo,Variável,,147791.97,2023-08-20,2023-08
+318,Comercial,Variável,Aluguel,47997.62,2024-08-29,2024-08
+319,Produção,Variável,Aluguel,77392.74,2023-02-08,2023-02
+320,Comercial,FIXO,Aluguel,68442.82,2024-12-06,2024-12
+321,Coleta,Variável,Manutenção,111995.85,2023-01-05,2023-01
+322,Produção,Variável,Energia,115786.72,2024-07-08,2024-07
+323,Produção,FIXO,Combustível,69632.14,2023-02-24,2023-02
+324,Coleta,fixo,Energia,88510.11,2023-03-26,2023-03
+325,Administrativo,Variável,Manutenção,80017.63,2023-04-04,2023-04
+326,Produção,Fixo,Combustível,96918.26,2024-05-20,2024-05
+327,Comercial,FIXO,Aluguel,83818.12,2023-12-05,2023-12
+328,Logística,Fixo,Manutenção,89268.62,2024-09-11,2024-09
+329,Produção,VARIÁVEL,Energia,50063.37,2023-05-07,2023-05
+330,Coleta,Fixo,Manutenção,59097.95,2024-09-20,2024-09
+331,Comercial,variável,Mão de obra,118783.26,2023-02-01,2023-02
+332,Produção,variável,Manutenção,63998.18,2024-05-02,2024-05
+333,Coleta,Fixo,Combustível,54381.42,2024-03-02,2024-03
+334,Logística,fixo,Manutenção,13946.24,2023-03-31,2023-03
+335,Coleta,VARIÁVEL,Mão de obra,82639.87,2023-10-07,2023-10
+336,Coleta,Variável,Manutenção,25147.99,2023-01-04,2023-01
+337,Produção,Fixo,Aluguel,139728.19,2023-12-31,2023-12
+338,Coleta,Variável,Combustível,123977.1,2024-10-10,2024-10
+339,Coleta,Variável,Manutenção,15540.55,2024-05-23,2024-05
+340,Administrativo,FIXO,Aluguel,69139.14,2024-12-15,2024-12
+341,Produção,Variável,,81585.2,2023-01-30,2023-01
+342,Coleta,Variável,Mão de obra,51590.77,04/02/2023,2023-02
+343,Produção,Variável,Energia,50510.03,2023-07-20,2023-07
+344,Comercial,Variável,Combustível,90331.47,2023-03-11,2023-03
+345,Administrativo,Fixo,Energia,22269.62,2024-05-23,2024-05
+346,Produção,Variável,Mão de obra,98306.88,2023-05-10,2023-05
+347,Coleta,Fixo,Mão de obra,55898.1,2024-12-06,2024-12
+348,Administrativo,Fixo,Aluguel,134540.61,2023-11-13,2023-11
+349,Coleta,Variável,Energia,109575.93,2024-09-18,2024-09
+350,Comercial,Fixo,Energia,91712.56,2023-07-10,2023-07
+351,Logística,Fixo,Aluguel,33794.3,2024-08-09,2024-08
+352,Comercial,Variável,Manutenção,71745.32,2023-12-09,2023-12
+353,Produção,Fixo,Aluguel,31426.72,2023-05-26,2023-05
+354,Comercial,Variável,Mão de obra,28038.81,2024-01-28,2024-01
+355,Coleta,Variável,Combustível,17758.74,2023-06-19,2023-06
+356,Coleta,Fixo,Combustível,88242.46,2023-07-26,2023-07
+357,Logística,Fixo,Aluguel,113902.48,2024-04-18,2024-04
+358,Produção,Variável,,80993.79,2023-09-28,2023-09
+359,Comercial,Fixo,Manutenção,79244.87,2023-02-18,2023-02
+360,Coleta,fixo,Combustível,126892.61,2023-09-17,2023-09
+361,Produção,Variável,Manutenção,7163.36,2024-09-01,2024-09
+362,Logística,Variável,Energia,8439.98,2024-04-25,2024-04
+363,Comercial,Fixo,Combustível,108757.47,2023-01-06,2023-01
+364,Logística,Variável,Energia,130095.71,2023-12-13,2023-12
+365,Comercial,Fixo,Manutenção,78218.47,2023-03-10,2023-03
+366,Logística,Fixo,Manutenção,99000.33,2023-05-18,2023-05
+367,Comercial,variável,Mão de obra,33413.99,2023-01-31,2023-01
+368,Logística,VARIÁVEL,Energia,84174.23,2023-05-28,2023-05
+369,Administrativo,VARIÁVEL,Manutenção,87418.39,2024-11-14,2024-11
+370,Logística,Fixo,Combustível,39756.2,02/01/2024,2024-01
+371,Produção,Fixo,,109867.69,2024-09-20,2024-09
+372,Coleta,Fixo,Manutenção,34798.29,2024-07-31,2024-07
+373,Produção,Variável,Combustível,137408.88,2023-03-28,2023-03
+374,Comercial,Fixo,Aluguel,101086.77,2023-02-12,2023-02
+375,Administrativo,Fixo,Aluguel,81168.12,2024-05-30,2024-05
+376,Administrativo,Variável,Combustível,92643.97,2024-03-07,2024-03
+377,Coleta,Variável,Combustível,124456.52,2024-04-28,2024-04
+378,Comercial,FIXO,Aluguel,77971.04,2023-09-10,2023-09
+379,Comercial,Variável,Mão de obra,67983.01,2023-04-19,2023-04
+380,Coleta,VARIÁVEL,Manutenção,26916.69,2023-02-02,2023-02
+381,Logística,Fixo,Energia,43379.29,2024-09-30,2024-09
+382,Produção,Fixo,Mão de obra,52838.04,2024-08-05,2024-08
+383,Administrativo,Variável,,5730.17,2024-09-30,2024-09
+384,Coleta,Variável,Mão de obra,57586.21,2023-03-29,2023-03
+385,Produção,Variável,Combustível,41754.71,2023-04-03,2023-04
+386,Logística,Variável,Mão de obra,37547.8,2023-12-30,2023-12
+387,Administrativo,Variável,Aluguel,132745.58,2024-08-07,2024-08
+388,Coleta,Fixo,Combustível,78088.76,2024-05-03,2024-05
+389,Produção,Variável,Manutenção,103168.18,2024-10-17,2024-10
+390,Coleta,Variável,Manutenção,38423.01,2024-12-13,2024-12
+391,Produção,Fixo,Combustível,74456.07,2023-06-12,2023-06
+392,Administrativo,Variável,Combustível,6841.27,2023-06-06,2023-06
+393,Comercial,Fixo,Combustível,85437.32,2023-11-29,2023-11
+394,Logística,Fixo,Mão de obra,110454.18,2023-01-27,2023-01
+395,Produção,VARIÁVEL,Combustível,56451.32,2024-07-17,2024-07
+396,Logística,variável,,52445.2,2023-02-23,2023-02
+397,Comercial,VARIÁVEL,Manutenção,103687.26,2023-05-01,2023-05
+398,Comercial,Variável,Manutenção,44164.81,2024-10-09,2024-10
+399,Produção,fixo,Mão de obra,26178.86,2024-11-20,2024-11
+400,Logística,Fixo,Energia,51077.78,2024-03-27,2024-03
+401,Comercial,Fixo,Aluguel,12820.96,2024-06-21,2024-06
+402,Logística,Fixo,Mão de obra,101794.36,2023-04-14,2023-04
+403,Administrativo,VARIÁVEL,Combustível,29997.06,2024-12-05,2024-12
+404,Administrativo,Variável,Aluguel,24155.27,2023-03-23,2023-03
+405,Comercial,Fixo,Combustível,149017.4,2024-05-28,2024-05
+406,Administrativo,Fixo,Manutenção,77670.28,2024-09-29,2024-09
+407,Coleta,Fixo,Energia,137642.42,2024-08-30,2024-08
+408,Logística,Variável,Energia,55128.41,2023-06-04,2023-06
+409,Logística,Variável,Mão de obra,77649.14,2024-12-19,2024-12
+410,Administrativo,FIXO,Manutenção,6897.69,2023-06-18,2023-06
+411,Comercial,Fixo,Manutenção,99389.77,2024-03-25,2024-03
+412,Logística,Fixo,Combustível,107615.9,2023-02-06,2023-02
+413,Administrativo,Variável,Combustível,52070.74,2023-12-22,2023-12
+414,Produção,Fixo,Manutenção,86101.16,2024-03-23,2024-03
+415,Logística,Fixo,Energia,46702.87,2023-12-28,2023-12
+416,Comercial,Variável,Combustível,12008.93,2024-04-13,2024-04
+417,Comercial,Fixo,Mão de obra,61663.07,2024-08-15,2024-08
+418,Administrativo,FIXO,Manutenção,79431.8,2024-08-01,2024-08
+419,Logística,Fixo,Energia,6875.68,2024-03-25,2024-03
+420,Comercial,Fixo,Manutenção,78294.7,02/11/2023,2023-11
+421,Produção,Fixo,Energia,58874.66,2023-01-16,2023-01
+422,Comercial,Fixo,Aluguel,137766.87,2024-05-21,2024-05
+423,Logística,Variável,Energia,57745.21,2024-09-16,2024-09
+424,Administrativo,Fixo,Aluguel,144164.04,2024-02-06,2024-02
+425,Coleta,Variável,Energia,119098.43,07/06/2023,2023-06
+426,Logística,Fixo,Aluguel,56097.44,2024-06-28,2024-06
+427,Logística,Fixo,Combustível,135076.28,2023-02-19,2023-02
+428,Produção,FIXO,Energia,96621.04,2023-08-16,2023-08
+429,Comercial,Fixo,Mão de obra,31511.85,2023-10-29,2023-10
+430,Coleta,Fixo,Mão de obra,65321.57,2024-10-13,2024-10
+431,Produção,Variável,Manutenção,99636.46,2024-07-19,2024-07
+432,Produção,Variável,Aluguel,73843.28,2024-05-02,2024-05
+433,Logística,Fixo,Energia,24860.79,2024-09-09,2024-09
+434,Coleta,Variável,Mão de obra,35230.51,22/04/2024,2024-04
+435,Comercial,Fixo,Energia,112862.34,2023-02-14,2023-02
+436,Produção,Fixo,Manutenção,37916.62,2024-05-20,2024-05
+437,Coleta,Fixo,Combustível,108291.27,2023-08-29,2023-08
+438,Administrativo,Fixo,,111192.41,2023-05-15,2023-05
+439,Comercial,fixo,Energia,129138.76,27/05/2024,2024-05
+440,Produção,Variável,Energia,64884.09,2024-08-19,2024-08
+441,Comercial,Variável,Aluguel,79183.04,2023-03-20,2023-03
+442,Comercial,Fixo,Energia,145912.8,2023-03-28,2023-03
+443,Administrativo,Fixo,Combustível,147964.56,2024-03-29,2024-03
+444,Administrativo,Variável,Energia,23762.04,2024-01-31,2024-01
+445,Comercial,Fixo,Energia,76163.91,2023-01-15,2023-01
+446,Logística,Fixo,Aluguel,57268.86,2023-08-20,2023-08
+447,Produção,Variável,Manutenção,85349.24,2023-08-18,2023-08
+448,Comercial,Fixo,Mão de obra,104878.21,2023-06-25,2023-06
+449,Logística,Fixo,Manutenção,76165.06,2024-05-20,2024-05
+450,Coleta,Fixo,Combustível,105030.96,2024-01-28,2024-01
+451,Produção,Variável,Manutenção,147006.96,2024-02-22,2024-02
+452,Logística,Variável,Energia,84277.01,2024-01-01,2024-01
+453,Administrativo,variável,Aluguel,113285.62,2024-03-10,2024-03
+454,Comercial,Fixo,Combustível,108448.39,2023-04-23,2023-04
+455,Comercial,Fixo,Manutenção,102830.42,2023-03-23,2023-03
+456,Administrativo,Variável,Energia,116305.49,2023-04-17,2023-04
+457,Coleta,FIXO,Mão de obra,39897.94,2023-06-30,2023-06
+458,Logística,Fixo,Aluguel,139031.41,2023-05-27,2023-05
+459,Coleta,Fixo,Aluguel,114158.27,2023-11-14,2023-11
+460,Coleta,Fixo,Mão de obra,6986.87,2024-09-10,2024-09
+461,Administrativo,variável,Combustível,101937.06,2024-10-20,2024-10
+462,Administrativo,Fixo,Mão de obra,79643.06,2023-02-14,2023-02
+463,Administrativo,Variável,Energia,19038.61,2023-11-12,2023-11
+464,Logística,Variável,Aluguel,1341.94,2023-03-05,2023-03
+465,Administrativo,Fixo,Mão de obra,41949.76,2023-10-21,2023-10
+466,Comercial,Fixo,Combustível,12818.68,2024-06-16,2024-06
+467,Logística,Fixo,Energia,28786.0,2024-03-30,2024-03
+468,Comercial,Variável,Aluguel,19134.02,2023-05-09,2023-05
+469,Logística,Variável,Aluguel,60651.65,2023-11-12,2023-11
+470,Produção,variável,Manutenção,84793.09,2024-10-31,2024-10
+471,Comercial,Variável,Mão de obra,141784.29,2024-12-15,2024-12
+472,Coleta,Variável,Mão de obra,144531.44,2024-09-25,2024-09
+473,Comercial,Fixo,Energia,107237.46,2023-02-15,2023-02
+474,Logística,Fixo,Mão de obra,29795.48,2023-06-10,2023-06
+475,Logística,Fixo,Aluguel,128018.23,2024-07-31,2024-07
+476,Administrativo,Fixo,Manutenção,126682.86,2023-10-05,2023-10
+477,Comercial,Fixo,Energia,60932.4,2024-08-13,2024-08
+478,Produção,Variável,Combustível,121309.62,2024-04-24,2024-04
+479,Administrativo,Variável,Aluguel,102212.89,2023-07-22,2023-07
+480,Logística,Fixo,Mão de obra,118915.65,2023-11-19,2023-11
+481,Comercial,Variável,Manutenção,61794.57,2023-05-04,2023-05
+482,Produção,Fixo,Combustível,139795.99,2023-02-20,2023-02
+483,Coleta,Fixo,Aluguel,48403.17,2023-12-05,2023-12
+484,Comercial,Variável,Manutenção,116955.41,2024-08-28,2024-08
+485,Produção,VARIÁVEL,Aluguel,2247.64,2024-01-17,2024-01
+486,Comercial,Variável,Energia,20486.01,2023-05-16,2023-05
+487,Comercial,Variável,Mão de obra,66753.84,09/01/2023,2023-01
+488,Administrativo,FIXO,Energia,96879.45,2024-07-28,2024-07
+489,Produção,Variável,Aluguel,110802.06,2023-12-20,2023-12
+490,Comercial,Fixo,Energia,132073.18,2023-05-20,2023-05
+491,Produção,Fixo,Mão de obra,11812.68,2023-08-22,2023-08
+492,Administrativo,Variável,Manutenção,119271.35,2023-08-01,2023-08
+493,Produção,Fixo,Aluguel,60044.4,2024-07-28,2024-07
+494,Comercial,Fixo,Manutenção,107195.81,2023-10-05,2023-10
+495,Comercial,Fixo,Aluguel,46717.2,2024-01-17,2024-01
+496,Coleta,Variável,Mão de obra,139167.91,2023-07-01,2023-07
+497,Administrativo,FIXO,Manutenção,27752.95,2024-12-23,2024-12
+498,Produção,variável,Aluguel,122974.77,2024-02-15,2024-02
+499,Produção,Fixo,Combustível,20141.27,2023-12-26,2023-12
+500,Logística,Variável,Combustível,45184.41,2024-04-08,2024-04
+501,Administrativo,Variável,Mão de obra,133806.95,2023-03-28,2023-03
+502,Coleta,Variável,Combustível,134304.03,2024-03-28,2024-03
+503,Administrativo,Fixo,Energia,120266.89,2024-06-30,2024-06
+504,Administrativo,Fixo,Combustível,28620.36,2024-06-26,2024-06
+505,Administrativo,Fixo,Energia,49092.7,2024-05-27,2024-05
+506,Coleta,Fixo,,7415.7,2024-12-27,2024-12
+507,Comercial,Variável,Manutenção,90025.61,2023-11-13,2023-11
+508,Coleta,Variável,Combustível,67824.56,2023-06-24,2023-06
+509,Administrativo,Fixo,Manutenção,19257.3,2024-09-06,2024-09
+510,Administrativo,Fixo,Manutenção,51407.62,2023-07-20,2023-07
+511,Comercial,Fixo,Combustível,115556.16,2024-02-20,2024-02
+512,Produção,Fixo,Aluguel,23765.06,2023-12-04,2023-12
+513,Administrativo,Fixo,Combustível,56897.14,2023-03-09,2023-03
+514,Logística,variável,Mão de obra,103381.48,2024-06-01,2024-06
+515,Administrativo,FIXO,Aluguel,141677.46,2023-08-14,2023-08
+516,Logística,Fixo,Combustível,10291.53,2024-06-28,2024-06
+517,Administrativo,Fixo,Energia,79663.2,2023-01-28,2023-01
+518,Produção,variável,Energia,114138.93,2023-03-05,2023-03
+519,Produção,VARIÁVEL,Manutenção,5039.27,28/09/2024,2024-09
+520,Administrativo,Fixo,Energia,28599.45,2023-05-24,2023-05
+521,Coleta,fixo,Manutenção,61599.69,2023-10-18,2023-10
+522,Produção,variável,Energia,65279.48,2023-07-23,2023-07
+523,Logística,fixo,Combustível,16004.65,2024-11-05,2024-11
+524,Comercial,Fixo,Aluguel,65024.03,2023-10-11,2023-10
+525,Comercial,Fixo,Combustível,22395.13,2023-12-11,2023-12
+526,Logística,VARIÁVEL,Aluguel,149128.31,2024-01-20,2024-01
+527,Produção,fixo,,1508.19,2024-01-13,2024-01
+528,Produção,variável,Energia,8794.9,2024-06-20,2024-06
+529,Logística,Fixo,Combustível,131581.02,2024-03-13,2024-03
+530,Comercial,Fixo,Combustível,77152.84,2024-09-18,2024-09
+531,Administrativo,Variável,Energia,84401.84,2023-09-06,2023-09
+532,Comercial,fixo,Energia,22592.73,2023-07-14,2023-07
+533,Logística,Variável,Combustível,139525.96,2023-11-24,2023-11
+534,Logística,FIXO,Combustível,39597.54,2023-11-06,2023-11
+535,Administrativo,Variável,Manutenção,103418.87,2023-04-11,2023-04
+536,Logística,Variável,Mão de obra,14836.57,2024-10-27,2024-10
+537,Comercial,Fixo,Aluguel,71231.71,2024-05-15,2024-05
+538,Comercial,Variável,Aluguel,12977.37,2023-09-06,2023-09
+539,Logística,Fixo,Mão de obra,18641.96,2024-08-19,2024-08
+540,Logística,Variável,Combustível,113316.31,2024-04-08,2024-04
+541,Logística,Variável,Combustível,85538.35,2023-03-23,2023-03
+542,Administrativo,Fixo,Mão de obra,41763.6,2024-12-20,2024-12
+543,Coleta,Variável,Energia,117891.54,2023-07-08,2023-07
+544,Administrativo,Variável,Combustível,79954.09,2024-11-14,2024-11
+545,Administrativo,Fixo,Combustível,141627.6,2024-12-06,2024-12
+546,Administrativo,Variável,Manutenção,41060.1,2023-05-17,2023-05
+547,Produção,FIXO,Mão de obra,130419.64,2023-04-06,2023-04
+548,Coleta,Variável,Mão de obra,69325.71,2024-02-18,2024-02
+549,Produção,Fixo,Combustível,89747.93,2023-02-10,2023-02
+550,Comercial,Fixo,Combustível,58836.47,2023-02-02,2023-02
+551,Logística,FIXO,Combustível,36155.97,2023-01-25,2023-01
+552,Logística,Fixo,Mão de obra,69388.48,14/09/2023,2023-09
+553,Coleta,Variável,Aluguel,119830.48,2023-01-21,2023-01
+554,Produção,Variável,Aluguel,66276.81,2023-08-30,2023-08
+555,Produção,Variável,Combustível,24424.97,2023-03-18,2023-03
+556,Logística,Fixo,Mão de obra,7546.98,2023-06-27,2023-06
+557,Logística,Fixo,Combustível,92516.31,2024-02-20,2024-02
+558,Comercial,Variável,Aluguel,80427.14,2023-03-12,2023-03
+559,Comercial,FIXO,Combustível,93274.67,2024-08-02,2024-08
+560,Logística,Variável,Aluguel,114953.85,2023-03-23,2023-03
+561,Comercial,Fixo,Combustível,147998.5,2023-04-25,2023-04
+562,Comercial,Variável,Mão de obra,41277.45,2024-07-14,2024-07
+563,Coleta,Fixo,Manutenção,138807.92,2024-04-05,2024-04
+564,Logística,Fixo,Energia,65882.77,2024-08-04,2024-08
+565,Logística,Fixo,Aluguel,33822.94,2024-12-29,2024-12
+566,Logística,Fixo,Combustível,148718.48,2024-07-17,2024-07
+567,Coleta,Variável,Combustível,92604.6,2024-07-09,2024-07
+568,Produção,Variável,Mão de obra,13075.46,2023-06-11,2023-06
+569,Coleta,Fixo,Aluguel,92941.57,2024-10-03,2024-10
+570,Logística,Fixo,,90745.65,2024-05-22,2024-05
+571,Logística,Fixo,,91550.29,2024-11-21,2024-11
+572,Logística,Fixo,Mão de obra,78861.59,2024-01-12,2024-01
+573,Coleta,Variável,Aluguel,28543.89,2023-10-01,2023-10
+574,Produção,Variável,Combustível,53789.08,2023-09-02,2023-09
+575,Administrativo,Variável,Manutenção,6763.44,2023-08-17,2023-08
+576,Administrativo,variável,Combustível,60694.08,2023-02-11,2023-02
+577,Produção,Fixo,Manutenção,43437.32,2024-12-02,2024-12
+578,Coleta,Variável,Combustível,9907.87,2024-09-02,2024-09
+579,Coleta,Variável,Combustível,31715.83,2023-02-28,2023-02
+580,Comercial,Fixo,Energia,100263.53,2024-03-01,2024-03
+581,Logística,Variável,Mão de obra,83839.87,2023-11-29,2023-11
+582,Administrativo,Variável,Combustível,21211.48,2023-06-08,2023-06
+583,Coleta,Variável,Energia,103116.38,2023-02-19,2023-02
+584,Administrativo,Fixo,Aluguel,81481.64,2024-02-19,2024-02
+585,Comercial,Variável,Combustível,7630.23,2024-05-11,2024-05
+586,Administrativo,Variável,Combustível,61218.3,2023-09-11,2023-09
+587,Comercial,FIXO,,42240.89,2023-11-30,2023-11
+588,Administrativo,Variável,Aluguel,103816.79,2023-12-28,2023-12
+589,Comercial,variável,Energia,72069.91,22/05/2023,2023-05
+590,Produção,Fixo,Combustível,144170.81,2023-09-02,2023-09
+591,Produção,Variável,Energia,29477.44,2023-11-04,2023-11
+592,Comercial,variável,Manutenção,10476.95,22/07/2023,2023-07
+593,Administrativo,Fixo,Combustível,53119.52,2024-11-16,2024-11
+594,Comercial,variável,Combustível,75176.96,2023-09-13,2023-09
+595,Logística,Fixo,Aluguel,147577.25,2023-09-14,2023-09
+596,Produção,FIXO,Manutenção,149032.8,2023-05-25,2023-05
+597,Logística,Fixo,Manutenção,9080.77,2023-09-10,2023-09
+598,Administrativo,Fixo,,15380.88,2024-12-16,2024-12
+599,Produção,Variável,Mão de obra,100086.47,2023-11-22,2023-11
+600,Administrativo,VARIÁVEL,Manutenção,75967.11,2023-10-10,2023-10
+601,Administrativo,Fixo,Manutenção,114641.17,2023-06-14,2023-06
+602,Administrativo,Variável,Manutenção,24355.1,2023-03-08,2023-03
+603,Administrativo,variável,Mão de obra,117474.97,2023-10-22,2023-10
+604,Logística,Fixo,Combustível,90302.91,2023-12-01,2023-12
+605,Produção,Variável,Manutenção,123814.7,2023-12-08,2023-12
+606,Coleta,Fixo,Mão de obra,7891.97,2023-08-01,2023-08
+607,Logística,Variável,Mão de obra,90568.85,2024-11-29,2024-11
+608,Administrativo,Fixo,Mão de obra,142576.97,2024-12-04,2024-12
+609,Administrativo,Fixo,Aluguel,104747.03,2024-03-28,2024-03
+610,Coleta,fixo,Aluguel,105680.9,2023-05-03,2023-05
+611,Comercial,Fixo,Energia,73919.9,2023-03-19,2023-03
+612,Produção,VARIÁVEL,Energia,73079.71,2023-11-16,2023-11
+613,Comercial,Variável,Combustível,147196.18,2024-01-01,2024-01
+614,Administrativo,Fixo,Energia,75906.62,2024-04-15,2024-04
+615,Coleta,Fixo,Aluguel,131956.03,2023-11-29,2023-11
+616,Coleta,Variável,Energia,134613.65,2024-01-17,2024-01
+617,Coleta,Fixo,Manutenção,4265.28,2023-11-24,2023-11
+618,Comercial,FIXO,Aluguel,64319.61,2023-08-04,2023-08
+619,Produção,Fixo,Energia,88336.04,2024-04-05,2024-04
+620,Coleta,FIXO,Aluguel,33597.43,2024-01-02,2024-01
+621,Logística,Variável,Energia,127893.54,2023-09-22,2023-09
+622,Logística,Fixo,Mão de obra,103971.66,2023-05-16,2023-05
+623,Coleta,Fixo,Energia,50290.92,2024-03-05,2024-03
+624,Logística,Variável,Aluguel,91081.76,2023-12-01,2023-12
+625,Coleta,Variável,Manutenção,47004.23,2023-11-07,2023-11
+626,Administrativo,Variável,Manutenção,20838.06,2023-12-24,2023-12
+627,Produção,Variável,Aluguel,59802.83,2024-08-10,2024-08
+628,Coleta,Fixo,Energia,54271.7,2023-09-08,2023-09
+629,Administrativo,VARIÁVEL,Aluguel,118585.49,2023-12-20,2023-12
+630,Produção,Variável,Combustível,25990.94,2024-03-14,2024-03
+631,Coleta,fixo,Aluguel,41191.08,2023-03-07,2023-03
+632,Coleta,Fixo,Aluguel,63146.92,2023-09-24,2023-09
+633,Comercial,VARIÁVEL,Combustível,137784.27,2023-11-28,2023-11
+634,Comercial,fixo,Energia,47180.34,2024-03-08,2024-03
+635,Coleta,VARIÁVEL,Combustível,56929.26,2024-11-21,2024-11
+636,Administrativo,Fixo,Manutenção,82385.3,2023-03-16,2023-03
+637,Produção,fixo,Aluguel,140698.58,2024-12-01,2024-12
+638,Coleta,fixo,Energia,13525.68,2023-11-15,2023-11
+639,Produção,Variável,Manutenção,143166.77,2023-09-21,2023-09
+640,Coleta,Fixo,Energia,89914.36,2024-02-03,2024-02
+641,Comercial,Fixo,Energia,119934.92,2023-03-05,2023-03
+642,Administrativo,Variável,Combustível,51555.2,2024-04-06,2024-04
+643,Comercial,fixo,Mão de obra,116468.8,2023-06-16,2023-06
+644,Logística,fixo,Aluguel,141208.15,2024-05-16,2024-05
+645,Logística,Variável,Aluguel,2355.87,2023-04-23,2023-04
+646,Produção,Fixo,Aluguel,21978.71,2024-08-31,2024-08
+647,Coleta,Fixo,Energia,149648.43,2024-05-05,2024-05
+648,Comercial,Variável,Aluguel,64435.4,2024-11-19,2024-11
+649,Logística,Variável,Mão de obra,32801.5,2024-07-01,2024-07
+650,Logística,Fixo,Energia,6036.23,11/07/2024,2024-07
+651,Administrativo,VARIÁVEL,Aluguel,108632.24,2023-11-22,2023-11
+652,Produção,fixo,Mão de obra,135808.06,2023-02-27,2023-02
+653,Coleta,Fixo,,8677.08,2024-11-21,2024-11
+654,Comercial,Fixo,Manutenção,31766.58,18/06/2023,2023-06
+655,Produção,Fixo,Energia,143976.64,2024-06-16,2024-06
+656,Produção,fixo,,10501.58,19/06/2024,2024-06
+657,Logística,Fixo,Mão de obra,146514.02,2024-09-19,2024-09
+658,Logística,Fixo,Manutenção,64311.35,2023-10-15,2023-10
+659,Logística,Variável,Combustível,49961.15,2023-12-27,2023-12
+660,Coleta,Variável,Mão de obra,31049.11,2023-02-06,2023-02
+661,Logística,Variável,Energia,87622.56,01/12/2024,2024-12
+662,Logística,Fixo,Mão de obra,82253.88,2023-03-14,2023-03
+663,Logística,VARIÁVEL,Energia,53599.85,2024-11-06,2024-11
+664,Logística,Fixo,Energia,23852.66,2023-04-12,2023-04
+665,Administrativo,variável,Manutenção,124336.64,2024-10-30,2024-10
+666,Coleta,Fixo,Manutenção,121093.57,2024-02-03,2024-02
+667,Administrativo,Fixo,Combustível,8836.0,2023-09-07,2023-09
+668,Administrativo,Fixo,Manutenção,27764.51,2024-07-30,2024-07
+669,Logística,Variável,Combustível,11659.99,2023-06-25,2023-06
+670,Comercial,variável,Energia,133041.23,2024-06-25,2024-06
+671,Logística,Variável,Energia,53748.84,2024-05-23,2024-05
+672,Administrativo,Variável,Energia,65840.58,2024-12-20,2024-12
+673,Logística,Variável,Aluguel,3531.77,2023-04-13,2023-04
+674,Comercial,Fixo,Combustível,31615.07,2024-10-19,2024-10
+675,Produção,Variável,Aluguel,91639.16,2024-10-30,2024-10
+676,Produção,Variável,Manutenção,53633.4,2024-01-08,2024-01
+677,Logística,Fixo,Combustível,20336.89,2024-09-12,2024-09
+678,Logística,variável,,39154.19,2024-04-06,2024-04
+679,Coleta,Variável,Combustível,133415.16,2024-07-04,2024-07
+680,Administrativo,VARIÁVEL,,127905.63,2024-07-29,2024-07
+681,Logística,Fixo,Manutenção,141803.96,2024-11-25,2024-11
+682,Comercial,Fixo,Mão de obra,49783.45,2024-06-15,2024-06
+683,Coleta,Fixo,,22702.76,2023-11-24,2023-11
+684,Coleta,FIXO,Aluguel,70330.99,2024-04-30,2024-04
+685,Comercial,Fixo,Mão de obra,80400.2,2023-03-07,2023-03
+686,Comercial,FIXO,Combustível,95261.26,2023-04-05,2023-04
+687,Administrativo,Fixo,Mão de obra,35273.51,2023-08-01,2023-08
+688,Logística,VARIÁVEL,Manutenção,36963.88,2023-05-30,2023-05
+689,Comercial,Fixo,Aluguel,28000.72,2024-11-22,2024-11
+690,Coleta,Fixo,Aluguel,98386.9,2023-10-31,2023-10
+691,Produção,Variável,Mão de obra,51668.15,09/03/2024,2024-03
+692,Administrativo,Variável,Combustível,21271.93,2024-06-24,2024-06
+693,Produção,Fixo,Aluguel,60348.72,2024-12-23,2024-12
+694,Administrativo,variável,Combustível,89650.78,2024-07-10,2024-07
+695,Logística,Fixo,Manutenção,33629.35,2024-10-17,2024-10
+696,Produção,Variável,Energia,75089.68,2024-06-06,2024-06
+697,Comercial,Fixo,Aluguel,61449.39,2023-11-15,2023-11
+698,Comercial,Fixo,Manutenção,35458.9,2024-01-24,2024-01
+699,Comercial,Fixo,Mão de obra,5673.72,2023-05-07,2023-05
+700,Logística,Variável,,30187.4,2024-01-05,2024-01
+701,Administrativo,Fixo,Energia,22916.53,2024-11-01,2024-11
+702,Comercial,Fixo,Energia,51767.33,2023-09-04,2023-09
+703,Produção,Variável,Manutenção,81166.31,2024-05-01,2024-05
+704,Logística,Variável,Mão de obra,110069.75,2023-07-19,2023-07
+705,Logística,Variável,Mão de obra,33154.49,2023-05-14,2023-05
+706,Comercial,VARIÁVEL,Combustível,28765.88,2023-08-24,2023-08
+707,Coleta,VARIÁVEL,Manutenção,83745.7,2024-05-14,2024-05
+708,Coleta,VARIÁVEL,Aluguel,91333.9,2024-03-22,2024-03
+709,Logística,Fixo,Energia,28993.41,2023-07-27,2023-07
+710,Logística,FIXO,Manutenção,65289.83,2024-07-18,2024-07
+711,Coleta,Fixo,Manutenção,75199.55,2024-06-12,2024-06
+712,Comercial,Variável,Mão de obra,97122.75,2024-07-05,2024-07
+713,Comercial,Variável,Energia,95052.15,2024-03-16,2024-03
+714,Produção,Variável,Manutenção,92354.27,2023-05-30,2023-05
+715,Administrativo,Variável,Aluguel,122053.46,2023-01-11,2023-01
+716,Comercial,Variável,Combustível,35956.25,2024-05-27,2024-05
+717,Coleta,VARIÁVEL,Aluguel,144613.89,18/06/2024,2024-06
+718,Coleta,VARIÁVEL,Energia,36675.33,2024-04-27,2024-04
+719,Administrativo,VARIÁVEL,Aluguel,104017.01,2024-07-29,2024-07
+720,Produção,Fixo,Mão de obra,108664.65,2024-10-09,2024-10
+721,Produção,Variável,Manutenção,107588.64,2023-12-28,2023-12
+722,Comercial,Variável,Combustível,136377.89,2024-12-19,2024-12
+723,Logística,Fixo,Energia,31444.82,2024-05-10,2024-05
+724,Produção,Fixo,Combustível,73911.15,2024-07-07,2024-07
+725,Comercial,Variável,Combustível,88026.82,2023-12-11,2023-12
+726,Coleta,Variável,Mão de obra,149175.48,2023-11-27,2023-11
+727,Produção,Fixo,Aluguel,129773.87,2024-03-18,2024-03
+728,Administrativo,Variável,Mão de obra,32694.74,2023-09-05,2023-09
+729,Produção,Fixo,Manutenção,129562.61,2024-03-09,2024-03
+730,Produção,fixo,Energia,75712.13,2024-06-14,2024-06
+731,Administrativo,Fixo,Aluguel,134659.23,2024-06-07,2024-06
+732,Logística,Fixo,Energia,65702.65,2024-05-05,2024-05
+733,Coleta,Fixo,Mão de obra,74137.01,2023-10-05,2023-10
+734,Produção,Variável,Aluguel,121195.09,2023-12-07,2023-12
+735,Produção,Fixo,Manutenção,125209.26,2024-01-29,2024-01
+736,Logística,FIXO,Manutenção,64126.51,2024-01-20,2024-01
+737,Produção,variável,Manutenção,80136.19,2023-11-23,2023-11
+738,Produção,Variável,Manutenção,55315.99,2024-12-15,2024-12
+739,Administrativo,Variável,Energia,53762.95,2023-02-17,2023-02
+740,Comercial,Variável,Mão de obra,120642.84,2023-01-31,2023-01
+741,Comercial,Variável,Energia,132088.7,2023-06-15,2023-06
+742,Comercial,Variável,,49262.28,2024-05-30,2024-05
+743,Comercial,Fixo,Energia,145449.98,2023-03-21,2023-03
+744,Coleta,Variável,Energia,90935.56,2023-05-15,2023-05
+745,Coleta,Fixo,Energia,27866.03,2024-11-25,2024-11
+746,Administrativo,variável,Mão de obra,25100.96,2023-03-16,2023-03
+747,Comercial,Fixo,,124983.06,2024-08-24,2024-08
+748,Comercial,variável,Mão de obra,64567.26,2024-08-01,2024-08
+749,Administrativo,Fixo,Manutenção,128381.04,2023-01-29,2023-01
+750,Produção,VARIÁVEL,Mão de obra,69080.12,2023-03-20,2023-03
+751,Logística,VARIÁVEL,Aluguel,42510.64,2023-07-19,2023-07
+752,Administrativo,Fixo,Aluguel,145142.97,2023-08-05,2023-08
+753,Coleta,Fixo,Mão de obra,130838.78,2024-07-12,2024-07
+754,Logística,Variável,Aluguel,70112.17,2023-10-11,2023-10
+755,Administrativo,Variável,Combustível,41540.8,2023-01-21,2023-01
+756,Coleta,Fixo,Energia,42891.27,2023-02-05,2023-02
+757,Comercial,Fixo,Aluguel,32842.86,2023-01-11,2023-01
+758,Comercial,Fixo,Combustível,102040.15,2023-10-26,2023-10
+759,Administrativo,variável,Combustível,88610.54,2024-05-11,2024-05
+760,Administrativo,Fixo,Manutenção,125076.95,2023-05-20,2023-05
+761,Coleta,VARIÁVEL,Energia,98355.64,15/12/2024,2024-12
+762,Produção,Variável,Manutenção,93860.77,2024-06-15,2024-06
+763,Produção,Variável,Mão de obra,120309.41,2024-08-26,2024-08
+764,Comercial,Fixo,Mão de obra,119672.13,2023-12-03,2023-12
+765,Logística,Variável,Aluguel,15443.91,2024-03-18,2024-03
+766,Logística,Variável,Manutenção,45072.49,2024-05-17,2024-05
+767,Administrativo,Fixo,Aluguel,105181.59,2023-08-30,2023-08
+768,Administrativo,Fixo,Manutenção,50067.06,2024-12-13,2024-12
+769,Coleta,Variável,Aluguel,56993.63,2024-04-25,2024-04
+770,Produção,Fixo,Aluguel,138444.33,2023-01-17,2023-01
+771,Produção,Fixo,Mão de obra,23434.27,2024-05-19,2024-05
+772,Comercial,Fixo,Mão de obra,103959.82,23/09/2024,2024-09
+773,Coleta,Variável,Mão de obra,9880.39,2023-05-10,2023-05
+774,Comercial,Variável,Aluguel,148984.79,2024-10-25,2024-10
+775,Produção,FIXO,Energia,10494.88,2024-12-20,2024-12
+776,Coleta,Fixo,Aluguel,56499.53,2024-10-16,2024-10
+777,Coleta,Fixo,Mão de obra,124817.69,2023-04-09,2023-04
+778,Administrativo,Variável,Aluguel,131650.62,2023-09-10,2023-09
+779,Logística,Fixo,Mão de obra,85976.06,2023-06-15,2023-06
+780,Administrativo,Fixo,Aluguel,110693.04,2023-05-23,2023-05
+781,Comercial,Fixo,Manutenção,97508.01,2024-03-24,2024-03
+782,Administrativo,Variável,Manutenção,88904.03,2024-04-22,2024-04
+783,Produção,Variável,Aluguel,10860.32,2024-10-12,2024-10
+784,Coleta,Variável,,142690.96,2023-12-12,2023-12
+785,Logística,Fixo,Manutenção,61788.84,2024-06-20,2024-06
+786,Comercial,FIXO,Energia,9383.79,2024-06-28,2024-06
+787,Comercial,Fixo,Mão de obra,6937.21,2024-11-09,2024-11
+788,Produção,VARIÁVEL,Aluguel,70140.58,2023-06-10,2023-06
+789,Administrativo,variável,Mão de obra,67945.93,2024-03-24,2024-03
+790,Coleta,Fixo,Mão de obra,81352.84,2024-07-23,2024-07
+791,Comercial,Variável,Mão de obra,68970.47,2024-11-20,2024-11
+792,Coleta,Fixo,Combustível,32553.23,2023-10-18,2023-10
+793,Administrativo,VARIÁVEL,Manutenção,22358.46,2024-09-18,2024-09
+794,Comercial,Fixo,,108503.94,2024-06-04,2024-06
+795,Comercial,Variável,Mão de obra,62813.87,2024-03-28,2024-03
+796,Administrativo,FIXO,Manutenção,130514.0,2023-12-03,2023-12
+797,Logística,Fixo,Combustível,85493.88,2024-07-19,2024-07
+798,Administrativo,Variável,Combustível,28149.76,2023-07-15,2023-07
+799,Comercial,Fixo,Manutenção,132088.61,2023-04-08,2023-04
+800,Comercial,variável,Aluguel,87985.1,2024-12-13,2024-12
+801,Coleta,Fixo,Mão de obra,38383.89,2024-02-09,2024-02
+802,Coleta,fixo,Energia,148710.1,2024-11-28,2024-11
+803,Produção,Variável,Energia,27297.01,2023-04-09,2023-04
+804,Produção,Fixo,Mão de obra,97690.84,2024-06-28,2024-06
+805,Logística,Variável,Combustível,85001.72,2023-10-25,2023-10
+806,Logística,Fixo,Mão de obra,69072.57,2023-05-26,2023-05
+807,Coleta,Variável,Mão de obra,21020.51,2024-06-03,2024-06
+808,Produção,Variável,Energia,28031.55,2023-02-19,2023-02
+809,Coleta,Variável,Aluguel,85182.37,2024-10-18,2024-10
+810,Logística,Variável,Manutenção,82859.57,2023-02-08,2023-02
+811,Logística,Variável,Energia,135949.9,2024-09-23,2024-09
+812,Logística,Fixo,,117064.46,2024-12-01,2024-12
+813,Logística,Variável,Energia,21420.28,2023-05-18,2023-05
+814,Coleta,VARIÁVEL,Aluguel,24724.18,2024-10-05,2024-10
+815,Logística,Variável,Aluguel,75833.34,2023-11-29,2023-11
+816,Coleta,Variável,Energia,30406.6,2023-02-06,2023-02
+817,Produção,Variável,Aluguel,86675.53,2023-12-26,2023-12
+818,Logística,Fixo,Aluguel,914.75,22/07/2023,2023-07
+819,Comercial,Variável,Energia,116367.05,2023-01-29,2023-01
+820,Coleta,Variável,Combustível,47241.91,2024-02-25,2024-02
+821,Coleta,Variável,Energia,51970.11,2024-08-03,2024-08
+822,Logística,VARIÁVEL,Mão de obra,103852.63,2024-06-09,2024-06
+823,Comercial,Variável,Mão de obra,12254.18,2023-02-15,2023-02
+824,Administrativo,Variável,Combustível,128478.37,2023-11-10,2023-11
+825,Produção,Fixo,Combustível,76948.39,2023-01-19,2023-01
+826,Coleta,Fixo,Mão de obra,118060.72,2023-06-06,2023-06
+827,Administrativo,Fixo,Energia,50392.84,2023-05-01,2023-05
+828,Coleta,Fixo,Energia,37973.91,2024-07-13,2024-07
+829,Administrativo,Fixo,Energia,57290.39,2023-09-23,2023-09
+830,Coleta,Fixo,Energia,130214.56,2024-09-24,2024-09
+831,Coleta,Fixo,Aluguel,116910.51,2023-01-08,2023-01
+832,Coleta,Variável,Manutenção,115973.78,2023-06-17,2023-06
+833,Logística,Variável,,145067.73,2023-06-06,2023-06
+834,Comercial,Variável,Manutenção,64128.53,2024-07-27,2024-07
+835,Administrativo,fixo,Mão de obra,148768.36,2024-08-02,2024-08
+836,Comercial,Fixo,Combustível,86964.85,2024-11-04,2024-11
+837,Comercial,Variável,Energia,37762.35,2024-01-04,2024-01
+838,Comercial,Fixo,Manutenção,11644.29,2023-08-31,2023-08
+839,Logística,Fixo,Combustível,94739.98,2023-04-02,2023-04
+840,Coleta,Fixo,Manutenção,133791.27,2024-06-07,2024-06
+841,Logística,Fixo,Aluguel,103229.43,2024-06-30,2024-06
+842,Comercial,Fixo,Mão de obra,57658.05,2023-03-11,2023-03
+843,Administrativo,Fixo,Aluguel,149316.2,2024-08-25,2024-08
+844,Comercial,Variável,Energia,4245.33,2023-07-03,2023-07
+845,Coleta,Fixo,Mão de obra,38310.23,2024-02-27,2024-02
+846,Coleta,Fixo,Aluguel,117873.65,2023-03-03,2023-03
+847,Coleta,FIXO,Mão de obra,39422.3,2023-11-17,2023-11
+848,Coleta,Variável,Combustível,15638.3,2024-04-11,2024-04
+849,Comercial,Fixo,,22274.71,2023-01-04,2023-01
+850,Coleta,Variável,Mão de obra,100678.65,2024-07-03,2024-07
+851,Administrativo,variável,Combustível,96307.58,2023-08-16,2023-08
+852,Comercial,Variável,Combustível,11832.29,2024-06-16,2024-06
+853,Administrativo,VARIÁVEL,Mão de obra,37509.17,2024-12-05,2024-12
+854,Produção,Fixo,,29763.55,2023-05-13,2023-05
+855,Administrativo,Variável,Energia,120183.93,2023-08-15,2023-08
+856,Coleta,Variável,Mão de obra,87825.36,2023-12-18,2023-12
+857,Comercial,Fixo,Aluguel,48036.01,2023-05-10,2023-05
+858,Administrativo,Fixo,Aluguel,11507.55,2024-03-06,2024-03
+859,Logística,Fixo,Aluguel,135986.77,2023-12-01,2023-12
+860,Logística,Variável,Manutenção,8785.27,27/02/2023,2023-02
+861,Produção,Variável,Manutenção,103705.68,2023-06-21,2023-06
+862,Produção,Fixo,Combustível,33479.37,2023-08-06,2023-08
+863,Logística,Variável,Aluguel,115091.36,2023-02-10,2023-02
+864,Coleta,variável,Combustível,99470.17,2024-06-12,2024-06
+865,Coleta,VARIÁVEL,Aluguel,125823.81,2024-03-17,2024-03
+866,Coleta,VARIÁVEL,Aluguel,131867.83,2024-02-16,2024-02
+867,Logística,Fixo,Energia,25895.26,2023-08-25,2023-08
+868,Produção,fixo,Mão de obra,55702.81,2024-07-23,2024-07
+869,Coleta,Fixo,Mão de obra,144361.48,2024-03-23,2024-03
+870,Logística,Fixo,Manutenção,91010.27,2024-12-29,2024-12
+871,Comercial,Fixo,Energia,30152.42,2024-08-04,2024-08
+872,Comercial,Fixo,Manutenção,113820.21,2023-12-06,2023-12
+873,Logística,Fixo,Combustível,4157.63,2023-05-29,2023-05
+874,Comercial,Fixo,Combustível,8870.83,2024-05-24,2024-05
+875,Coleta,Fixo,Mão de obra,103505.92,2024-09-21,2024-09
+876,Produção,Variável,Energia,83639.41,2023-07-16,2023-07
+877,Administrativo,Variável,Mão de obra,84943.63,2023-08-25,2023-08
+878,Comercial,FIXO,Mão de obra,130658.1,2023-09-14,2023-09
+879,Coleta,Fixo,Manutenção,86142.49,2024-07-05,2024-07
+880,Coleta,Variável,Aluguel,52052.73,2024-01-03,2024-01
+881,Comercial,Variável,Mão de obra,14344.02,2023-08-25,2023-08
+882,Produção,Variável,Combustível,117005.0,2023-07-17,2023-07
+883,Coleta,FIXO,Mão de obra,117483.93,2024-11-24,2024-11
+884,Produção,fixo,Energia,115326.3,2024-06-13,2024-06
+885,Administrativo,Variável,Combustível,19296.12,2023-02-14,2023-02
+886,Produção,Fixo,Energia,36912.69,2023-03-26,2023-03
+887,Comercial,Fixo,Manutenção,102745.29,2024-10-14,2024-10
+888,Administrativo,Variável,Aluguel,26566.47,2024-11-03,2024-11
+889,Comercial,fixo,Mão de obra,69770.15,31/05/2023,2023-05
+890,Comercial,Fixo,Combustível,98224.06,2023-12-30,2023-12
+891,Logística,fixo,Mão de obra,110308.36,2024-03-01,2024-03
+892,Administrativo,Variável,Combustível,83067.59,2024-03-09,2024-03
+893,Coleta,Variável,Manutenção,149409.36,2024-12-13,2024-12
+894,Coleta,Variável,Manutenção,3250.62,2024-03-01,2024-03
+895,Coleta,Fixo,Aluguel,115359.95,2024-05-31,2024-05
+896,Logística,Variável,Energia,51972.96,2024-04-26,2024-04
+897,Logística,Fixo,Manutenção,8112.67,2024-10-19,2024-10
+898,Administrativo,Fixo,Mão de obra,83940.14,2023-10-13,2023-10
+899,Coleta,VARIÁVEL,Aluguel,116828.76,2023-09-02,2023-09
+900,Comercial,Variável,,99310.48,2023-05-17,2023-05
+901,Administrativo,Fixo,Aluguel,78375.88,2023-05-21,2023-05
+902,Produção,variável,Combustível,54046.52,2024-06-18,2024-06
+903,Administrativo,Variável,,59059.23,2023-08-06,2023-08
+904,Administrativo,Variável,Manutenção,129415.82,2023-12-23,2023-12
+905,Logística,Fixo,Mão de obra,144192.48,2023-12-04,2023-12
+906,Produção,FIXO,Aluguel,60373.38,2024-05-22,2024-05
+907,Coleta,Fixo,Manutenção,19888.53,2023-11-04,2023-11
+908,Produção,Variável,Manutenção,84917.59,2024-10-29,2024-10
+909,Administrativo,Variável,Combustível,120645.97,2023-12-08,2023-12
+910,Coleta,Variável,Aluguel,6813.1,2023-04-23,2023-04
+911,Coleta,Fixo,,27003.82,2024-11-19,2024-11
+912,Comercial,Fixo,Energia,146420.77,2024-09-06,2024-09
+913,Comercial,Variável,Manutenção,134380.04,2024-05-29,2024-05
+914,Produção,Variável,Combustível,33982.95,2024-12-15,2024-12
+915,Comercial,Fixo,,91847.01,2024-09-11,2024-09
+916,Comercial,Variável,Manutenção,7727.68,2024-10-22,2024-10
+917,Produção,FIXO,Mão de obra,109390.64,2024-02-11,2024-02
+918,Logística,Variável,Combustível,47465.62,2024-04-23,2024-04
+919,Logística,fixo,Manutenção,145719.58,2024-01-19,2024-01
+920,Administrativo,Variável,Combustível,83123.74,2023-05-12,2023-05
+921,Comercial,Variável,Combustível,51658.56,2023-12-24,2023-12
+922,Coleta,fixo,Manutenção,87588.28,2023-11-07,2023-11
+923,Produção,Fixo,Aluguel,118583.29,2023-02-25,2023-02
+924,Logística,Fixo,,8829.14,11/04/2024,2024-04
+925,Logística,Fixo,Manutenção,23431.43,2023-07-06,2023-07
+926,Produção,Variável,Combustível,25323.23,2023-08-13,2023-08
+927,Logística,fixo,Combustível,32638.56,2023-02-02,2023-02
+928,Coleta,Fixo,Aluguel,138084.42,2023-12-27,2023-12
+929,Produção,Fixo,Mão de obra,68023.7,13/01/2023,2023-01
+930,Comercial,VARIÁVEL,Energia,125285.59,2023-02-19,2023-02
+931,Produção,Fixo,Aluguel,139360.37,2024-11-25,2024-11
+932,Produção,Variável,Mão de obra,27759.29,2023-01-11,2023-01
+933,Administrativo,Fixo,Energia,118837.76,2023-07-13,2023-07
+934,Logística,Variável,Mão de obra,15996.02,2024-03-07,2024-03
+935,Logística,Fixo,Energia,92974.08,2024-12-06,2024-12
+936,Coleta,Fixo,Energia,52529.53,2024-09-05,2024-09
+937,Logística,Variável,Manutenção,56784.25,13/04/2024,2024-04
+938,Administrativo,FIXO,Energia,128017.42,2024-07-16,2024-07
+939,Coleta,Fixo,Energia,21348.24,2023-06-30,2023-06
+940,Produção,Fixo,Manutenção,63730.03,2023-08-03,2023-08
+941,Coleta,Fixo,Manutenção,34307.66,2024-09-28,2024-09
+942,Produção,Fixo,,37353.98,2023-05-16,2023-05
+943,Coleta,Fixo,Manutenção,47016.87,2024-04-05,2024-04
+944,Produção,Fixo,Combustível,19794.44,2024-02-07,2024-02
+945,Comercial,Fixo,Manutenção,50237.0,2023-02-02,2023-02
+946,Comercial,Fixo,Mão de obra,56875.93,2023-06-24,2023-06
+947,Produção,Fixo,Aluguel,131015.28,2024-03-17,2024-03
+948,Logística,fixo,Mão de obra,82380.02,2023-11-30,2023-11
+949,Produção,Variável,Mão de obra,132031.0,2024-07-13,2024-07
+950,Comercial,Fixo,Mão de obra,68600.42,2024-07-09,2024-07
+951,Comercial,variável,Manutenção,104656.57,2023-03-26,2023-03
+952,Logística,fixo,Mão de obra,28856.19,2024-10-31,2024-10
+953,Administrativo,Variável,Mão de obra,105940.49,2024-12-24,2024-12
+954,Logística,Fixo,Mão de obra,34439.17,2024-10-09,2024-10
+955,Produção,Fixo,Aluguel,62040.62,2023-11-04,2023-11
+956,Administrativo,Variável,,26910.32,2024-12-13,2024-12
+957,Coleta,variável,Mão de obra,76712.84,2024-11-23,2024-11
+958,Comercial,variável,Aluguel,65193.66,2024-06-13,2024-06
+959,Administrativo,VARIÁVEL,Energia,134477.62,2023-12-04,2023-12
+960,Coleta,Fixo,Aluguel,126149.16,2023-10-30,2023-10
+961,Coleta,VARIÁVEL,Manutenção,125617.84,2024-11-10,2024-11
+962,Comercial,VARIÁVEL,Manutenção,72278.82,2024-06-17,2024-06
+963,Coleta,Fixo,Combustível,48796.1,2024-02-26,2024-02
+964,Administrativo,Fixo,Mão de obra,63360.14,2023-05-03,2023-05
+965,Produção,VARIÁVEL,Aluguel,79992.68,2023-05-27,2023-05
+966,Coleta,Variável,Energia,46400.2,2024-11-23,2024-11
+967,Coleta,Variável,Energia,53054.64,2023-05-26,2023-05
+968,Administrativo,Fixo,Combustível,117523.44,2024-07-22,2024-07
+969,Produção,Variável,Mão de obra,41344.73,2024-01-16,2024-01
+970,Logística,Variável,Mão de obra,96640.84,2023-02-09,2023-02
+971,Produção,Variável,Combustível,69796.95,2024-03-15,2024-03
+972,Comercial,Variável,Energia,116399.43,2024-01-07,2024-01
+973,Administrativo,variável,Aluguel,143237.16,2023-01-28,2023-01
+974,Logística,Variável,Combustível,145956.81,2024-05-28,2024-05
+975,Comercial,variável,Mão de obra,119848.64,2023-08-04,2023-08
+976,Logística,Fixo,Manutenção,136407.77,2024-08-18,2024-08
+977,Produção,Fixo,Mão de obra,97066.23,2023-01-27,2023-01
+978,Produção,VARIÁVEL,Aluguel,40398.6,2024-05-17,2024-05
+979,Comercial,Variável,Manutenção,139354.31,2024-02-05,2024-02
+980,Comercial,fixo,Energia,8246.81,2024-03-25,2024-03
+981,Comercial,VARIÁVEL,Energia,60786.47,2024-10-03,2024-10
+982,Produção,Fixo,Mão de obra,146620.6,2024-02-21,2024-02
+983,Logística,Variável,Mão de obra,81753.99,2024-04-01,2024-04
+984,Coleta,Variável,Mão de obra,49825.42,2023-09-15,2023-09
+985,Coleta,Fixo,Aluguel,31172.97,2023-09-24,2023-09
+986,Administrativo,VARIÁVEL,Aluguel,55438.09,2023-11-28,2023-11
+987,Produção,VARIÁVEL,Mão de obra,45413.0,2024-11-29,2024-11
+988,Produção,Fixo,Combustível,32595.07,2023-11-02,2023-11
+989,Logística,Fixo,Aluguel,93937.9,2024-02-08,2024-02
+990,Administrativo,Fixo,Manutenção,55472.12,2023-02-10,2023-02
+991,Comercial,Variável,Manutenção,55140.99,2023-03-19,2023-03
+992,Produção,VARIÁVEL,Manutenção,131651.09,2024-05-07,2024-05
+993,Logística,fixo,Energia,39050.69,2024-11-16,2024-11
+994,Produção,variável,Combustível,7149.76,2024-05-17,2024-05
+995,Logística,Fixo,Mão de obra,149492.03,2023-06-01,2023-06
+996,Coleta,Variável,Energia,143878.97,2023-11-28,2023-11
+997,Coleta,Fixo,Manutenção,140323.07,2024-09-05,2024-09
+998,Comercial,Fixo,Mão de obra,149171.84,2024-03-15,2024-03
+999,Logística,Fixo,Combustível,838.64,2024-02-27,2024-02
+1000,Administrativo,Variável,Combustível,41912.26,2024-03-22,2024-03

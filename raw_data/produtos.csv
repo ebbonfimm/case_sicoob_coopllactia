@@ -1,0 +1,31 @@
+id_produto,nome_produto,categoria,unidade,preco_venda,custo_unitario,ativo
+1,Iogurte Coopllactia 1,Iogurte,un,29.76,30.5,Sim
+2,Leite UHT Coopllactia 2,Leite UHT,kg,21.63,49.73,SIM
+3,Leite UHT Coopllactia 3,Leite UHT,L,37.99,38.37,Sim
+4,Iogurte Coopllactia 4,Iogurte,un,77.03,37.45,SIM
+5,Manteiga Coopllactia 5,Manteiga,L,39.9,9.6,não
+6,Manteiga Coopllactia 6,Manteiga,un,11.45,23.48,Não
+7,Manteiga Coopllactia 7,Manteiga,un,76.93,17.85,Não
+8,Iogurte Coopllactia 8,Iogurte,cx,3.7,31.34,Não
+9,Queijo Coopllactia 9,Queijo,kg,24.22,32.51,Sim
+10,Queijo Coopllactia 10,Queijo,L,40.44,1.7,SIM
+11,Leite UHT Coopllactia 11,Leite UHT,un,53.0,46.16,Sim
+12,Manteiga Coopllactia 12,Manteiga,cx,50.7,13.25,sim
+13,Requeijão Coopllactia 13,Requeijão,L,0,26.12,não
+14,Creme de Leite Coopllactia 14,Creme de Leite,L,45.21,48.18,Sim
+15,Iogurte Coopllactia 15,Iogurte,un,74.81,21.9,Sim
+16,Iogurte Coopllactia 16,Iogurte,kg,23.84,28.12,não
+17,Iogurte Coopllactia 17,Iogurte,un,78.24,14.09,Não
+18,Requeijão Coopllactia 18,Requeijão,cx,49.87,35.33,Sim
+19,Iogurte Coopllactia 19,Iogurte,L,15.33,5.01,Sim
+20,Queijo Coopllactia 20,Queijo,L,63.33,16.06,SIM
+21,Queijo Coopllactia 21,Queijo,un,22.07,29.56,sim
+22,Manteiga Coopllactia 22,Manteiga,un,40.67,15.84,Não
+23,Queijo Coopllactia 23,Queijo,un,57.71,7.71,Sim
+24,Queijo Coopllactia 24,Queijo,un,77.64,8.42,Sim
+25,Leite UHT Coopllactia 25,Leite UHT,cx,71.26,33.06,sim
+26,Leite UHT Coopllactia 26,Leite UHT,cx,0,13.06,Sim
+27,Manteiga Coopllactia 27,Manteiga,cx,56.82,19.25,Sim
+28,Queijo Coopllactia 28,Queijo,cx,30.87,38.18,Sim
+29,Iogurte Coopllactia 29,Iogurte,L,50.38,30.11,NÃO
+30,Leite UHT Coopllactia 30,Leite UHT,un,46.45,10.26,Sim

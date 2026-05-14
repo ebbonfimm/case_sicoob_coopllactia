@@ -1,0 +1,246 @@
+id_fazenda,id_cooperado,nome_fazenda,municipio,area_hectares,qtd_animais_lactacao,raca_predominante
+1,1,Fazenda A1,Patos de Minas,693.1,167,Jersey
+2,2,Fazenda A2,Paracatu,221.7,79,Jersey
+3,3,Fazenda A3,Paracatu,855.8,205,Jersey
+4,4,Fazenda A4,Araxá,570.8,167,Jersey
+5,5,Fazenda A5,Patos de Minas,,228,Holandesa
+6,5,Fazenda B6,Uberaba,1313.0,169,Girolando
+7,6,Fazenda A7,Paracatu,525.3,216,Pardo-Suíço
+8,6,Fazenda B8,Patos de Minas,1734.9,232,Pardo-Suíço
+9,6,Fazenda C9,Uberlândia,601.5,270,Jersey
+10,6,Fazenda D10,Monte Carmelo,698.3,213,Girolando
+11,7,Fazenda A11,Frutal,505.4,42,Jersey
+12,7,Fazenda B12,Frutal,802.9,97,Holandesa
+13,8,Fazenda A13,Uberaba,1754.7,289,Holandesa
+14,8,Fazenda B14,Frutal,1748.3,58,Girolando
+15,8,Fazenda C15,Frutal,1317.2,293,Girolando
+16,9,Fazenda A16,Uberlândia,1254.0,167,Holandesa
+17,9,Fazenda B17,Uberaba,1532.7,71,Girolando
+18,9,Fazenda C18,Uberlândia,,203,gir leiteiro
+19,9,Fazenda D19,Patos de Minas,,215,Gir Leiteiro
+20,10,Fazenda A20,Araxá,949.2,150,Jersey
+21,10,Fazenda B21,Patos de Minas,194.0,173,Jersey
+22,11,Fazenda A22,Ituiutaba,438.5,267,Jersey
+23,11,Fazenda B23,Ituiutaba,1985.7,222,Pardo-Suíço
+24,11,Fazenda C24,Uberlândia,1825.7,166,Gir Leiteiro
+25,11,Fazenda D25,Monte Carmelo,477.1,148,Gir Leiteiro
+26,12,Fazenda A26,Ituiutaba,,206,Holandesa
+27,13,Fazenda A27,Frutal,392.5,296,Girolando
+28,13,Fazenda B28,Ituiutaba,1669.4,266,Girolando
+29,13,Fazenda C29,Monte Carmelo,1618.3,58,Gir Leiteiro
+30,14,Fazenda A30,Monte Carmelo,226.1,155,Jersey
+31,14,Fazenda B31,Ituiutaba,1189.9,210,Gir Leiteiro
+32,14,Fazenda C32,Monte Carmelo,1834.7,52,Jersey
+33,14,Fazenda D33,Ituiutaba,1316.0,43,Girolando
+34,15,Fazenda A34,Uberaba,507.9,218,Pardo-Suíço
+35,16,Fazenda A35,Frutal,1327.1,228,girolando
+36,16,Fazenda B36,Araxá,914.6,205,Girolando
+37,17,Fazenda A37,Uberlândia,826.4,82,JERSEY
+38,17,Fazenda B38,Uberlândia,148.6,84,Gir Leiteiro
+39,17,Fazenda C39,Araxá,1193.4,139,Gir Leiteiro
+40,18,Fazenda A40,Ituiutaba,1723.9,86,GIR LEITEIRO
+41,19,Fazenda A41,Uberlândia,748.6,,Girolando
+42,19,Fazenda B42,Frutal,1075.9,263,Girolando
+43,20,Fazenda A43,Paracatu,1032.5,42,Pardo-Suíço
+44,21,Fazenda A44,Uberlândia,1997.2,238,Jersey
+45,22,Fazenda A45,Uberaba,1803.6,95,Girolando
+46,22,Fazenda B46,Monte Carmelo,792.8,170,Pardo-Suíço
+47,22,Fazenda C47,Uberaba,1712.9,130,Gir Leiteiro
+48,22,Fazenda D48,Paracatu,827.5,180,Girolando
+49,23,Fazenda A49,Paracatu,180.9,67,Girolando
+50,23,Fazenda B50,Uberlândia,1193.6,188,Jersey
+51,24,Fazenda A51,Uberlândia,1938.4,200,Pardo-Suíço
+52,24,Fazenda B52,Paracatu,487.3,208,Girolando
+53,24,Fazenda C53,Frutal,1698.1,33,girolando
+54,24,Fazenda D54,Ituiutaba,1847.0,112,Pardo-Suíço
+55,25,Fazenda A55,Patos de Minas,1494.9,66,Gir Leiteiro
+56,26,Fazenda A56,Monte Carmelo,356.9,186,Pardo-Suíço
+57,26,Fazenda B57,Uberlândia,353.4,45,Girolando
+58,26,Fazenda C58,Frutal,997.0,159,pardo-suíço
+59,26,Fazenda D59,Uberaba,602.3,269,girolando
+60,27,Fazenda A60,Uberlândia,448.6,90,Girolando
+61,28,Fazenda A61,Paracatu,1506.7,214,Gir Leiteiro
+62,29,Fazenda A62,Uberaba,824.3,,Holandesa
+63,29,Fazenda B63,Frutal,1168.1,233,jersey
+64,29,Fazenda C64,Patos de Minas,1612.6,205,Holandesa
+65,30,Fazenda A65,Uberaba,821.7,193,Gir Leiteiro
+66,30,Fazenda B66,Uberaba,1084.7,198,GIR LEITEIRO
+67,30,Fazenda C67,Ituiutaba,434.7,58,Jersey
+68,30,Fazenda D68,Paracatu,1378.2,185,GIROLANDO
+69,31,Fazenda A69,Paracatu,1281.2,48,Holandesa
+70,31,Fazenda B70,Paracatu,123.3,166,Holandesa
+71,31,Fazenda C71,Frutal,952.3,41,Pardo-Suíço
+72,31,Fazenda D72,Monte Carmelo,1229.8,51,Girolando
+73,32,Fazenda A73,Patos de Minas,126.3,244,pardo-suíço
+74,33,Fazenda A74,Frutal,847.1,46,GIROLANDO
+75,33,Fazenda B75,Frutal,604.1,96,Pardo-Suíço
+76,33,Fazenda C76,Monte Carmelo,655.0,220,Holandesa
+77,34,Fazenda A77,Monte Carmelo,1635.7,289,Jersey
+78,34,Fazenda B78,Uberlândia,757.1,129,JERSEY
+79,34,Fazenda C79,Patos de Minas,200.5,71,Pardo-Suíço
+80,34,Fazenda D80,Uberlândia,1340.8,87,Gir Leiteiro
+81,35,Fazenda A81,Paracatu,135.2,141,Pardo-Suíço
+82,35,Fazenda B82,Paracatu,506.3,260,Gir Leiteiro
+83,36,Fazenda A83,Paracatu,1550.4,277,Gir Leiteiro
+84,36,Fazenda B84,Patos de Minas,,266,Pardo-Suíço
+85,36,Fazenda C85,Uberaba,605.9,159,pardo-suíço
+86,36,Fazenda D86,Uberaba,1895.5,250,Holandesa
+87,37,Fazenda A87,Monte Carmelo,509.8,211,Girolando
+88,37,Fazenda B88,Monte Carmelo,1593.2,166,Jersey
+89,37,Fazenda C89,Patos de Minas,1529.7,22,Holandesa
+90,37,Fazenda D90,Patos de Minas,1120.2,290,GIROLANDO
+91,38,Fazenda A91,Araxá,868.7,254,Jersey
+92,39,Fazenda A92,Araxá,1451.2,20,Gir Leiteiro
+93,40,Fazenda A93,Uberaba,1070.8,289,Pardo-Suíço
+94,40,Fazenda B94,Frutal,,218,Girolando
+95,41,Fazenda A95,Uberaba,722.4,73,girolando
+96,41,Fazenda B96,Monte Carmelo,1636.3,257,Jersey
+97,41,Fazenda C97,Patos de Minas,173.0,,GIR LEITEIRO
+98,42,Fazenda A98,Monte Carmelo,1870.1,298,Holandesa
+99,43,Fazenda A99,Ituiutaba,746.1,189,Girolando
+100,43,Fazenda B100,Frutal,1499.5,217,Gir Leiteiro
+101,44,Fazenda A101,Monte Carmelo,1852.4,62,Holandesa
+102,44,Fazenda B102,Patos de Minas,1113.7,60,Girolando
+103,44,Fazenda C103,Frutal,375.0,,Girolando
+104,44,Fazenda D104,Frutal,585.4,49,Jersey
+105,45,Fazenda A105,Uberlândia,328.4,,Holandesa
+106,45,Fazenda B106,Monte Carmelo,756.2,36,Jersey
+107,46,Fazenda A107,Paracatu,1538.0,291,Girolando
+108,46,Fazenda B108,Araxá,,115,Jersey
+109,46,Fazenda C109,Uberaba,560.5,248,Pardo-Suíço
+110,47,Fazenda A110,Araxá,289.1,251,Jersey
+111,47,Fazenda B111,Monte Carmelo,1352.3,297,Girolando
+112,47,Fazenda C112,Patos de Minas,1597.7,82,gir leiteiro
+113,47,Fazenda D113,Uberlândia,753.7,259,PARDO-SUÍÇO
+114,48,Fazenda A114,Ituiutaba,826.4,265,Jersey
+115,49,Fazenda A115,Patos de Minas,1946.1,250,Pardo-Suíço
+116,50,Fazenda A116,Patos de Minas,893.6,48,PARDO-SUÍÇO
+117,50,Fazenda B117,Patos de Minas,679.2,197,Pardo-Suíço
+118,51,Fazenda A118,Ituiutaba,432.8,160,Girolando
+119,52,Fazenda A119,Patos de Minas,1204.0,107,Pardo-Suíço
+120,53,Fazenda A120,Uberlândia,208.4,155,Pardo-Suíço
+121,54,Fazenda A121,Paracatu,1783.5,174,Jersey
+122,55,Fazenda A122,Uberlândia,358.3,257,Pardo-Suíço
+123,56,Fazenda A123,Monte Carmelo,1952.0,209,Holandesa
+124,56,Fazenda B124,Paracatu,288.9,92,Girolando
+125,56,Fazenda C125,Frutal,534.1,101,Pardo-Suíço
+126,57,Fazenda A126,Patos de Minas,1021.6,275,jersey
+127,57,Fazenda B127,Paracatu,1935.0,,Girolando
+128,58,Fazenda A128,Ituiutaba,1096.5,240,Girolando
+129,58,Fazenda B129,Frutal,763.6,119,Girolando
+130,58,Fazenda C130,Paracatu,1540.6,80,Holandesa
+131,58,Fazenda D131,Monte Carmelo,1137.8,93,Pardo-Suíço
+132,59,Fazenda A132,Uberlândia,125.9,262,Gir Leiteiro
+133,60,Fazenda A133,Monte Carmelo,1866.2,221,Girolando
+134,60,Fazenda B134,Paracatu,1432.0,28,Holandesa
+135,61,Fazenda A135,Uberlândia,1214.0,136,Pardo-Suíço
+136,61,Fazenda B136,Frutal,338.2,36,holandesa
+137,61,Fazenda C137,Monte Carmelo,866.6,124,Pardo-Suíço
+138,62,Fazenda A138,Patos de Minas,1061.4,264,Girolando
+139,63,Fazenda A139,Monte Carmelo,1115.2,155,Gir Leiteiro
+140,63,Fazenda B140,Ituiutaba,1138.3,172,Gir Leiteiro
+141,63,Fazenda C141,Paracatu,668.2,160,Pardo-Suíço
+142,63,Fazenda D142,Frutal,1796.7,196,Gir Leiteiro
+143,64,Fazenda A143,Uberaba,725.4,151,Gir Leiteiro
+144,64,Fazenda B144,Ituiutaba,1869.4,90,PARDO-SUÍÇO
+145,64,Fazenda C145,Araxá,,231,JERSEY
+146,65,Fazenda A146,Patos de Minas,843.5,263,Gir Leiteiro
+147,66,Fazenda A147,Monte Carmelo,,65,Gir Leiteiro
+148,66,Fazenda B148,Uberlândia,1830.8,110,Holandesa
+149,66,Fazenda C149,Frutal,1586.5,168,Holandesa
+150,67,Fazenda A150,Monte Carmelo,604.9,298,Gir Leiteiro
+151,68,Fazenda A151,Ituiutaba,426.0,103,Girolando
+152,68,Fazenda B152,Uberlândia,1486.4,118,Jersey
+153,68,Fazenda C153,Monte Carmelo,219.1,114,Jersey
+154,68,Fazenda D154,Araxá,63.3,248,Girolando
+155,69,Fazenda A155,Ituiutaba,1324.7,51,Jersey
+156,70,Fazenda A156,Ituiutaba,1396.1,171,GIR LEITEIRO
+157,70,Fazenda B157,Paracatu,348.7,211,Pardo-Suíço
+158,70,Fazenda C158,Araxá,1535.6,61,Pardo-Suíço
+159,70,Fazenda D159,Uberaba,1838.6,300,Gir Leiteiro
+160,71,Fazenda A160,Patos de Minas,689.8,79,Pardo-Suíço
+161,71,Fazenda B161,Paracatu,1626.9,282,pardo-suíço
+162,72,Fazenda A162,Uberlândia,822.1,131,Holandesa
+163,72,Fazenda B163,Uberaba,,55,jersey
+164,72,Fazenda C164,Patos de Minas,1549.5,235,Jersey
+165,73,Fazenda A165,Frutal,206.5,296,Girolando
+166,73,Fazenda B166,Frutal,1081.2,134,Holandesa
+167,73,Fazenda C167,Paracatu,1363.3,292,gir leiteiro
+168,73,Fazenda D168,Patos de Minas,587.5,,Jersey
+169,74,Fazenda A169,Araxá,451.9,37,HOLANDESA
+170,75,Fazenda A170,Paracatu,507.0,48,Girolando
+171,75,Fazenda B171,Monte Carmelo,1176.1,184,Gir Leiteiro
+172,75,Fazenda C172,Araxá,856.4,109,Jersey
+173,75,Fazenda D173,Uberlândia,1946.0,215,Girolando
+174,76,Fazenda A174,Patos de Minas,634.8,295,Gir Leiteiro
+175,76,Fazenda B175,Patos de Minas,1621.3,231,Pardo-Suíço
+176,76,Fazenda C176,Frutal,523.6,60,Girolando
+177,76,Fazenda D177,Araxá,150.5,40,Gir Leiteiro
+178,77,Fazenda A178,Paracatu,457.3,175,HOLANDESA
+179,77,Fazenda B179,Uberaba,1506.4,144,Gir Leiteiro
+180,78,Fazenda A180,Monte Carmelo,1562.3,293,Girolando
+181,78,Fazenda B181,Paracatu,958.7,260,Girolando
+182,79,Fazenda A182,Monte Carmelo,857.2,133,Holandesa
+183,79,Fazenda B183,Frutal,625.6,137,Gir Leiteiro
+184,79,Fazenda C184,Monte Carmelo,551.8,271,Girolando
+185,80,Fazenda A185,Patos de Minas,1838.0,50,Holandesa
+186,80,Fazenda B186,Uberlândia,1540.5,138,Gir Leiteiro
+187,80,Fazenda C187,Paracatu,777.7,267,Holandesa
+188,80,Fazenda D188,Frutal,73.1,160,Girolando
+189,81,Fazenda A189,Patos de Minas,258.7,96,Pardo-Suíço
+190,81,Fazenda B190,Monte Carmelo,571.3,211,Jersey
+191,81,Fazenda C191,Araxá,635.0,61,holandesa
+192,81,Fazenda D192,Frutal,,24,Holandesa
+193,82,Fazenda A193,Monte Carmelo,1153.4,68,Holandesa
+194,82,Fazenda B194,Paracatu,578.6,163,Pardo-Suíço
+195,82,Fazenda C195,Patos de Minas,1861.1,126,Jersey
+196,82,Fazenda D196,Ituiutaba,366.8,219,Pardo-Suíço
+197,83,Fazenda A197,Uberaba,1026.5,47,Gir Leiteiro
+198,83,Fazenda B198,Monte Carmelo,1230.1,223,girolando
+199,84,Fazenda A199,Paracatu,494.9,212,Pardo-Suíço
+200,84,Fazenda B200,Uberaba,1555.7,146,Holandesa
+201,84,Fazenda C201,Frutal,1437.8,219,holandesa
+202,84,Fazenda D202,Paracatu,751.8,87,Jersey
+203,85,Fazenda A203,Uberaba,101.2,67,Girolando
+204,85,Fazenda B204,Uberlândia,619.1,63,Pardo-Suíço
+205,85,Fazenda C205,Araxá,1165.3,214,Girolando
+206,85,Fazenda D206,Paracatu,334.6,161,Jersey
+207,86,Fazenda A207,Ituiutaba,1891.2,273,Gir Leiteiro
+208,86,Fazenda B208,Patos de Minas,644.1,190,Jersey
+209,86,Fazenda C209,Monte Carmelo,908.4,89,Pardo-Suíço
+210,87,Fazenda A210,Paracatu,662.7,183,Jersey
+211,87,Fazenda B211,Araxá,685.5,221,Pardo-Suíço
+212,88,Fazenda A212,Uberlândia,1908.4,127,Girolando
+213,88,Fazenda B213,Uberaba,1647.0,229,Gir Leiteiro
+214,89,Fazenda A214,Ituiutaba,1334.4,213,Pardo-Suíço
+215,89,Fazenda B215,Frutal,1092.0,234,Girolando
+216,90,Fazenda A216,Uberaba,1549.5,201,Pardo-Suíço
+217,91,Fazenda A217,Monte Carmelo,1933.1,25,Gir Leiteiro
+218,91,Fazenda B218,Araxá,919.3,276,Holandesa
+219,91,Fazenda C219,Ituiutaba,861.2,79,Gir Leiteiro
+220,91,Fazenda D220,Monte Carmelo,937.9,267,Holandesa
+221,92,Fazenda A221,Monte Carmelo,,,Girolando
+222,92,Fazenda B222,Patos de Minas,1863.3,284,Gir Leiteiro
+223,92,Fazenda C223,Frutal,1919.0,227,Gir Leiteiro
+224,92,Fazenda D224,Frutal,821.4,121,Jersey
+225,93,Fazenda A225,Araxá,592.8,52,pardo-suíço
+226,93,Fazenda B226,Araxá,942.2,270,Girolando
+227,94,Fazenda A227,Uberaba,728.5,108,Girolando
+228,94,Fazenda B228,Uberaba,1360.6,142,Gir Leiteiro
+229,94,Fazenda C229,Patos de Minas,1046.1,90,Jersey
+230,94,Fazenda D230,Patos de Minas,1132.1,91,Jersey
+231,95,Fazenda A231,Uberlândia,995.0,216,Pardo-Suíço
+232,95,Fazenda B232,Frutal,1385.2,247,Holandesa
+233,95,Fazenda C233,Araxá,619.6,295,Jersey
+234,96,Fazenda A234,Uberaba,1166.8,298,Girolando
+235,96,Fazenda B235,Uberlândia,1532.0,131,Holandesa
+236,96,Fazenda C236,Araxá,630.5,250,Holandesa
+237,96,Fazenda D237,Uberaba,1562.5,199,Pardo-Suíço
+238,97,Fazenda A238,Patos de Minas,1580.5,50,Pardo-Suíço
+239,97,Fazenda B239,Patos de Minas,681.1,168,Pardo-Suíço
+240,98,Fazenda A240,Patos de Minas,1927.4,50,Gir Leiteiro
+241,99,Fazenda A241,Araxá,335.2,146,Jersey
+242,99,Fazenda B242,Ituiutaba,1274.2,58,Holandesa
+243,100,Fazenda A243,Monte Carmelo,936.7,21,Holandesa
+244,100,Fazenda B244,Paracatu,1287.9,52,jersey
+245,100,Fazenda C245,Araxá,1014.7,165,pardo-suíço
