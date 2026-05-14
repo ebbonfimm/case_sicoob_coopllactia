@@ -42,18 +42,20 @@ CREATE INDEX IF NOT EXISTS idx_bronze_cooperados_hash ON bronze.cooperados (_row
 
 -- ---------------------------------------------------------------------------
 -- uiahsphauibwxbwuixnianwoxniaw
-CREATE TABLE IF NOT EXISTS bronze.animais (
+CREATE TABLE IF NOT EXISTS bronze.fazendas (
     _row_id         BIGSERIAL PRIMARY KEY,
     _row_hash       TEXT NOT NULL,
     _source_file    TEXT NOT NULL,
     _ingested_at    TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     _is_duplicate   BOOLEAN NOT NULL DEFAULT FALSE,
 
-    id_animal       TEXT,
+    id_fazenda       TEXT,
     id_cooperado    TEXT,
-    raca            TEXT,
-    data_nascimento TEXT,
-    em_lactacao     TEXT
+    nome_fazenda            TEXT,
+    municipio TEXT,
+    area_hectares     TEXT,
+    qtd_animais_lactacao TEXT,
+    raca_predominante TEXT
 );
 CREATE INDEX IF NOT EXISTS idx_bronze_animais_hash ON bronze.animais (_row_hash);
 
