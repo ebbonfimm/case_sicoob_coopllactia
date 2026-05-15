@@ -61,10 +61,28 @@ TABLES = [
         "date_cols": [],
     },
     {
-        "file":  "coletas.csv",
+        "file":  "coletas_fonte_a.csv",
         "table": "bronze.coletas",
         "pk_cols": ["id_coleta"],
-        "date_cols": ["data_coleta"],
+        "date_cols": [],
+        "delimiter": ";",
+        "source_format": "fonte_a",
+    },
+    {
+        "file":  "coletas_fonte_b.csv",
+        "table": "bronze.coletas",
+        "pk_cols": ["collection_id"],
+        "date_cols": [],
+        "delimiter": ",",
+        "source_format": "fonte_b",
+    },
+    {
+        "file":  "coletas_fonte_c.csv",
+        "table": "bronze.coletas",
+        "pk_cols": ["COLETA ID"],
+        "date_cols": [],
+        "delimiter": ",",
+        "source_format": "fonte_c",
     },
     {
         "file":  "produtos.csv",
@@ -132,17 +150,121 @@ def normalize_date(raw: str) -> str | None:
     if not raw or raw.strip() == "":
         return None
     raw = raw.strip()
-    # já está em ISO
     if len(raw) == 10 and raw[4] == "-":
         return raw
-    # formato brasileiro DD/MM/YYYY
     parts = raw.split("/")
     if len(parts) == 3:
         try:
             return f"{parts[2]}-{parts[1].zfill(2)}-{parts[0].zfill(2)}"
         except Exception:
             pass
-    return None  # não reconhecido → nulo intencional, tratado no Silver
+    return None
+
+
+def parse_numeric_like(value: str) -> str | None:
+    if value is None:
+        return None
+    txt = str(value).strip()
+    if txt == "":
+        return None
+    return txt.replace(",", ".")
+
+
+def normalize_coletas_row(row: dict, source_format: str) -> dict:
+    if source_format == "fonte_a":
+        return {
+            "id_coleta": row.get("id_coleta"),
+            "id_fazenda": row.get("id_fazenda"),
+            "id_rota": row.get("id_rota"),
+            "data_coleta": row.get("data_coleta"),
+            "volume_litros": row.get("volume_litros"),
+            "temperatura_c": row.get("temperatura_c"),
+            "gordura_pct": row.get("gordura_pct"),
+            "proteina_pct": row.get("proteina_pct"),
+            "acidez": row.get("acidez"),
+            "collection_id": None,
+            "farm_id": None,
+            "route_id": None,
+            "collection_date": None,
+            "collected_liters": None,
+            "temperature_c": None,
+            "fat_pct": None,
+            "protein_pct": None,
+            "acidity": None,
+            "COLETA ID": None,
+            "ID FAZENDA": None,
+            "ID ROTA": None,
+            "DATA": None,
+            "VOLUME": None,
+            "TEMPERATURA": None,
+            "GORDURA": None,
+            "PROTEINA": None,
+            "ACIDEZ": None,
+            "OBSERVACAO": None,
+        }
+
+    if source_format == "fonte_b":
+        return {
+            "id_coleta": None,
+            "id_fazenda": None,
+            "id_rota": None,
+            "data_coleta": None,
+            "volume_litros": None,
+            "temperatura_c": None,
+            "gordura_pct": None,
+            "proteina_pct": None,
+            "acidez": None,
+            "collection_id": row.get("collection_id"),
+            "farm_id": row.get("farm_id"),
+            "route_id": row.get("route_id"),
+            "collection_date": row.get("collection_date"),
+            "collected_liters": parse_numeric_like(row.get("collected_liters")),
+            "temperature_c": parse_numeric_like(row.get("temperature_c")),
+            "fat_pct": parse_numeric_like(row.get("fat_pct")),
+            "protein_pct": parse_numeric_like(row.get("protein_pct")),
+            "acidity": parse_numeric_like(row.get("acidity")),
+            "COLETA ID": None,
+            "ID FAZENDA": None,
+            "ID ROTA": None,
+            "DATA": None,
+            "VOLUME": None,
+            "TEMPERATURA": None,
+            "GORDURA": None,
+            "PROTEINA": None,
+            "ACIDEZ": None,
+            "OBSERVACAO": None,
+        }
+
+    return {
+        "id_coleta": None,
+        "id_fazenda": None,
+        "id_rota": None,
+        "data_coleta": None,
+        "volume_litros": None,
+        "temperatura_c": None,
+        "gordura_pct": None,
+        "proteina_pct": None,
+        "acidez": None,
+        "collection_id": None,
+        "farm_id": None,
+        "route_id": None,
+        "collection_date": None,
+        "collected_liters": None,
+        "temperature_c": None,
+        "fat_pct": None,
+        "protein_pct": None,
+        "acidity": None,
+        "COLETA ID": row.get("COLETA ID"),
+        "ID FAZENDA": row.get("ID FAZENDA"),
+        "ID ROTA": row.get("ID ROTA"),
+        "DATA": row.get("DATA"),
+        "VOLUME": parse_numeric_like(row.get("VOLUME")),
+        "TEMPERATURA": parse_numeric_like(row.get("TEMPERATURA")),
+        "GORDURA": parse_numeric_like(row.get("GORDURA")),
+        "PROTEINA": parse_numeric_like(row.get("PROTEINA")),
+        "ACIDEZ": parse_numeric_like(row.get("ACIDEZ")),
+        "OBSERVACAO": row.get("OBSERVACAO"),
+    }
 
 
 def row_hash(row: dict) -> str:
@@ -151,14 +273,16 @@ def row_hash(row: dict) -> str:
     return hashlib.md5(stable.encode()).hexdigest()
 
 
-def parse_csv(filepath: Path, date_cols: list[str]) -> list[dict]:
+def parse_csv(filepath: Path, date_cols: list[str], delimiter: str = ",", source_format: str | None = None) -> list[dict]:
     rows = []
     with open(filepath, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
+        reader = csv.DictReader(f, delimiter=delimiter)
         for r in reader:
             for dc in date_cols:
                 if dc in r:
                     r[dc] = normalize_date(r[dc])
+            if source_format in {"fonte_a", "fonte_b", "fonte_c"}:
+                r = normalize_coletas_row(r, source_format)
             rows.append(r)
     return rows
 
@@ -199,6 +323,7 @@ def ensure_bronze_table(conn, table_name: str, sample_row: dict):
             _row_id       BIGSERIAL PRIMARY KEY,
             _row_hash     TEXT NOT NULL,
             _source_file  TEXT NOT NULL,
+            _source_format TEXT,
             _ingested_at  TIMESTAMPTZ NOT NULL DEFAULT NOW(),
             _is_duplicate BOOLEAN NOT NULL DEFAULT FALSE,
             {col_defs}
@@ -208,6 +333,19 @@ def ensure_bronze_table(conn, table_name: str, sample_row: dict):
     """
     with conn.cursor() as cur:
         cur.execute(ddl)
+    conn.commit()
+
+
+def ensure_source_format_column(conn, table_name: str):
+    with conn.cursor() as cur:
+        cur.execute(f"ALTER TABLE {table_name} ADD COLUMN IF NOT EXISTS _source_format TEXT;")
+    conn.commit()
+
+
+def ensure_table_columns(conn, table_name: str, sample_row: dict):
+    with conn.cursor() as cur:
+        for col in sample_row.keys():
+            cur.execute(f'ALTER TABLE {table_name} ADD COLUMN IF NOT EXISTS "{col}" TEXT;')
     conn.commit()
 
 
@@ -222,12 +360,12 @@ def load_existing_hashes(conn, table_name: str) -> set[str]:
 
 
 def insert_rows(conn, table_name: str, rows: list[dict],
-                existing_hashes: set[str], source_file: str):
+                existing_hashes: set[str], source_file: str, source_format: str | None = None):
     if not rows:
         return 0, 0
 
     cols = list(rows[0].keys())
-    all_cols = ["_row_hash", "_source_file", "_is_duplicate"] + cols
+    all_cols = ["_row_hash", "_source_file", "_source_format", "_is_duplicate"] + cols
 
     to_insert = []
     seen_hashes = set()
@@ -238,13 +376,12 @@ def insert_rows(conn, table_name: str, rows: list[dict],
         is_dup = h in existing_hashes or h in seen_hashes
         if is_dup:
             skipped += 1
-            # ainda insere mas marca como duplicata para rastreabilidade
             to_insert.append(
-                (h, source_file, True) + tuple(row.get(c) for c in cols)
+                (h, source_file, source_format, True) + tuple(row.get(c) for c in cols)
             )
         else:
             to_insert.append(
-                (h, source_file, False) + tuple(row.get(c) for c in cols)
+                (h, source_file, source_format, False) + tuple(row.get(c) for c in cols)
             )
         seen_hashes.add(h)
 
@@ -279,14 +416,26 @@ def run_ingestion():
         log.info(f"▶ Ingerindo {tdef['file']} → {tdef['table']}")
 
         try:
-            rows = parse_csv(filepath, tdef["date_cols"])
+            rows = parse_csv(
+                filepath,
+                tdef["date_cols"],
+                delimiter=tdef.get("delimiter", ","),
+                source_format=tdef.get("source_format")
+            )
             rows_read = len(rows)
 
             if rows:
                 ensure_bronze_table(conn, tdef["table"], rows[0])
+                ensure_source_format_column(conn, tdef["table"])
+                ensure_table_columns(conn, tdef["table"], rows[0])
                 existing = load_existing_hashes(conn, tdef["table"])
                 inserted, skipped = insert_rows(
-                    conn, tdef["table"], rows, existing, tdef["file"]
+                    conn,
+                    tdef["table"],
+                    rows,
+                    existing,
+                    tdef["file"],
+                    tdef.get("source_format")
                 )
             else:
                 inserted, skipped = 0, 0

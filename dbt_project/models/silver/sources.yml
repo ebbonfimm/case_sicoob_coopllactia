@@ -1,0 +1,179 @@
+version: 2
+
+models:
+  - name: stg_cooperados
+    description: "Cooperados limpos, deduplicados e com situação padronizada em maiúsculas."
+    columns:
+      - name: id_cooperado
+        description: "Chave primária do cooperado."
+        tests:
+          - not_null
+          - unique
+      - name: nome
+        tests:
+          - not_null
+      - name: situacao
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["ATIVO", "INATIVO", "SUSPENSO"]
+
+  - name: stg_fazendas
+    description: "Fazendas vinculadas a cooperados, com tipagem aplicada."
+    columns:
+      - name: id_fazenda
+        tests:
+          - not_null
+          - unique
+      - name: id_cooperado
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_cooperados')
+              field: id_cooperado
+
+  - name: stg_coletas
+    description: "Coletas diárias de leite normalizadas de múltiplas fontes. Volumes negativos são nulificados. Flag _dq_ok indica registros válidos."
+    columns:
+      - name: id_coleta
+        tests:
+          - not_null
+          - unique
+      - name: id_fazenda
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_fazendas')
+              field: id_fazenda
+      - name: data_coleta
+        tests:
+          - not_null
+      - name: volume_litros
+        description: "Volume em litros. Valores negativos foram nulificados no Silver."
+        tests:
+          - not_null
+
+  - name: stg_produtos
+    description: "Catálogo de produtos. Preços zerados são tratados como inválidos."
+    columns:
+      - name: id_produto
+        tests:
+          - not_null
+          - unique
+      - name: preco_venda
+        description: "Preço de venda. Valores <= 0 foram nulificados no Silver."
+
+  - name: stg_pedidos
+    description: "Pedidos de venda deduplicados e com status padronizado."
+    columns:
+      - name: id_pedido
+        tests:
+          - not_null
+          - unique
+      - name: id_cliente
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_clientes')
+              field: id_cliente
+      - name: status
+        tests:
+          - accepted_values:
+              values: ["FATURADO", "EM SEPARAÇÃO", "ENTREGUE", "CANCELADO"]
+
+  - name: stg_itens_pedido
+    description: "Itens de pedido. Preços negativos são nulificados."
+    columns:
+      - name: id_item
+        tests:
+          - not_null
+          - unique
+      - name: id_pedido
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_pedidos')
+              field: id_pedido
+      - name: id_produto
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_produtos')
+              field: id_produto
+
+  - name: stg_entregas
+    description: "Entregas com SLA calculado (dias_atraso). Status padronizado em maiúsculas."
+    columns:
+      - name: id_entrega
+        tests:
+          - not_null
+          - unique
+      - name: id_pedido
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_pedidos')
+              field: id_pedido
+
+  - name: stg_producao
+    description: "Ordens de produção com linha padronizada."
+    columns:
+      - name: id_producao
+        tests:
+          - not_null
+          - unique
+      - name: id_produto
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_produtos')
+              field: id_produto
+
+  - name: stg_custos
+    description: "Custos operacionais por centro de custo e competência."
+    columns:
+      - name: id_custo
+        tests:
+          - not_null
+          - unique
+      - name: centro_custo
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                [
+                  "COLETA",
+                  "PRODUÇÃO",
+                  "LOGÍSTICA",
+                  "COMERCIAL",
+                  "ADMINISTRATIVO",
+                ]
+
+  - name: stg_perdas
+    description: "Perdas registradas por etapa da cadeia produtiva."
+    columns:
+      - name: id_perda
+        tests:
+          - not_null
+          - unique
+      - name: etapa
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["Coleta", "Produção", "Estoque", "Transporte"]
+
+  - name: stg_rotas
+    description: "Rotas de coleta e entrega com status padronizado."
+    columns:
+      - name: id_rota
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_clientes
+    description: "Clientes com segmento e status padronizados."
+    columns:
+      - name: id_cliente
+        tests:
+          - not_null
+          - unique

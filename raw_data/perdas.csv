@@ -1,801 +1,801 @@
 id_perda,etapa,tipo_perda,data_perda,volume_litros_ou_kg,valor_estimado,id_cooperado,id_producao,id_entrega,descricao
-1,Produção,Falha de processo,2023-02-21,289.7,13072.21,,1895,,Perda na etapa de produção
-2,Coleta,Vencimento,2023-09-07,1071.1,19686.72,,,,Perda na etapa de coleta
-3,Coleta,Devolução,2023-01-24,993.82,9295.13,9,,,Perda na etapa de coleta
-4,Produção,Derramamento,2023-10-26,629.73,16444.38,,,,Perda na etapa de produção
-5,Transporte,Vencimento,2023-09-29,729.59,2064.41,,,1991,Perda na etapa de transporte
-6,Transporte,Derramamento,30/12/2024,1278.09,725.01,,,,Perda na etapa de transporte
-7,Coleta,Contaminação,2024-12-16,799.52,6277.09,,,,
-8,Coleta,Devolução,2024-04-15,1378.47,1150.25,18,,,Perda na etapa de coleta
-9,Coleta,Derramamento,2024-05-05,1783.4,,,,,Perda na etapa de coleta
-10,Transporte,Devolução,13/11/2023,761.86,,,,,Perda na etapa de transporte
-11,Coleta,Contaminação,2024-07-14,,5095.99,,,,Perda na etapa de coleta
-12,Transporte,Falha de processo,2023-09-01,443.11,6621.43,,,3922,Perda na etapa de transporte
-13,Produção,Devolução,2024-06-30,1521.59,,,1766,,
-14,Produção,Devolução,2024-06-09,581.94,16433.71,,,,Perda na etapa de produção
-15,Estoque,Derramamento,2024-07-10,1227.5,6105.91,,,,Perda na etapa de estoque
-16,Produção,Vencimento,2024-03-17,652.47,18320.75,,,,Perda na etapa de produção
-17,Estoque,Contaminação,2024-06-29,1225.96,10908.54,,,,Perda na etapa de estoque
-18,Transporte,Falha de processo,2023-03-15,797.21,2834.0,,,,
-19,Coleta,Falha de processo,2024-10-17,1592.54,1880.72,59,,,Perda na etapa de coleta
-20,Produção,Falha de processo,2024-04-11,698.0,12180.12,,194,,Perda na etapa de produção
-21,Coleta,Falha de processo,2024-08-12,675.8,10658.34,,,,Perda na etapa de coleta
-22,Estoque,Contaminação,2024-03-04,270.94,11280.19,,,,
-23,Transporte,Falha de processo,2023-07-02,538.41,7766.4,,,5450,Perda na etapa de transporte
-24,Transporte,Falha de processo,2023-03-02,1126.12,12365.17,,,,Perda na etapa de transporte
-25,Transporte,Devolução,2023-11-07,1991.2,2783.7,,,2440,Perda na etapa de transporte
-26,Estoque,Vencimento,2023-08-19,1080.8,18013.39,,,,Perda na etapa de estoque
-27,Estoque,Vencimento,2023-02-23,900.93,17115.02,,,,Perda na etapa de estoque
-28,Estoque,Falha de processo,2023-10-02,602.25,547.65,,,,Perda na etapa de estoque
-29,Estoque,Derramamento,2023-07-04,1673.21,8275.26,,,,
-30,Coleta,Contaminação,2023-07-13,1242.18,9873.4,,,,Perda na etapa de coleta
-31,Transporte,Falha de processo,2023-01-28,1293.81,15584.62,,,2313,Perda na etapa de transporte
-32,Coleta,Vencimento,2024-09-08,1240.72,9002.36,34,,,Perda na etapa de coleta
-33,Coleta,Falha de processo,2023-09-08,912.46,3667.03,,,,Perda na etapa de coleta
-34,Transporte,Devolução,2024-03-30,123.25,16295.35,,,,Perda na etapa de transporte
-35,Produção,Vencimento,2023-08-26,1139.78,8653.79,,78,,Perda na etapa de produção
-36,Transporte,Devolução,2023-04-02,1111.71,15472.8,,,2467,Perda na etapa de transporte
-37,Produção,Derramamento,2024-01-22,1066.26,3253.98,,,,Perda na etapa de produção
-38,Coleta,Derramamento,2024-06-26,1615.58,6576.65,95,,,Perda na etapa de coleta
-39,Produção,Vencimento,2023-02-25,833.16,18518.25,,,,Perda na etapa de produção
-40,Produção,Vencimento,2024-10-25,1827.72,,,2686,,Perda na etapa de produção
-41,Coleta,Devolução,2023-01-03,1499.67,13916.44,,,,Perda na etapa de coleta
-42,Estoque,Falha de processo,2023-06-23,293.78,1458.03,,,,Perda na etapa de estoque
-43,Coleta,Derramamento,23/02/2023,1695.21,,,,,Perda na etapa de coleta
-44,Estoque,Contaminação,2024-04-11,267.0,11123.07,,,,
-45,Produção,Contaminação,2023-11-15,197.41,7938.77,,2987,,
-46,Estoque,Falha de processo,2023-02-03,1729.22,9191.74,,,,Perda na etapa de estoque
-47,Produção,Vencimento,2023-12-11,1506.36,6146.32,,,,Perda na etapa de produção
-48,Transporte,Derramamento,2023-12-18,1334.93,2612.53,,,51,Perda na etapa de transporte
-49,Coleta,Devolução,2024-04-24,1628.51,657.17,,,,Perda na etapa de coleta
-50,Coleta,Falha de processo,2023-06-16,1688.37,7872.64,,,,Perda na etapa de coleta
-51,Coleta,Falha de processo,2023-08-20,1235.31,4977.57,,,,Perda na etapa de coleta
-52,Coleta,Falha de processo,2024-02-08,1658.94,17581.5,,,,Perda na etapa de coleta
-53,Coleta,Vencimento,2023-11-11,306.56,5107.42,,,,Perda na etapa de coleta
-54,Produção,Falha de processo,2023-01-24,129.89,8654.71,,,,
-55,Estoque,Contaminação,2023-07-07,1829.92,14057.95,,,,Perda na etapa de estoque
-56,Transporte,Devolução,2024-06-23,905.24,,,,3435,Perda na etapa de transporte
-57,Produção,Falha de processo,2024-10-23,338.43,923.45,,,,Perda na etapa de produção
-58,Estoque,Falha de processo,11/11/2024,730.07,1077.66,,,,Perda na etapa de estoque
-59,Produção,Derramamento,2023-02-09,465.42,12240.81,,,,Perda na etapa de produção
-60,Estoque,Devolução,2023-07-07,,9454.22,,,,
-61,Estoque,Derramamento,2023-07-31,915.36,9700.12,,,,Perda na etapa de estoque
-62,Estoque,Falha de processo,2023-05-21,1695.6,7387.88,,,,Perda na etapa de estoque
-63,Transporte,Derramamento,2023-07-01,590.52,,,,4974,Perda na etapa de transporte
-64,Estoque,Contaminação,2023-04-23,1843.19,552.56,,,,Perda na etapa de estoque
-65,Coleta,Vencimento,2023-08-21,434.44,9985.42,80,,,Perda na etapa de coleta
-66,Estoque,Derramamento,2024-11-14,1253.65,11742.95,,,,Perda na etapa de estoque
-67,Estoque,Devolução,2024-07-09,650.8,3476.38,,,,
-68,Estoque,Falha de processo,2024-03-13,1371.78,16372.77,,,,Perda na etapa de estoque
-69,Estoque,Devolução,2024-05-15,582.28,4084.55,,,,Perda na etapa de estoque
-70,Transporte,Contaminação,2023-01-29,950.83,969.2,,,969,Perda na etapa de transporte
-71,Produção,Vencimento,2023-08-28,52.24,9773.75,,1033,,Perda na etapa de produção
-72,Estoque,Devolução,2023-06-09,719.1,14204.81,,,,Perda na etapa de estoque
-73,Produção,Vencimento,2024-08-08,428.95,14306.7,,,,Perda na etapa de produção
-74,Produção,Devolução,03/07/2023,828.55,5139.14,,,,Perda na etapa de produção
-75,Produção,Falha de processo,2023-04-13,307.23,11630.82,,1910,,Perda na etapa de produção
-76,Coleta,Falha de processo,2024-10-12,1676.2,8135.15,24,,,
-77,Transporte,Devolução,2023-09-08,423.32,5946.1,,,,Perda na etapa de transporte
-78,Coleta,Contaminação,2024-04-10,1269.79,,,,,Perda na etapa de coleta
-79,Produção,Vencimento,2024-04-23,,4816.9,,,,Perda na etapa de produção
-80,Coleta,Derramamento,04/09/2024,386.54,4743.49,,,,Perda na etapa de coleta
-81,Estoque,Contaminação,2024-04-13,1977.81,14878.64,,,,Perda na etapa de estoque
-82,Estoque,Contaminação,2024-07-21,1589.67,11897.93,,,,Perda na etapa de estoque
-83,Produção,Devolução,2023-11-22,1275.95,5444.23,,86,,Perda na etapa de produção
-84,Produção,Contaminação,2023-07-24,1426.49,915.38,,,,Perda na etapa de produção
-85,Transporte,Contaminação,2024-03-28,914.33,2874.67,,,4472,Perda na etapa de transporte
-86,Estoque,Contaminação,2024-10-19,1523.58,19481.52,,,,Perda na etapa de estoque
-87,Estoque,Vencimento,2023-10-03,1096.44,19010.13,,,,Perda na etapa de estoque
-88,Transporte,Derramamento,2023-09-26,170.96,,,,2237,
-89,Estoque,Contaminação,2023-03-15,384.94,4373.34,,,,Perda na etapa de estoque
-90,Produção,Derramamento,2023-09-29,1271.38,,,2527,,
-91,Transporte,Contaminação,2024-01-17,317.44,2561.1,,,,Perda na etapa de transporte
-92,Estoque,Devolução,2023-04-15,1773.99,16537.88,,,,Perda na etapa de estoque
-93,Produção,Contaminação,2023-12-06,703.25,336.73,,2434,,Perda na etapa de produção
-94,Produção,Contaminação,2023-07-26,1634.62,16172.37,,,,
-95,Produção,Contaminação,2024-11-22,1467.74,3784.64,,2748,,Perda na etapa de produção
-96,Transporte,Vencimento,2023-10-26,650.92,11825.58,,,1668,Perda na etapa de transporte
-97,Transporte,Contaminação,2024-10-22,1561.35,9920.63,,,4129,Perda na etapa de transporte
-98,Transporte,Devolução,2024-03-01,331.24,12509.28,,,4811,Perda na etapa de transporte
-99,Coleta,Falha de processo,2023-05-06,149.25,17868.31,,,,Perda na etapa de coleta
-100,Coleta,Contaminação,2024-10-19,1180.14,6551.76,,,,Perda na etapa de coleta
-101,Produção,Devolução,2023-10-19,1744.3,5774.74,,2058,,Perda na etapa de produção
-102,Transporte,Devolução,2023-10-12,293.21,14484.94,,,160,
-103,Transporte,Falha de processo,2024-07-07,1939.4,8564.7,,,1883,Perda na etapa de transporte
-104,Coleta,Devolução,2024-03-05,,343.74,,,,Perda na etapa de coleta
-105,Transporte,Falha de processo,2023-02-05,,1384.4,,,725,Perda na etapa de transporte
-106,Estoque,Devolução,2023-02-16,1360.86,1161.95,,,,Perda na etapa de estoque
-107,Coleta,Vencimento,2024-01-16,1876.29,378.57,43,,,Perda na etapa de coleta
-108,Transporte,Vencimento,22/10/2024,157.32,18503.96,,,,Perda na etapa de transporte
-109,Estoque,Contaminação,2023-05-15,1960.28,6318.46,,,,Perda na etapa de estoque
-110,Coleta,Contaminação,2023-03-16,1898.35,6659.42,95,,,Perda na etapa de coleta
-111,Produção,Falha de processo,2024-02-16,1115.71,,,2061,,
-112,Produção,Falha de processo,2023-08-21,,5943.33,,2336,,Perda na etapa de produção
-113,Produção,Devolução,2024-11-24,33.54,10191.78,,2968,,
-114,Estoque,Derramamento,2023-10-19,1164.81,18810.99,,,,Perda na etapa de estoque
-115,Transporte,Contaminação,2024-07-19,1565.17,10335.81,,,,Perda na etapa de transporte
-116,Estoque,Derramamento,2023-06-16,164.08,,,,,Perda na etapa de estoque
-117,Produção,Contaminação,2024-09-27,571.15,1352.62,,1472,,Perda na etapa de produção
-118,Transporte,Falha de processo,2024-11-10,234.47,5079.67,,,,Perda na etapa de transporte
-119,Transporte,Derramamento,2024-08-03,,17495.66,,,,Perda na etapa de transporte
-120,Coleta,Devolução,2023-12-11,746.05,7784.85,,,,Perda na etapa de coleta
-121,Estoque,Vencimento,2024-01-11,275.1,5227.59,,,,Perda na etapa de estoque
-122,Coleta,Contaminação,2023-09-13,246.62,3341.49,,,,Perda na etapa de coleta
-123,Transporte,Derramamento,2024-06-22,953.83,13640.94,,,3153,Perda na etapa de transporte
-124,Transporte,Falha de processo,2024-12-17,123.91,3921.54,,,,Perda na etapa de transporte
-125,Produção,Devolução,2023-04-25,676.08,7481.46,,1815,,Perda na etapa de produção
-126,Produção,Vencimento,2024-09-13,70.98,11732.75,,,,Perda na etapa de produção
-127,Produção,Vencimento,2024-03-01,651.81,9222.93,,1749,,Perda na etapa de produção
-128,Coleta,Devolução,2023-09-01,9.8,1341.55,,,,Perda na etapa de coleta
-129,Estoque,Falha de processo,2023-05-19,1479.2,8100.95,,,,
-130,Coleta,Vencimento,2024-03-10,,618.79,,,,Perda na etapa de coleta
-131,Transporte,Contaminação,2024-07-02,1947.95,5013.83,,,5100,Perda na etapa de transporte
-132,Transporte,Devolução,2023-07-13,1937.41,15348.36,,,3361,Perda na etapa de transporte
-133,Produção,Devolução,2023-05-23,1521.86,8111.23,,,,Perda na etapa de produção
-134,Produção,Devolução,2023-08-09,1118.48,2248.93,,,,Perda na etapa de produção
-135,Produção,Vencimento,2023-04-18,971.99,19127.98,,1404,,
-136,Transporte,Devolução,2023-09-01,1644.71,19819.03,,,5244,Perda na etapa de transporte
-137,Transporte,Falha de processo,2023-05-08,1873.34,14715.3,,,2628,Perda na etapa de transporte
-138,Coleta,Contaminação,2023-05-25,1853.92,13300.73,,,,Perda na etapa de coleta
-139,Coleta,Devolução,2023-04-05,710.49,4909.18,50,,,Perda na etapa de coleta
-140,Estoque,Contaminação,2023-05-19,1684.34,4435.07,,,,Perda na etapa de estoque
-141,Produção,Derramamento,2024-03-02,,18035.35,,367,,Perda na etapa de produção
-142,Estoque,Devolução,2024-05-29,1024.22,3353.25,,,,
-143,Estoque,Contaminação,2024-05-28,679.96,11217.83,,,,Perda na etapa de estoque
-144,Estoque,Devolução,2023-11-15,1536.07,11661.57,,,,Perda na etapa de estoque
-145,Transporte,Vencimento,2024-08-19,1980.49,2875.85,,,641,Perda na etapa de transporte
-146,Estoque,Devolução,2023-02-25,260.1,,,,,
-147,Transporte,Vencimento,2023-01-11,,13717.41,,,3873,Perda na etapa de transporte
-148,Coleta,Vencimento,2023-12-23,339.64,16670.09,,,,Perda na etapa de coleta
-149,Transporte,Falha de processo,2023-09-13,463.39,8776.99,,,2272,Perda na etapa de transporte
-150,Produção,Derramamento,2024-12-08,675.36,11993.32,,2753,,Perda na etapa de produção
-151,Estoque,Contaminação,2023-07-09,1027.12,1087.82,,,,Perda na etapa de estoque
-152,Estoque,Derramamento,2023-06-12,119.16,10045.48,,,,Perda na etapa de estoque
-153,Coleta,Devolução,2024-06-01,1953.98,2558.43,5,,,Perda na etapa de coleta
-154,Transporte,Derramamento,2023-12-21,968.74,13578.84,,,,Perda na etapa de transporte
-155,Produção,Devolução,2023-03-21,1218.42,16843.97,,,,Perda na etapa de produção
-156,Transporte,Vencimento,2024-02-13,1489.79,17665.76,,,3962,Perda na etapa de transporte
-157,Estoque,Vencimento,2024-05-31,1567.79,3156.93,,,,Perda na etapa de estoque
-158,Estoque,Devolução,2023-01-17,21.88,11472.49,,,,Perda na etapa de estoque
-159,Estoque,Vencimento,2024-09-30,1990.79,15426.35,,,,Perda na etapa de estoque
-160,Estoque,Vencimento,2023-10-29,,11947.56,,,,Perda na etapa de estoque
-161,Transporte,Derramamento,2024-11-26,1165.13,8518.04,,,,Perda na etapa de transporte
-162,Coleta,Derramamento,2024-05-20,1734.92,16417.82,59,,,Perda na etapa de coleta
-163,Transporte,Falha de processo,2024-06-11,80.02,12051.28,,,1043,Perda na etapa de transporte
-164,Coleta,Derramamento,2024-07-28,1953.3,10840.36,76,,,Perda na etapa de coleta
-165,Produção,Derramamento,2023-10-22,705.88,5365.65,,1655,,Perda na etapa de produção
-166,Coleta,Falha de processo,2024-02-24,1824.84,18490.36,93,,,Perda na etapa de coleta
-167,Produção,Vencimento,2024-05-05,428.9,16367.06,,2280,,Perda na etapa de produção
-168,Estoque,Derramamento,2024-08-30,726.41,4055.09,,,,Perda na etapa de estoque
-169,Produção,Falha de processo,2023-12-28,1080.7,13799.27,,2740,,Perda na etapa de produção
-170,Produção,Falha de processo,2023-08-29,,15481.04,,2333,,Perda na etapa de produção
-171,Coleta,Contaminação,2023-04-27,235.07,16092.67,18,,,Perda na etapa de coleta
-172,Estoque,Derramamento,2024-05-11,740.22,6088.5,,,,Perda na etapa de estoque
-173,Transporte,Derramamento,2024-03-29,1759.15,6292.11,,,5171,Perda na etapa de transporte
-174,Produção,Devolução,2023-08-20,422.51,11259.49,,,,Perda na etapa de produção
-175,Produção,Falha de processo,2024-03-29,1099.75,1244.98,,,,Perda na etapa de produção
-176,Coleta,Vencimento,2023-06-30,1988.1,10575.05,52,,,Perda na etapa de coleta
-177,Produção,Contaminação,2023-07-18,1684.65,19142.79,,376,,Perda na etapa de produção
-178,Transporte,Devolução,2023-10-04,,15951.07,,,2628,Perda na etapa de transporte
-179,Coleta,Derramamento,2024-05-15,540.84,3859.18,53,,,
-180,Transporte,Contaminação,2023-01-10,1649.25,1826.32,,,5377,Perda na etapa de transporte
-181,Estoque,Vencimento,2024-10-21,913.19,2962.02,,,,Perda na etapa de estoque
-182,Produção,Vencimento,2024-10-18,58.01,19806.46,,167,,Perda na etapa de produção
-183,Estoque,Derramamento,2024-11-18,213.11,4240.52,,,,Perda na etapa de estoque
-184,Produção,Vencimento,2023-01-07,249.96,,,,,Perda na etapa de produção
-185,Transporte,Falha de processo,2024-02-15,961.64,357.99,,,4339,Perda na etapa de transporte
-186,Transporte,Falha de processo,2023-09-28,1162.81,13731.15,,,,Perda na etapa de transporte
-187,Coleta,Falha de processo,2024-07-18,421.22,16589.66,39,,,Perda na etapa de coleta
-188,Transporte,Devolução,2024-10-29,626.79,731.35,,,,Perda na etapa de transporte
-189,Coleta,Devolução,2023-01-11,1860.31,12346.63,32,,,Perda na etapa de coleta
-190,Estoque,Derramamento,2023-02-15,1869.03,19387.68,,,,Perda na etapa de estoque
-191,Coleta,Contaminação,2023-10-20,745.88,15753.08,,,,Perda na etapa de coleta
-192,Coleta,Derramamento,2023-04-26,795.23,6655.29,,,,Perda na etapa de coleta
-193,Coleta,Vencimento,2024-10-17,719.99,1315.56,53,,,Perda na etapa de coleta
-194,Produção,Contaminação,20/11/2024,140.39,13985.05,,1114,,Perda na etapa de produção
-195,Transporte,Vencimento,2024-06-10,19.19,4461.6,,,1269,Perda na etapa de transporte
-196,Coleta,Derramamento,2023-02-24,,5644.7,48,,,Perda na etapa de coleta
-197,Produção,Devolução,2024-06-26,1356.84,9227.35,,,,Perda na etapa de produção
-198,Coleta,Contaminação,2024-02-01,1594.32,16851.74,,,,Perda na etapa de coleta
-199,Estoque,Falha de processo,2023-05-31,1815.07,,,,,Perda na etapa de estoque
-200,Produção,Falha de processo,2024-08-06,1119.92,19619.81,,584,,
-201,Coleta,Falha de processo,2024-10-22,1221.75,835.4,,,,Perda na etapa de coleta
-202,Produção,Devolução,2023-09-09,327.78,12880.5,,235,,Perda na etapa de produção
-203,Estoque,Contaminação,2023-08-09,1926.16,13797.59,,,,Perda na etapa de estoque
-204,Coleta,Vencimento,2023-08-06,499.55,13500.95,73,,,Perda na etapa de coleta
-205,Coleta,Devolução,2024-07-04,1102.2,12375.46,4,,,
-206,Coleta,Devolução,2024-01-22,,10532.62,36,,,Perda na etapa de coleta
-207,Produção,Derramamento,2023-07-11,630.68,6629.89,,1934,,
-208,Produção,Devolução,2024-06-22,684.16,7266.26,,2801,,Perda na etapa de produção
-209,Transporte,Falha de processo,03/01/2024,1604.73,16863.24,,,4712,Perda na etapa de transporte
-210,Estoque,Vencimento,2023-03-15,1206.81,15944.54,,,,
-211,Estoque,Devolução,2024-09-28,1578.47,8675.05,,,,Perda na etapa de estoque
-212,Coleta,Contaminação,2023-03-12,1683.97,368.08,,,,Perda na etapa de coleta
-213,Estoque,Derramamento,2024-11-21,351.21,9762.99,,,,Perda na etapa de estoque
-214,Estoque,Contaminação,2023-04-23,1630.29,10315.99,,,,Perda na etapa de estoque
-215,Transporte,Devolução,2023-01-19,1142.01,7343.61,,,,Perda na etapa de transporte
-216,Transporte,Falha de processo,2024-05-22,322.61,16788.88,,,2163,Perda na etapa de transporte
-217,Produção,Vencimento,2024-07-13,1293.52,1776.52,,2926,,Perda na etapa de produção
-218,Transporte,Contaminação,2024-12-15,588.39,6575.9,,,,Perda na etapa de transporte
-219,Estoque,Devolução,2023-02-11,845.25,14608.5,,,,Perda na etapa de estoque
-220,Produção,Derramamento,2023-05-23,,12850.77,,,,Perda na etapa de produção
-221,Coleta,Falha de processo,2024-06-05,1369.0,2360.35,,,,
-222,Transporte,Derramamento,2024-10-07,90.24,2366.52,,,264,Perda na etapa de transporte
-223,Estoque,Falha de processo,2024-11-20,101.49,2437.18,,,,Perda na etapa de estoque
-224,Produção,Falha de processo,2024-07-23,1005.8,13875.51,,650,,Perda na etapa de produção
-225,Produção,Contaminação,2024-09-16,310.62,10337.81,,,,Perda na etapa de produção
-226,Transporte,Derramamento,2023-12-31,1490.01,15481.99,,,851,Perda na etapa de transporte
-227,Transporte,Falha de processo,2024-04-28,1367.93,,,,1731,
-228,Estoque,Derramamento,2024-12-29,679.58,19396.28,,,,Perda na etapa de estoque
-229,Transporte,Derramamento,2023-06-01,1604.26,7571.51,,,,Perda na etapa de transporte
-230,Produção,Derramamento,2023-12-14,1624.24,4539.62,,1441,,Perda na etapa de produção
-231,Coleta,Derramamento,2024-11-21,1316.32,11698.57,,,,Perda na etapa de coleta
-232,Produção,Contaminação,2024-11-03,1193.68,1567.49,,,,
-233,Estoque,Devolução,2023-03-19,67.88,13668.39,,,,Perda na etapa de estoque
-234,Produção,Derramamento,2024-04-07,,12228.46,,2758,,Perda na etapa de produção
-235,Estoque,Derramamento,2024-07-21,502.51,378.62,,,,
-236,Coleta,Contaminação,2023-03-11,297.65,6900.11,,,,Perda na etapa de coleta
-237,Coleta,Vencimento,2024-03-09,83.9,5964.06,,,,
-238,Estoque,Vencimento,2024-02-17,1502.51,,,,,Perda na etapa de estoque
-239,Estoque,Contaminação,2024-07-20,1518.79,969.87,,,,Perda na etapa de estoque
-240,Estoque,Falha de processo,2023-08-26,1426.99,8225.03,,,,Perda na etapa de estoque
-241,Transporte,Contaminação,2023-10-16,102.48,14011.6,,,192,Perda na etapa de transporte
-242,Coleta,Falha de processo,2023-12-30,1766.17,12047.56,95,,,Perda na etapa de coleta
-243,Transporte,Contaminação,2023-07-16,1936.02,14894.61,,,1498,Perda na etapa de transporte
-244,Produção,Derramamento,20/10/2023,194.08,18582.09,,,,Perda na etapa de produção
-245,Produção,Devolução,2023-06-18,25.07,9108.76,,821,,Perda na etapa de produção
-246,Transporte,Devolução,2023-07-14,1040.59,12461.86,,,1213,Perda na etapa de transporte
-247,Transporte,Derramamento,2024-04-25,1500.55,1796.4,,,4272,Perda na etapa de transporte
-248,Transporte,Derramamento,2023-01-25,1705.36,841.04,,,1922,Perda na etapa de transporte
-249,Produção,Derramamento,2024-04-23,1336.32,,,2624,,Perda na etapa de produção
-250,Coleta,Devolução,2023-10-17,282.71,7767.47,,,,Perda na etapa de coleta
-251,Coleta,Derramamento,2024-01-31,1679.0,8304.86,90,,,Perda na etapa de coleta
-252,Produção,Vencimento,2024-03-13,1126.72,10208.52,,2751,,Perda na etapa de produção
-253,Transporte,Derramamento,2023-08-08,,,,,,Perda na etapa de transporte
-254,Coleta,Contaminação,2023-09-04,762.51,4677.39,,,,Perda na etapa de coleta
-255,Produção,Vencimento,27/03/2023,,1442.4,,,,Perda na etapa de produção
-256,Estoque,Contaminação,2024-04-28,,,,,,
-257,Transporte,Contaminação,2023-01-27,1646.1,,,,4558,Perda na etapa de transporte
-258,Estoque,Falha de processo,2024-03-24,,18291.89,,,,Perda na etapa de estoque
-259,Transporte,Devolução,2023-08-04,754.13,12684.11,,,,Perda na etapa de transporte
-260,Transporte,Contaminação,02/08/2023,1353.33,19511.24,,,3229,Perda na etapa de transporte
-261,Estoque,Vencimento,2024-12-21,1743.94,14179.51,,,,Perda na etapa de estoque
-262,Estoque,Derramamento,2023-01-18,1310.66,10157.43,,,,Perda na etapa de estoque
-263,Estoque,Devolução,2024-12-05,799.51,408.03,,,,Perda na etapa de estoque
-264,Coleta,Devolução,2023-03-03,1670.97,8973.75,8,,,Perda na etapa de coleta
-265,Estoque,Contaminação,2024-06-22,1611.84,13701.1,,,,Perda na etapa de estoque
-266,Estoque,Falha de processo,2023-08-31,1775.86,19108.02,,,,Perda na etapa de estoque
-267,Transporte,Falha de processo,2023-10-31,341.57,18972.53,,,,Perda na etapa de transporte
-268,Estoque,Devolução,2023-09-23,1378.5,1893.17,,,,Perda na etapa de estoque
-269,Produção,Devolução,2024-05-18,,16485.62,,,,
-270,Estoque,Derramamento,2024-08-22,565.01,7210.95,,,,Perda na etapa de estoque
-271,Estoque,Derramamento,2024-10-02,190.59,17666.81,,,,
-272,Produção,Vencimento,2023-08-18,1571.45,17273.87,,1002,,
-273,Coleta,Vencimento,2024-03-07,1062.65,1246.87,,,,Perda na etapa de coleta
-274,Transporte,Devolução,2023-10-19,1484.76,1644.88,,,,Perda na etapa de transporte
-275,Coleta,Contaminação,2023-07-12,680.5,7371.69,,,,Perda na etapa de coleta
-276,Produção,Devolução,2024-11-09,1724.75,,,,,Perda na etapa de produção
-277,Transporte,Devolução,2023-08-17,577.65,6245.79,,,3098,
-278,Estoque,Vencimento,2024-06-06,1811.09,12087.25,,,,Perda na etapa de estoque
-279,Estoque,Contaminação,2024-01-27,264.85,7893.81,,,,Perda na etapa de estoque
-280,Coleta,Devolução,2024-05-27,1087.73,1596.93,13,,,Perda na etapa de coleta
-281,Produção,Vencimento,2024-12-14,925.9,2155.48,,303,,Perda na etapa de produção
-282,Transporte,Devolução,2023-08-20,71.24,14680.09,,,1027,Perda na etapa de transporte
-283,Estoque,Derramamento,2024-01-20,1097.47,16633.41,,,,Perda na etapa de estoque
-284,Produção,Devolução,2024-08-31,1246.21,13181.84,,2951,,Perda na etapa de produção
-285,Transporte,Devolução,2023-12-17,1991.18,8077.52,,,592,Perda na etapa de transporte
-286,Transporte,Devolução,04/07/2023,1893.79,4444.34,,,,Perda na etapa de transporte
-287,Estoque,Derramamento,2024-03-10,954.36,1538.61,,,,Perda na etapa de estoque
-288,Transporte,Vencimento,2024-06-01,57.08,9960.87,,,,Perda na etapa de transporte
-289,Transporte,Vencimento,2023-02-15,884.68,18170.56,,,,Perda na etapa de transporte
-290,Produção,Contaminação,2024-03-10,1839.74,17131.31,,,,Perda na etapa de produção
-291,Transporte,Contaminação,2023-03-11,74.13,7093.34,,,1709,Perda na etapa de transporte
-292,Coleta,Falha de processo,2024-05-23,1880.76,14456.82,,,,Perda na etapa de coleta
-293,Estoque,Devolução,2023-04-17,613.48,11345.52,,,,Perda na etapa de estoque
-294,Produção,Falha de processo,2024-03-19,831.64,6646.7,,71,,
-295,Coleta,Vencimento,2023-10-26,540.15,18689.72,64,,,Perda na etapa de coleta
-296,Estoque,Derramamento,2023-02-26,612.46,16837.71,,,,Perda na etapa de estoque
-297,Transporte,Devolução,2024-12-03,157.03,6446.34,,,,Perda na etapa de transporte
-298,Produção,Derramamento,2023-01-19,274.59,,,,,
-299,Coleta,Devolução,2024-04-09,1579.88,11025.29,,,,Perda na etapa de coleta
-300,Estoque,Vencimento,2024-03-10,1732.2,12074.06,,,,Perda na etapa de estoque
-301,Transporte,Derramamento,23/11/2023,952.67,3469.58,,,,Perda na etapa de transporte
-302,Produção,Vencimento,22/05/2023,1466.43,,,1015,,Perda na etapa de produção
-303,Estoque,Devolução,2024-03-05,1059.9,6218.69,,,,Perda na etapa de estoque
-304,Estoque,Falha de processo,2023-07-26,34.43,11802.12,,,,Perda na etapa de estoque
-305,Estoque,Devolução,2024-09-19,1589.31,10815.49,,,,
-306,Coleta,Devolução,2024-10-02,460.44,2688.66,,,,
-307,Produção,Falha de processo,21/01/2024,861.17,14464.23,,1837,,Perda na etapa de produção
-308,Estoque,Falha de processo,2024-06-27,1405.79,7175.39,,,,Perda na etapa de estoque
-309,Transporte,Contaminação,2024-06-04,684.89,12879.17,,,5052,
-310,Estoque,Contaminação,2024-06-28,146.85,8230.95,,,,
-311,Coleta,Vencimento,2024-01-20,1603.74,19235.93,41,,,Perda na etapa de coleta
-312,Transporte,Derramamento,2023-03-16,1950.21,19670.57,,,,Perda na etapa de transporte
-313,Estoque,Falha de processo,2024-01-10,1902.87,9307.16,,,,Perda na etapa de estoque
-314,Transporte,Contaminação,2024-04-19,1219.45,3116.51,,,4763,Perda na etapa de transporte
-315,Coleta,Vencimento,2024-03-12,1184.52,11204.69,,,,Perda na etapa de coleta
-316,Estoque,Vencimento,2024-12-03,1889.76,,,,,Perda na etapa de estoque
-317,Coleta,Devolução,2023-09-01,162.17,12466.44,54,,,
-318,Estoque,Vencimento,2023-05-03,665.91,17746.82,,,,Perda na etapa de estoque
-319,Coleta,Derramamento,2024-05-13,719.32,8250.31,90,,,
-320,Produção,Falha de processo,2024-08-03,1915.23,8610.59,,1630,,Perda na etapa de produção
-321,Coleta,Derramamento,2024-03-10,1779.3,12854.32,30,,,Perda na etapa de coleta
-322,Coleta,Vencimento,2023-04-12,167.56,6651.26,,,,Perda na etapa de coleta
-323,Coleta,Contaminação,2023-05-03,495.68,16684.42,,,,Perda na etapa de coleta
-324,Produção,Vencimento,2023-04-17,141.15,11270.98,,1949,,
-325,Produção,Devolução,2023-09-12,1600.61,12557.21,,2329,,Perda na etapa de produção
-326,Transporte,Contaminação,2023-03-02,1724.09,13337.73,,,2725,Perda na etapa de transporte
-327,Estoque,Derramamento,2024-12-19,531.68,2915.39,,,,Perda na etapa de estoque
-328,Transporte,Contaminação,2024-12-17,473.12,17212.4,,,266,Perda na etapa de transporte
-329,Transporte,Contaminação,2024-07-30,406.88,12975.9,,,4202,Perda na etapa de transporte
-330,Transporte,Falha de processo,2023-04-11,1361.78,14199.41,,,,Perda na etapa de transporte
-331,Transporte,Devolução,2024-07-01,22.73,4554.17,,,918,Perda na etapa de transporte
-332,Produção,Contaminação,2023-08-05,125.81,19464.69,,2148,,Perda na etapa de produção
-333,Coleta,Devolução,2024-11-23,93.31,17695.23,,,,Perda na etapa de coleta
-334,Coleta,Contaminação,2024-05-15,540.91,18271.91,,,,Perda na etapa de coleta
-335,Produção,Contaminação,2023-01-17,540.42,15732.69,,,,Perda na etapa de produção
-336,Transporte,Derramamento,2023-11-10,190.82,16113.82,,,,Perda na etapa de transporte
-337,Estoque,Devolução,2024-02-17,828.69,5538.54,,,,
-338,Transporte,Vencimento,2024-09-17,1055.4,815.14,,,1582,Perda na etapa de transporte
-339,Coleta,Contaminação,2023-09-13,,,,,,Perda na etapa de coleta
-340,Transporte,Derramamento,2023-09-06,864.61,,,,,Perda na etapa de transporte
-341,Produção,Vencimento,2023-10-05,1413.28,6406.64,,278,,Perda na etapa de produção
-342,Produção,Derramamento,2023-05-17,569.45,2098.07,,1255,,Perda na etapa de produção
-343,Transporte,Vencimento,2023-12-07,1480.03,11493.87,,,,Perda na etapa de transporte
-344,Estoque,Devolução,2023-08-22,878.99,15083.76,,,,Perda na etapa de estoque
-345,Coleta,Vencimento,2023-09-26,1073.52,1682.52,,,,Perda na etapa de coleta
-346,Estoque,Contaminação,2023-04-29,1892.82,14257.91,,,,Perda na etapa de estoque
-347,Coleta,Falha de processo,2024-11-20,709.37,4589.87,,,,Perda na etapa de coleta
-348,Coleta,Contaminação,2023-07-07,1765.97,5777.05,50,,,Perda na etapa de coleta
-349,Coleta,Devolução,2023-09-22,1149.2,750.99,87,,,
-350,Estoque,Vencimento,2024-07-31,39.6,2138.2,,,,Perda na etapa de estoque
-351,Coleta,Falha de processo,2023-05-12,901.6,10881.34,,,,
-352,Produção,Derramamento,2024-12-20,1758.78,6960.78,,2126,,Perda na etapa de produção
-353,Transporte,Derramamento,2023-11-09,1124.05,419.21,,,,Perda na etapa de transporte
-354,Coleta,Falha de processo,2024-09-12,,9511.95,42,,,Perda na etapa de coleta
-355,Estoque,Falha de processo,2023-11-23,11.18,7619.7,,,,
-356,Produção,Devolução,2024-08-07,229.6,9825.12,,628,,Perda na etapa de produção
-357,Transporte,Falha de processo,2024-10-27,,18941.55,,,,Perda na etapa de transporte
-358,Transporte,Vencimento,2023-12-24,962.49,2295.39,,,2155,Perda na etapa de transporte
-359,Coleta,Vencimento,2024-07-22,229.42,12035.94,,,,
-360,Produção,Devolução,2023-01-29,1995.15,9654.8,,2294,,Perda na etapa de produção
-361,Estoque,Contaminação,2024-06-12,1753.8,3574.76,,,,
-362,Produção,Falha de processo,2023-11-07,993.16,1687.78,,,,Perda na etapa de produção
-363,Estoque,Falha de processo,2023-08-29,1545.4,8204.53,,,,Perda na etapa de estoque
-364,Estoque,Contaminação,2024-10-10,306.99,5307.7,,,,Perda na etapa de estoque
-365,Transporte,Vencimento,2024-01-04,1081.82,5867.09,,,,Perda na etapa de transporte
-366,Coleta,Vencimento,2024-06-15,362.73,2254.27,,,,Perda na etapa de coleta
-367,Transporte,Falha de processo,2024-11-12,112.51,15160.79,,,,Perda na etapa de transporte
-368,Coleta,Falha de processo,2024-05-04,,4641.5,,,,Perda na etapa de coleta
-369,Produção,Devolução,2024-10-18,1453.07,4325.11,,,,Perda na etapa de produção
-370,Transporte,Derramamento,2023-08-28,1639.74,3507.67,,,,Perda na etapa de transporte
-371,Produção,Vencimento,2023-10-08,1382.19,12457.25,,,,Perda na etapa de produção
-372,Estoque,Vencimento,2023-11-11,708.94,12636.66,,,,Perda na etapa de estoque
-373,Estoque,Derramamento,01/08/2024,429.78,18438.8,,,,
-374,Transporte,Falha de processo,2023-07-29,576.67,1011.11,,,329,Perda na etapa de transporte
-375,Coleta,Devolução,2023-09-05,188.37,7119.67,,,,Perda na etapa de coleta
-376,Produção,Derramamento,2024-09-20,280.0,18508.97,,503,,Perda na etapa de produção
-377,Estoque,Falha de processo,2023-06-17,163.9,8788.86,,,,Perda na etapa de estoque
-378,Estoque,Vencimento,2023-09-23,51.11,16800.32,,,,Perda na etapa de estoque
-379,Estoque,Vencimento,2023-01-09,817.28,7190.18,,,,Perda na etapa de estoque
-380,Transporte,Falha de processo,2023-12-02,110.05,18692.68,,,,Perda na etapa de transporte
-381,Estoque,Derramamento,2024-07-19,641.18,10487.46,,,,Perda na etapa de estoque
-382,Estoque,Devolução,2024-02-09,1804.11,19871.79,,,,Perda na etapa de estoque
-383,Coleta,Devolução,2024-09-03,823.84,9237.08,,,,Perda na etapa de coleta
-384,Produção,Devolução,2023-08-24,1664.83,9737.66,,321,,
-385,Transporte,Devolução,2023-02-06,1427.67,17750.23,,,1021,Perda na etapa de transporte
-386,Estoque,Falha de processo,2024-07-25,1407.38,17714.82,,,,Perda na etapa de estoque
-387,Transporte,Contaminação,2023-10-24,621.13,4440.07,,,1442,Perda na etapa de transporte
-388,Coleta,Contaminação,2023-06-17,1280.01,17266.59,39,,,
-389,Transporte,Derramamento,2024-09-18,1588.54,7034.38,,,2302,Perda na etapa de transporte
-390,Produção,Vencimento,2023-07-04,1790.15,8692.25,,2791,,Perda na etapa de produção
-391,Estoque,Vencimento,2023-12-06,1110.72,,,,,Perda na etapa de estoque
-392,Produção,Contaminação,2024-07-19,1564.43,1309.06,,,,Perda na etapa de produção
-393,Estoque,Derramamento,2024-04-30,315.27,4903.84,,,,Perda na etapa de estoque
-394,Transporte,Vencimento,2024-12-30,1001.32,17648.26,,,1430,Perda na etapa de transporte
-395,Estoque,Falha de processo,2023-07-02,318.61,17438.64,,,,
-396,Produção,Derramamento,2023-01-31,,18562.27,,1297,,Perda na etapa de produção
-397,Transporte,Vencimento,2023-06-30,1066.46,2072.23,,,,Perda na etapa de transporte
-398,Estoque,Falha de processo,2024-03-28,1395.92,7397.26,,,,Perda na etapa de estoque
-399,Produção,Devolução,2024-06-19,720.76,5295.78,,,,Perda na etapa de produção
-400,Transporte,Vencimento,2023-05-23,884.75,15733.64,,,4689,Perda na etapa de transporte
-401,Estoque,Derramamento,2023-04-02,1423.75,13058.5,,,,Perda na etapa de estoque
-402,Transporte,Devolução,27/08/2024,833.19,4950.34,,,,Perda na etapa de transporte
-403,Estoque,Falha de processo,2023-10-16,1064.96,4933.75,,,,Perda na etapa de estoque
-404,Transporte,Devolução,2023-03-31,814.83,18220.02,,,,Perda na etapa de transporte
-405,Estoque,Falha de processo,2024-10-02,1762.26,,,,,Perda na etapa de estoque
-406,Estoque,Vencimento,2023-09-16,1520.3,18059.93,,,,Perda na etapa de estoque
-407,Estoque,Falha de processo,2023-04-13,638.78,19009.46,,,,Perda na etapa de estoque
-408,Coleta,Vencimento,2024-12-21,995.65,,,,,Perda na etapa de coleta
-409,Produção,Vencimento,2024-03-29,560.49,6824.25,,,,Perda na etapa de produção
-410,Produção,Devolução,2024-12-02,557.81,13794.12,,,,Perda na etapa de produção
-411,Transporte,Contaminação,2024-07-05,1976.2,1756.66,,,1209,Perda na etapa de transporte
-412,Produção,Derramamento,2024-08-25,154.86,735.49,,362,,
-413,Produção,Derramamento,2023-10-30,1929.28,6169.96,,362,,Perda na etapa de produção
-414,Coleta,Devolução,2024-12-10,1504.18,2272.21,,,,Perda na etapa de coleta
-415,Transporte,Contaminação,2023-12-07,73.17,1374.02,,,336,Perda na etapa de transporte
-416,Coleta,Derramamento,2023-07-04,1754.16,13495.41,,,,Perda na etapa de coleta
-417,Estoque,Vencimento,25/06/2023,50.89,12382.85,,,,Perda na etapa de estoque
-418,Coleta,Falha de processo,2023-06-20,1198.47,6278.67,,,,Perda na etapa de coleta
-419,Estoque,Vencimento,2024-04-15,1146.92,15322.07,,,,Perda na etapa de estoque
-420,Produção,Falha de processo,2023-12-26,242.45,17143.27,,1302,,Perda na etapa de produção
-421,Transporte,Derramamento,2024-03-04,314.98,,,,1899,
-422,Transporte,Vencimento,2024-04-27,630.32,2913.43,,,,
-423,Estoque,Devolução,2024-06-05,583.22,19397.82,,,,Perda na etapa de estoque
-424,Coleta,Derramamento,2023-03-05,8.9,9354.91,,,,
-425,Produção,Devolução,2024-01-28,1034.71,12033.41,,1996,,Perda na etapa de produção
-426,Coleta,Devolução,2023-10-05,939.95,14360.53,,,,Perda na etapa de coleta
-427,Coleta,Contaminação,2023-01-27,1598.07,17837.8,,,,Perda na etapa de coleta
-428,Produção,Falha de processo,2023-03-17,38.5,10302.1,,,,
-429,Produção,Vencimento,2023-06-11,836.31,7843.84,,1047,,Perda na etapa de produção
-430,Produção,Derramamento,2023-09-29,628.48,15126.28,,,,
-431,Transporte,Vencimento,2023-05-23,1332.02,16794.11,,,4097,
-432,Coleta,Derramamento,2024-07-19,1685.13,19741.11,,,,Perda na etapa de coleta
-433,Produção,Falha de processo,2024-05-09,1063.56,16794.8,,975,,
-434,Transporte,Vencimento,2023-04-15,180.01,7883.23,,,,Perda na etapa de transporte
-435,Transporte,Falha de processo,2023-01-18,128.65,,,,,Perda na etapa de transporte
-436,Estoque,Derramamento,2024-03-05,378.78,10476.39,,,,Perda na etapa de estoque
-437,Estoque,Derramamento,2023-04-13,1631.72,19618.4,,,,Perda na etapa de estoque
-438,Coleta,Contaminação,2024-08-12,1022.52,9159.49,,,,Perda na etapa de coleta
-439,Coleta,Devolução,2023-02-08,785.17,,47,,,Perda na etapa de coleta
-440,Estoque,Devolução,2023-11-11,651.59,2726.87,,,,Perda na etapa de estoque
-441,Transporte,Devolução,2024-06-13,1202.27,2497.43,,,,Perda na etapa de transporte
-442,Coleta,Falha de processo,2023-09-07,92.14,977.48,,,,Perda na etapa de coleta
-443,Coleta,Derramamento,2023-01-02,1180.34,1526.11,7,,,
-444,Estoque,Derramamento,2023-04-18,255.37,,,,,
-445,Produção,Vencimento,2024-06-14,1347.69,9884.25,,,,Perda na etapa de produção
-446,Coleta,Vencimento,2023-02-14,1678.91,1502.75,18,,,Perda na etapa de coleta
-447,Estoque,Derramamento,2023-05-25,1876.53,5764.72,,,,Perda na etapa de estoque
-448,Transporte,Contaminação,2023-03-14,699.31,9767.22,,,,Perda na etapa de transporte
-449,Estoque,Contaminação,2024-05-09,681.94,11128.59,,,,Perda na etapa de estoque
-450,Produção,Devolução,2023-01-11,1847.24,1600.74,,,,Perda na etapa de produção
-451,Transporte,Contaminação,2024-07-17,1928.14,19845.03,,,319,Perda na etapa de transporte
-452,Transporte,Devolução,2023-01-28,594.17,1635.98,,,2058,Perda na etapa de transporte
-453,Estoque,Vencimento,2024-03-15,1089.34,,,,,Perda na etapa de estoque
-454,Estoque,Vencimento,2023-10-03,93.79,1619.25,,,,Perda na etapa de estoque
-455,Produção,Falha de processo,2024-12-18,756.7,,,1957,,Perda na etapa de produção
-456,Produção,Derramamento,2024-01-06,,10712.96,,,,Perda na etapa de produção
-457,Transporte,Falha de processo,2024-02-28,714.5,12430.29,,,2023,Perda na etapa de transporte
-458,Coleta,Devolução,2024-11-01,1234.93,247.55,,,,Perda na etapa de coleta
-459,Estoque,Devolução,2024-06-19,1461.76,10953.38,,,,
-460,Coleta,Falha de processo,2024-09-28,1390.53,8314.95,3,,,Perda na etapa de coleta
-461,Produção,Derramamento,2024-12-20,812.73,,,1992,,
-462,Transporte,Derramamento,2023-04-08,553.4,6239.08,,,2829,Perda na etapa de transporte
-463,Produção,Falha de processo,2023-05-24,452.51,4193.62,,,,Perda na etapa de produção
-464,Coleta,Vencimento,2024-04-16,1690.33,6237.29,1,,,Perda na etapa de coleta
-465,Estoque,Derramamento,2023-06-09,878.27,15222.85,,,,Perda na etapa de estoque
-466,Transporte,Vencimento,2023-08-01,1385.58,9973.1,,,,Perda na etapa de transporte
-467,Transporte,Devolução,2023-09-29,1382.77,13566.52,,,,Perda na etapa de transporte
-468,Produção,Vencimento,2023-01-28,,5478.97,,2175,,
-469,Estoque,Falha de processo,2023-04-24,1109.79,8148.84,,,,Perda na etapa de estoque
-470,Transporte,Devolução,2023-01-02,1484.5,7312.72,,,4176,Perda na etapa de transporte
-471,Transporte,Contaminação,2024-01-17,140.72,4887.89,,,2017,
-472,Produção,Falha de processo,2024-06-22,279.66,6560.09,,2178,,Perda na etapa de produção
-473,Coleta,Falha de processo,2024-03-03,588.22,17349.91,93,,,Perda na etapa de coleta
-474,Estoque,Contaminação,2023-02-11,1810.98,,,,,Perda na etapa de estoque
-475,Coleta,Falha de processo,2023-05-04,1617.93,,,,,Perda na etapa de coleta
-476,Coleta,Vencimento,2023-05-14,1125.5,9616.31,,,,Perda na etapa de coleta
-477,Transporte,Vencimento,2023-04-19,1203.5,,,,,Perda na etapa de transporte
-478,Coleta,Devolução,2024-08-20,272.92,6163.86,,,,
-479,Coleta,Contaminação,2024-09-27,590.08,1592.61,,,,Perda na etapa de coleta
-480,Coleta,Falha de processo,2024-04-25,1124.45,17544.3,22,,,
-481,Produção,Vencimento,2024-05-16,545.33,13668.39,,289,,Perda na etapa de produção
-482,Produção,Devolução,2024-10-27,156.97,6471.62,,487,,
-483,Transporte,Falha de processo,2023-07-03,1023.61,4482.85,,,,Perda na etapa de transporte
-484,Coleta,Derramamento,2024-01-14,1837.65,13379.43,69,,,
-485,Coleta,Falha de processo,2024-06-09,507.68,15487.46,83,,,Perda na etapa de coleta
-486,Estoque,Derramamento,2023-07-08,152.83,6693.61,,,,Perda na etapa de estoque
-487,Produção,Contaminação,2024-05-11,731.88,18568.73,,,,Perda na etapa de produção
-488,Coleta,Falha de processo,2024-09-20,679.65,11182.65,,,,Perda na etapa de coleta
-489,Estoque,Devolução,13/08/2024,699.87,10375.08,,,,Perda na etapa de estoque
-490,Produção,Devolução,2024-12-16,335.8,8069.78,,1534,,Perda na etapa de produção
-491,Produção,Derramamento,2023-12-31,1727.42,,,,,Perda na etapa de produção
-492,Estoque,Derramamento,2024-09-22,812.49,19056.19,,,,Perda na etapa de estoque
-493,Estoque,Derramamento,2024-02-11,1073.53,4112.66,,,,Perda na etapa de estoque
-494,Produção,Contaminação,2024-02-01,640.47,11555.67,,2860,,Perda na etapa de produção
-495,Produção,Derramamento,2023-06-03,58.62,1135.59,,,,Perda na etapa de produção
-496,Estoque,Derramamento,2023-05-10,749.86,6501.13,,,,Perda na etapa de estoque
-497,Transporte,Falha de processo,2023-01-24,1262.33,141.13,,,5238,Perda na etapa de transporte
-498,Transporte,Falha de processo,2023-05-20,790.54,745.86,,,,Perda na etapa de transporte
-499,Transporte,Vencimento,2024-06-23,1606.59,4005.37,,,,Perda na etapa de transporte
-500,Estoque,Vencimento,2023-10-12,,8349.7,,,,Perda na etapa de estoque
-501,Transporte,Contaminação,02/01/2024,1811.51,4962.07,,,,Perda na etapa de transporte
-502,Estoque,Falha de processo,2023-07-03,1312.47,7306.2,,,,Perda na etapa de estoque
-503,Coleta,Devolução,2024-11-12,701.59,19376.5,65,,,Perda na etapa de coleta
-504,Produção,Vencimento,2024-04-13,491.51,5443.85,,,,
-505,Coleta,Derramamento,2023-06-15,1499.17,19149.51,,,,Perda na etapa de coleta
-506,Estoque,Devolução,2023-08-17,,13704.93,,,,Perda na etapa de estoque
-507,Transporte,Contaminação,2023-09-24,1330.22,9648.68,,,3759,Perda na etapa de transporte
-508,Estoque,Vencimento,2024-12-26,630.22,17293.37,,,,Perda na etapa de estoque
-509,Estoque,Derramamento,2024-11-01,1950.23,3267.31,,,,Perda na etapa de estoque
-510,Coleta,Falha de processo,2024-05-09,1424.39,8036.12,78,,,Perda na etapa de coleta
-511,Coleta,Devolução,2024-11-27,893.21,13824.52,41,,,Perda na etapa de coleta
-512,Transporte,Derramamento,2023-08-15,,,,,243,Perda na etapa de transporte
-513,Produção,Vencimento,2024-07-10,,7229.61,,2615,,Perda na etapa de produção
-514,Transporte,Derramamento,2024-08-29,958.28,1578.27,,,4363,Perda na etapa de transporte
-515,Coleta,Vencimento,2023-08-07,1815.45,4719.04,54,,,Perda na etapa de coleta
-516,Estoque,Derramamento,2024-03-19,108.81,11133.26,,,,
-517,Coleta,Derramamento,2023-06-03,188.2,,,,,Perda na etapa de coleta
-518,Transporte,Vencimento,2023-04-23,141.86,9118.43,,,4249,
-519,Coleta,Falha de processo,2023-07-26,928.91,15923.74,,,,Perda na etapa de coleta
-520,Estoque,Devolução,2023-01-17,614.65,2222.04,,,,Perda na etapa de estoque
-521,Estoque,Falha de processo,2023-01-20,1578.84,6790.99,,,,Perda na etapa de estoque
-522,Coleta,Devolução,2023-04-27,263.83,3192.61,98,,,Perda na etapa de coleta
-523,Coleta,Contaminação,2024-04-04,633.32,6342.1,47,,,Perda na etapa de coleta
-524,Estoque,Contaminação,2023-02-03,426.51,6215.5,,,,
-525,Estoque,Falha de processo,2024-04-22,6.34,8866.05,,,,Perda na etapa de estoque
-526,Coleta,Contaminação,2024-02-23,1130.45,19922.28,38,,,Perda na etapa de coleta
-527,Transporte,Contaminação,2024-05-06,242.2,4857.33,,,3018,Perda na etapa de transporte
-528,Transporte,Falha de processo,2023-05-24,1200.98,19742.52,,,,Perda na etapa de transporte
-529,Estoque,Contaminação,2023-12-13,1365.56,3244.37,,,,Perda na etapa de estoque
-530,Estoque,Derramamento,2023-08-28,709.43,3334.57,,,,Perda na etapa de estoque
-531,Estoque,Vencimento,2024-10-11,551.64,9251.52,,,,Perda na etapa de estoque
-532,Transporte,Contaminação,2023-02-06,665.91,15985.46,,,2171,Perda na etapa de transporte
-533,Transporte,Falha de processo,2024-04-06,1339.27,13515.98,,,72,Perda na etapa de transporte
-534,Produção,Contaminação,2024-08-22,704.03,19422.06,,,,
-535,Transporte,Falha de processo,18/02/2023,333.57,15679.96,,,3718,Perda na etapa de transporte
-536,Transporte,Contaminação,2024-10-28,572.7,,,,5136,Perda na etapa de transporte
-537,Estoque,Falha de processo,2024-08-05,391.56,3092.84,,,,Perda na etapa de estoque
-538,Produção,Contaminação,2023-07-17,1551.3,17312.0,,,,Perda na etapa de produção
-539,Transporte,Vencimento,21/06/2024,193.15,,,,252,Perda na etapa de transporte
-540,Produção,Vencimento,28/03/2024,190.12,7099.68,,2570,,
-541,Estoque,Devolução,2024-06-26,492.14,9027.11,,,,Perda na etapa de estoque
-542,Coleta,Derramamento,2023-07-16,113.4,1307.75,,,,Perda na etapa de coleta
-543,Coleta,Devolução,2024-07-23,320.87,16446.89,,,,Perda na etapa de coleta
-544,Transporte,Contaminação,2024-08-30,768.28,16279.86,,,4458,Perda na etapa de transporte
-545,Coleta,Falha de processo,2023-06-06,230.86,18338.75,94,,,Perda na etapa de coleta
-546,Coleta,Devolução,2023-07-21,1115.3,6802.11,75,,,Perda na etapa de coleta
-547,Produção,Vencimento,2024-02-03,91.28,16813.07,,,,Perda na etapa de produção
-548,Transporte,Derramamento,2023-04-10,1048.08,10173.84,,,2920,Perda na etapa de transporte
-549,Produção,Falha de processo,2024-01-10,952.58,2675.16,,,,Perda na etapa de produção
-550,Produção,Derramamento,2023-03-24,845.41,13378.77,,1753,,Perda na etapa de produção
-551,Coleta,Devolução,2024-01-05,1829.19,19993.19,,,,Perda na etapa de coleta
-552,Produção,Vencimento,2024-11-24,,5255.77,,,,Perda na etapa de produção
-553,Estoque,Devolução,2024-08-02,441.15,,,,,Perda na etapa de estoque
-554,Produção,Contaminação,2023-02-02,449.36,16479.11,,,,Perda na etapa de produção
-555,Estoque,Derramamento,2024-06-25,439.6,7587.7,,,,Perda na etapa de estoque
-556,Transporte,Falha de processo,2024-12-27,1014.44,18694.18,,,370,Perda na etapa de transporte
-557,Coleta,Falha de processo,2023-12-26,282.25,118.89,79,,,Perda na etapa de coleta
-558,Estoque,Contaminação,2024-08-29,563.58,16710.89,,,,Perda na etapa de estoque
-559,Estoque,Vencimento,2024-11-19,54.05,13616.75,,,,Perda na etapa de estoque
-560,Coleta,Contaminação,2024-01-18,345.12,19836.99,,,,Perda na etapa de coleta
-561,Transporte,Contaminação,2023-11-23,610.89,18559.02,,,2918,Perda na etapa de transporte
-562,Coleta,Falha de processo,2023-03-06,1464.84,13867.69,,,,Perda na etapa de coleta
-563,Transporte,Devolução,2024-08-24,67.16,19977.89,,,,
-564,Transporte,Falha de processo,2024-05-29,396.06,17931.86,,,,Perda na etapa de transporte
-565,Transporte,Devolução,2023-01-17,1339.23,19613.3,,,,
-566,Transporte,Vencimento,2024-01-14,482.96,14207.23,,,2474,Perda na etapa de transporte
-567,Estoque,Devolução,2024-06-17,1384.58,11572.57,,,,Perda na etapa de estoque
-568,Produção,Contaminação,2024-12-09,1105.35,6340.31,,,,Perda na etapa de produção
-569,Coleta,Derramamento,2024-11-09,325.81,19813.56,,,,Perda na etapa de coleta
-570,Coleta,Derramamento,2023-12-09,1694.45,12219.13,,,,Perda na etapa de coleta
-571,Produção,Derramamento,2023-06-01,554.45,,,,,Perda na etapa de produção
-572,Coleta,Derramamento,2024-04-04,818.91,5288.38,,,,Perda na etapa de coleta
-573,Produção,Contaminação,2024-11-27,182.62,2099.35,,,,Perda na etapa de produção
-574,Estoque,Falha de processo,2024-10-12,318.36,3313.61,,,,Perda na etapa de estoque
-575,Transporte,Contaminação,2024-01-30,141.76,4517.6,,,749,Perda na etapa de transporte
-576,Produção,Derramamento,2024-08-28,,2314.71,,,,
-577,Estoque,Devolução,2024-07-23,183.49,,,,,
-578,Estoque,Derramamento,2023-10-20,854.94,1759.4,,,,Perda na etapa de estoque
-579,Transporte,Derramamento,2024-05-04,1621.82,17951.47,,,,Perda na etapa de transporte
-580,Coleta,Falha de processo,2023-01-09,813.05,2478.13,78,,,Perda na etapa de coleta
-581,Coleta,Derramamento,2023-07-31,80.55,8765.11,,,,Perda na etapa de coleta
-582,Produção,Falha de processo,2024-02-08,1386.68,18545.35,,1791,,Perda na etapa de produção
-583,Estoque,Falha de processo,2023-04-02,1562.96,,,,,Perda na etapa de estoque
-584,Coleta,Derramamento,2023-08-17,125.42,3870.78,87,,,Perda na etapa de coleta
-585,Estoque,Devolução,2024-01-20,915.12,18540.94,,,,
-586,Produção,Falha de processo,2024-08-05,1680.86,2146.26,,,,Perda na etapa de produção
-587,Transporte,Devolução,2024-01-24,1875.99,2996.11,,,166,Perda na etapa de transporte
-588,Transporte,Contaminação,2024-07-31,549.96,6294.43,,,,Perda na etapa de transporte
-589,Coleta,Devolução,2024-08-22,784.9,12047.48,,,,Perda na etapa de coleta
-590,Coleta,Devolução,2023-06-05,1062.56,4079.81,,,,Perda na etapa de coleta
-591,Produção,Derramamento,2024-12-04,1708.93,4699.71,,,,Perda na etapa de produção
-592,Coleta,Vencimento,2023-12-29,1402.94,4443.36,,,,Perda na etapa de coleta
-593,Estoque,Derramamento,2024-01-16,1433.82,2006.18,,,,Perda na etapa de estoque
-594,Transporte,Vencimento,2024-09-10,1749.68,5740.91,,,357,Perda na etapa de transporte
-595,Produção,Devolução,2024-07-08,1613.34,5799.24,,,,Perda na etapa de produção
-596,Coleta,Derramamento,2024-12-06,,13989.03,40,,,Perda na etapa de coleta
-597,Transporte,Contaminação,2023-08-26,1499.12,12294.53,,,1569,Perda na etapa de transporte
-598,Coleta,Derramamento,2024-04-14,,17882.89,2,,,Perda na etapa de coleta
-599,Produção,Vencimento,2023-09-13,26.68,11173.94,,2908,,Perda na etapa de produção
-600,Coleta,Vencimento,2023-03-19,1622.85,19324.87,,,,Perda na etapa de coleta
-601,Coleta,Falha de processo,2023-06-02,1435.3,,,,,Perda na etapa de coleta
-602,Produção,Contaminação,2023-02-21,1693.21,,,,,Perda na etapa de produção
-603,Produção,Contaminação,2023-06-28,262.24,,,,,Perda na etapa de produção
-604,Estoque,Contaminação,2024-04-08,214.48,17257.56,,,,Perda na etapa de estoque
-605,Estoque,Devolução,2024-04-05,1338.59,,,,,Perda na etapa de estoque
-606,Produção,Devolução,2024-09-30,226.89,8784.55,,1480,,Perda na etapa de produção
-607,Coleta,Derramamento,2024-07-27,1893.62,15704.59,65,,,Perda na etapa de coleta
-608,Coleta,Derramamento,2023-06-21,936.11,3260.85,,,,
-609,Transporte,Falha de processo,2023-03-12,1104.6,3224.79,,,4371,Perda na etapa de transporte
-610,Produção,Vencimento,2024-09-04,610.3,394.42,,2402,,
-611,Estoque,Falha de processo,2024-11-23,317.9,3037.19,,,,Perda na etapa de estoque
-612,Produção,Contaminação,2023-02-08,460.42,16846.72,,,,Perda na etapa de produção
-613,Produção,Derramamento,2024-03-20,1650.91,4211.25,,2987,,Perda na etapa de produção
-614,Coleta,Devolução,2023-02-07,,13019.52,,,,Perda na etapa de coleta
-615,Estoque,Contaminação,2023-08-21,1378.59,10624.88,,,,Perda na etapa de estoque
-616,Coleta,Derramamento,2023-10-27,1757.0,15520.29,,,,Perda na etapa de coleta
-617,Coleta,Contaminação,2023-09-23,1465.21,6156.9,,,,
-618,Produção,Contaminação,2024-08-26,17.5,2743.37,,,,Perda na etapa de produção
-619,Coleta,Derramamento,2024-08-04,1086.32,9390.54,,,,Perda na etapa de coleta
-620,Produção,Falha de processo,2024-01-07,279.84,5055.85,,,,
-621,Estoque,Falha de processo,2024-07-03,1798.17,11466.62,,,,Perda na etapa de estoque
-622,Produção,Vencimento,2023-12-27,1908.13,,,81,,Perda na etapa de produção
-623,Transporte,Falha de processo,2024-02-14,1162.67,12405.56,,,5355,Perda na etapa de transporte
-624,Estoque,Contaminação,2023-11-02,593.25,18902.35,,,,Perda na etapa de estoque
-625,Transporte,Vencimento,2023-12-17,450.36,13154.2,,,2729,Perda na etapa de transporte
-626,Produção,Falha de processo,2023-07-22,1194.11,353.27,,,,Perda na etapa de produção
-627,Produção,Falha de processo,2024-11-01,1883.66,9489.2,,,,
-628,Produção,Vencimento,2024-01-12,1211.33,9844.53,,2119,,Perda na etapa de produção
-629,Transporte,Vencimento,2023-09-11,1180.69,11326.13,,,,Perda na etapa de transporte
-630,Produção,Contaminação,2023-07-20,497.74,13311.14,,1904,,Perda na etapa de produção
-631,Transporte,Vencimento,2023-06-05,1193.56,19204.03,,,3656,
-632,Transporte,Devolução,2024-07-08,1053.48,14070.17,,,,Perda na etapa de transporte
-633,Transporte,Contaminação,2024-05-22,824.9,10117.44,,,5204,
-634,Produção,Falha de processo,2024-02-02,248.65,8180.67,,,,Perda na etapa de produção
-635,Estoque,Devolução,2023-11-21,1302.54,3082.88,,,,Perda na etapa de estoque
-636,Produção,Derramamento,2023-12-25,458.69,5241.99,,,,Perda na etapa de produção
-637,Estoque,Contaminação,2023-03-29,620.13,15297.97,,,,
-638,Produção,Derramamento,2024-09-22,1652.62,3213.3,,223,,Perda na etapa de produção
-639,Estoque,Contaminação,2023-10-29,643.38,17896.67,,,,Perda na etapa de estoque
-640,Coleta,Vencimento,2024-09-03,,1484.75,96,,,Perda na etapa de coleta
-641,Transporte,Falha de processo,2023-05-10,1949.4,12008.96,,,3119,Perda na etapa de transporte
-642,Coleta,Devolução,2024-11-10,1004.46,7062.33,90,,,Perda na etapa de coleta
-643,Coleta,Contaminação,2023-02-02,1028.36,19561.31,,,,Perda na etapa de coleta
-644,Estoque,Contaminação,2023-04-27,618.98,11623.11,,,,Perda na etapa de estoque
-645,Coleta,Devolução,2024-09-19,667.32,5752.21,,,,Perda na etapa de coleta
-646,Coleta,Derramamento,2024-06-16,712.84,14644.68,,,,Perda na etapa de coleta
-647,Produção,Falha de processo,2024-08-05,347.34,18025.9,,,,Perda na etapa de produção
-648,Transporte,Falha de processo,2024-08-28,307.15,14163.59,,,,Perda na etapa de transporte
-649,Produção,Contaminação,2024-09-03,215.64,11184.64,,,,Perda na etapa de produção
-650,Produção,Derramamento,2023-07-22,889.05,16852.56,,913,,Perda na etapa de produção
-651,Estoque,Contaminação,2023-03-24,8.39,11654.61,,,,Perda na etapa de estoque
-652,Produção,Contaminação,2024-03-14,1007.99,5806.35,,,,Perda na etapa de produção
-653,Produção,Falha de processo,2023-07-03,962.46,15580.34,,1183,,
-654,Coleta,Derramamento,2024-04-20,956.08,6995.26,,,,Perda na etapa de coleta
-655,Estoque,Derramamento,2024-02-19,1056.48,1466.44,,,,Perda na etapa de estoque
-656,Coleta,Derramamento,2023-08-23,323.25,15268.99,71,,,Perda na etapa de coleta
-657,Produção,Contaminação,2023-09-18,674.53,16757.68,,2341,,Perda na etapa de produção
-658,Coleta,Vencimento,2024-10-22,1717.35,2163.6,46,,,Perda na etapa de coleta
-659,Coleta,Devolução,2023-09-03,767.44,6782.46,39,,,Perda na etapa de coleta
-660,Transporte,Vencimento,2023-05-27,38.57,17727.68,,,3172,Perda na etapa de transporte
-661,Produção,Derramamento,2023-07-29,341.23,12951.33,,1305,,Perda na etapa de produção
-662,Transporte,Contaminação,2024-04-06,207.1,8104.19,,,2241,
-663,Produção,Derramamento,2023-06-27,609.16,12761.97,,,,Perda na etapa de produção
-664,Coleta,Devolução,2023-06-03,1941.06,1918.79,,,,Perda na etapa de coleta
-665,Produção,Derramamento,2024-07-16,792.75,11408.2,,2475,,
-666,Coleta,Contaminação,2024-10-24,1716.99,19509.67,,,,Perda na etapa de coleta
-667,Estoque,Vencimento,2023-09-11,315.73,4285.75,,,,
-668,Produção,Derramamento,2023-11-15,1250.45,7222.23,,156,,Perda na etapa de produção
-669,Produção,Falha de processo,2024-05-28,157.55,558.72,,104,,Perda na etapa de produção
-670,Transporte,Devolução,2023-02-25,437.82,595.52,,,2621,
-671,Coleta,Devolução,25/02/2024,866.69,5099.22,10,,,Perda na etapa de coleta
-672,Coleta,Vencimento,2024-06-02,1665.98,7291.21,36,,,
-673,Estoque,Contaminação,2024-01-10,441.61,7493.45,,,,Perda na etapa de estoque
-674,Transporte,Derramamento,2024-11-01,1564.59,19852.02,,,,Perda na etapa de transporte
-675,Estoque,Vencimento,2024-09-25,,12145.95,,,,Perda na etapa de estoque
-676,Produção,Contaminação,2024-09-24,34.73,3378.09,,,,Perda na etapa de produção
-677,Produção,Vencimento,2023-09-29,1949.65,2833.64,,801,,Perda na etapa de produção
-678,Produção,Derramamento,2023-08-24,1642.79,10946.58,,2066,,Perda na etapa de produção
-679,Transporte,Falha de processo,2023-03-24,1467.51,11424.28,,,,Perda na etapa de transporte
-680,Transporte,Vencimento,14/05/2023,1756.07,3172.73,,,,
-681,Estoque,Falha de processo,2023-01-23,544.7,405.3,,,,Perda na etapa de estoque
-682,Transporte,Devolução,2024-02-23,1095.68,13262.08,,,,Perda na etapa de transporte
-683,Estoque,Vencimento,2024-05-27,1572.22,10772.91,,,,Perda na etapa de estoque
-684,Produção,Vencimento,2023-08-11,480.04,14633.99,,891,,Perda na etapa de produção
-685,Coleta,Falha de processo,2024-06-21,1994.14,6495.9,54,,,Perda na etapa de coleta
-686,Transporte,Vencimento,2024-12-03,1666.03,8399.92,,,5486,Perda na etapa de transporte
-687,Coleta,Contaminação,2024-12-19,1274.17,12377.75,48,,,Perda na etapa de coleta
-688,Coleta,Derramamento,2024-02-29,353.45,16512.22,75,,,Perda na etapa de coleta
-689,Produção,Devolução,2024-05-19,,10056.95,,787,,Perda na etapa de produção
-690,Estoque,Vencimento,2024-06-07,119.58,9108.03,,,,Perda na etapa de estoque
-691,Coleta,Derramamento,2023-10-21,1943.81,13073.89,,,,Perda na etapa de coleta
-692,Coleta,Devolução,2023-06-27,778.15,,,,,
-693,Transporte,Falha de processo,2023-05-30,114.01,14998.33,,,369,Perda na etapa de transporte
-694,Estoque,Falha de processo,2023-02-09,509.47,643.62,,,,Perda na etapa de estoque
-695,Transporte,Devolução,2023-04-29,759.4,5221.59,,,4955,Perda na etapa de transporte
-696,Coleta,Vencimento,2023-05-21,604.91,6948.67,64,,,Perda na etapa de coleta
-697,Coleta,Derramamento,2023-02-18,1652.72,15690.51,30,,,
-698,Transporte,Derramamento,2024-03-12,283.26,17255.55,,,4288,Perda na etapa de transporte
-699,Coleta,Derramamento,2024-01-26,,1330.44,,,,Perda na etapa de coleta
-700,Produção,Contaminação,2024-06-14,1865.75,17423.27,,1602,,
-701,Estoque,Devolução,2024-05-31,1362.01,7113.7,,,,Perda na etapa de estoque
-702,Coleta,Devolução,2023-11-11,606.41,9664.22,17,,,Perda na etapa de coleta
-703,Coleta,Falha de processo,2024-04-09,717.48,18836.08,,,,Perda na etapa de coleta
-704,Estoque,Contaminação,2024-06-10,1237.74,2797.62,,,,Perda na etapa de estoque
-705,Transporte,Falha de processo,2024-01-31,1425.36,18313.38,,,,Perda na etapa de transporte
-706,Transporte,Vencimento,2023-01-24,,10007.88,,,,Perda na etapa de transporte
-707,Estoque,Falha de processo,2023-06-30,504.56,5279.81,,,,Perda na etapa de estoque
-708,Estoque,Vencimento,2024-01-07,617.96,18036.43,,,,Perda na etapa de estoque
-709,Coleta,Contaminação,2024-02-19,676.69,15046.38,,,,Perda na etapa de coleta
-710,Estoque,Falha de processo,2024-01-09,1814.25,,,,,Perda na etapa de estoque
-711,Produção,Falha de processo,2023-07-20,200.74,3299.1,,882,,Perda na etapa de produção
-712,Transporte,Contaminação,2023-08-23,403.32,9003.35,,,2953,Perda na etapa de transporte
-713,Estoque,Derramamento,2024-03-12,517.26,19540.94,,,,Perda na etapa de estoque
-714,Produção,Contaminação,2024-04-09,517.66,9440.01,,2070,,Perda na etapa de produção
-715,Produção,Falha de processo,2024-02-24,812.84,9278.84,,,,Perda na etapa de produção
-716,Coleta,Derramamento,2024-08-10,8.57,,31,,,
-717,Coleta,Derramamento,2023-01-08,595.0,6303.51,71,,,Perda na etapa de coleta
-718,Estoque,Falha de processo,2024-03-01,635.04,7313.23,,,,Perda na etapa de estoque
-719,Produção,Falha de processo,2024-08-23,1957.85,17360.08,,,,Perda na etapa de produção
-720,Produção,Vencimento,2023-02-16,761.27,7179.11,,,,
-721,Transporte,Derramamento,2023-03-24,64.99,12384.16,,,488,Perda na etapa de transporte
-722,Estoque,Vencimento,2023-09-30,1942.24,,,,,Perda na etapa de estoque
-723,Coleta,Falha de processo,2023-09-01,570.48,15517.87,,,,Perda na etapa de coleta
-724,Coleta,Devolução,2024-01-21,1790.0,16253.8,13,,,Perda na etapa de coleta
-725,Produção,Falha de processo,2024-12-05,1709.37,1300.46,,1981,,Perda na etapa de produção
-726,Transporte,Falha de processo,2023-12-29,,16280.31,,,4802,Perda na etapa de transporte
-727,Transporte,Contaminação,2024-11-15,361.74,15230.98,,,4254,Perda na etapa de transporte
-728,Estoque,Falha de processo,2024-01-28,1116.7,12077.38,,,,
-729,Transporte,Devolução,2024-05-24,188.56,5777.99,,,1404,Perda na etapa de transporte
-730,Produção,Contaminação,2024-10-08,1926.69,12150.54,,,,
-731,Produção,Vencimento,2023-12-27,1843.34,,,244,,
-732,Produção,Vencimento,2024-04-14,100.61,17284.65,,2176,,Perda na etapa de produção
-733,Estoque,Contaminação,2024-05-31,990.47,9006.14,,,,Perda na etapa de estoque
-734,Produção,Devolução,2024-01-05,14.04,8728.94,,464,,Perda na etapa de produção
-735,Estoque,Contaminação,2023-02-27,1170.58,11031.93,,,,Perda na etapa de estoque
-736,Transporte,Contaminação,2023-04-29,,6063.23,,,,Perda na etapa de transporte
-737,Transporte,Derramamento,2024-07-04,1717.88,6649.6,,,2661,Perda na etapa de transporte
-738,Produção,Vencimento,2024-02-11,15.17,19830.49,,1263,,Perda na etapa de produção
-739,Produção,Falha de processo,2024-03-09,1191.04,16079.45,,1242,,Perda na etapa de produção
-740,Coleta,Devolução,2024-01-18,1910.89,173.09,52,,,Perda na etapa de coleta
-741,Estoque,Contaminação,2024-10-01,263.51,7835.09,,,,Perda na etapa de estoque
-742,Estoque,Falha de processo,2024-03-14,1579.47,818.45,,,,Perda na etapa de estoque
-743,Produção,Vencimento,2023-04-25,479.1,19180.89,,2772,,Perda na etapa de produção
-744,Coleta,Contaminação,2024-11-25,1222.4,7746.24,1,,,Perda na etapa de coleta
-745,Estoque,Falha de processo,2024-02-14,310.96,,,,,Perda na etapa de estoque
-746,Transporte,Devolução,2024-02-26,1112.57,,,,4947,Perda na etapa de transporte
-747,Estoque,Contaminação,2023-08-16,1135.85,19370.52,,,,Perda na etapa de estoque
-748,Estoque,Contaminação,2023-10-15,,15702.68,,,,Perda na etapa de estoque
-749,Produção,Devolução,2024-06-16,,18286.9,,571,,Perda na etapa de produção
-750,Estoque,Derramamento,2024-02-15,1714.0,12640.63,,,,Perda na etapa de estoque
-751,Coleta,Devolução,2024-03-09,1668.45,16439.35,,,,Perda na etapa de coleta
-752,Estoque,Falha de processo,2023-02-23,1470.2,11396.61,,,,Perda na etapa de estoque
-753,Transporte,Devolução,24/09/2024,1840.72,7685.44,,,,Perda na etapa de transporte
-754,Produção,Devolução,2023-04-28,1612.5,9249.27,,64,,Perda na etapa de produção
-755,Produção,Derramamento,2023-11-17,1175.09,15892.09,,29,,Perda na etapa de produção
-756,Transporte,Derramamento,2023-09-22,255.7,1760.8,,,,Perda na etapa de transporte
-757,Produção,Derramamento,2023-01-28,1783.28,7830.5,,2352,,Perda na etapa de produção
-758,Coleta,Devolução,2023-06-14,970.88,10142.11,100,,,Perda na etapa de coleta
-759,Transporte,Devolução,2023-02-05,846.88,17613.1,,,,Perda na etapa de transporte
-760,Estoque,Devolução,2023-10-15,322.88,2299.81,,,,Perda na etapa de estoque
-761,Produção,Vencimento,2023-01-22,161.48,9042.61,,661,,Perda na etapa de produção
-762,Estoque,Devolução,2024-06-07,540.63,17748.22,,,,Perda na etapa de estoque
-763,Transporte,Derramamento,2024-06-07,427.64,15819.18,,,3088,Perda na etapa de transporte
-764,Estoque,Vencimento,2024-07-16,1910.13,,,,,
-765,Produção,Devolução,2023-01-26,997.2,7585.65,,850,,Perda na etapa de produção
-766,Coleta,Falha de processo,2024-07-30,1748.98,9128.45,73,,,Perda na etapa de coleta
-767,Coleta,Contaminação,2024-07-25,455.06,538.25,,,,Perda na etapa de coleta
-768,Produção,Falha de processo,2024-05-22,1945.64,19678.26,,650,,Perda na etapa de produção
-769,Produção,Falha de processo,03/04/2023,1236.34,14920.72,,,,Perda na etapa de produção
-770,Estoque,Devolução,2024-09-23,1125.86,2214.86,,,,Perda na etapa de estoque
-771,Estoque,Derramamento,2023-07-16,472.53,628.72,,,,Perda na etapa de estoque
-772,Produção,Falha de processo,2023-04-12,1334.2,3807.4,,797,,Perda na etapa de produção
-773,Estoque,Vencimento,2023-05-09,830.77,1419.5,,,,Perda na etapa de estoque
-774,Transporte,Contaminação,2023-09-17,52.7,7013.63,,,1661,Perda na etapa de transporte
-775,Transporte,Devolução,2024-01-23,820.05,10758.87,,,1237,Perda na etapa de transporte
-776,Coleta,Falha de processo,2024-06-10,1093.18,16573.97,,,,Perda na etapa de coleta
-777,Produção,Vencimento,2024-07-06,142.98,18053.15,,,,Perda na etapa de produção
-778,Produção,Contaminação,2023-10-26,775.07,9895.12,,,,Perda na etapa de produção
-779,Coleta,Falha de processo,2024-04-30,1537.99,4402.47,,,,
-780,Produção,Derramamento,2024-02-06,796.8,1356.05,,2578,,Perda na etapa de produção
-781,Produção,Vencimento,2024-06-08,936.32,10270.55,,,,
-782,Coleta,Contaminação,2023-01-09,1043.33,16275.65,,,,Perda na etapa de coleta
-783,Produção,Devolução,2023-04-14,147.12,15554.97,,,,Perda na etapa de produção
-784,Estoque,Vencimento,2023-12-05,135.73,5702.05,,,,Perda na etapa de estoque
-785,Estoque,Derramamento,2024-04-02,1338.13,15802.98,,,,Perda na etapa de estoque
-786,Transporte,Vencimento,2024-01-31,1090.23,10651.85,,,,Perda na etapa de transporte
-787,Coleta,Falha de processo,2023-03-29,1854.6,3532.38,,,,Perda na etapa de coleta
-788,Estoque,Vencimento,2023-10-05,1638.08,,,,,Perda na etapa de estoque
-789,Produção,Derramamento,2024-01-06,708.28,18635.28,,,,Perda na etapa de produção
-790,Transporte,Devolução,2023-04-14,852.1,5793.96,,,4289,
-791,Estoque,Derramamento,18/01/2023,,19545.62,,,,
-792,Produção,Falha de processo,2023-07-10,236.47,2126.43,,1004,,Perda na etapa de produção
-793,Transporte,Devolução,2023-12-19,300.42,17013.26,,,,Perda na etapa de transporte
-794,Estoque,Falha de processo,2024-02-04,1407.5,14568.88,,,,Perda na etapa de estoque
-795,Transporte,Contaminação,2023-09-19,177.28,4065.9,,,,Perda na etapa de transporte
-796,Coleta,Derramamento,2023-11-23,263.69,17018.51,6,,,
-797,Coleta,Derramamento,2023-02-28,1181.68,19239.24,77,,,Perda na etapa de coleta
-798,Produção,Falha de processo,2024-05-26,1025.7,10625.06,,,,
-799,Estoque,Falha de processo,2024-03-16,,6066.32,,,,
-800,Transporte,Vencimento,2023-05-14,389.6,7655.97,,,,Perda na etapa de transporte
+1,Transporte,Derramamento,2024-10-26,819.27,13289.5,,,1146,Perda na etapa de transporte
+2,Transporte,Contaminação,2023-05-28,1677.66,3409.53,,,151,
+3,Coleta,Derramamento,2024-05-03,1931.06,,,,,Perda na etapa de coleta
+4,Produção,Contaminação,2024-02-19,155.49,15635.18,,,,
+5,Coleta,Devolução,2024-05-03,641.29,12574.27,99,,,Perda na etapa de coleta
+6,Estoque,Vencimento,2024-08-13,667.88,18015.76,,,,Perda na etapa de estoque
+7,Coleta,Derramamento,2024-03-13,905.07,18855.4,62,,,Perda na etapa de coleta
+8,Transporte,Contaminação,2024-07-04,1636.21,8178.25,,,,Perda na etapa de transporte
+9,Coleta,Devolução,22/04/2024,1879.91,15511.85,,,,
+10,Produção,Contaminação,2023-10-25,1062.15,11036.15,,,,
+11,Transporte,Falha de processo,2024-06-13,1999.12,8558.52,,,880,Perda na etapa de transporte
+12,Estoque,Derramamento,2023-09-03,,14852.18,,,,Perda na etapa de estoque
+13,Transporte,Falha de processo,12/03/2024,1809.03,614.1,,,2537,Perda na etapa de transporte
+14,Transporte,Devolução,2023-10-11,976.84,1058.0,,,,Perda na etapa de transporte
+15,Produção,Derramamento,2023-12-31,1451.85,12934.63,,1372,,
+16,Coleta,Derramamento,2023-12-30,1992.29,11558.67,,,,Perda na etapa de coleta
+17,Transporte,Devolução,2023-10-08,1736.55,,,,3239,Perda na etapa de transporte
+18,Coleta,Devolução,2023-09-15,297.7,13269.67,89,,,Perda na etapa de coleta
+19,Coleta,Vencimento,2023-02-07,,14855.89,81,,,Perda na etapa de coleta
+20,Produção,Vencimento,2023-09-28,1075.23,19734.08,,978,,Perda na etapa de produção
+21,Transporte,Falha de processo,2023-02-15,771.44,,,,294,Perda na etapa de transporte
+22,Coleta,Falha de processo,05/09/2023,535.86,12588.94,,,,Perda na etapa de coleta
+23,Coleta,Contaminação,14/02/2024,686.09,1560.9,28,,,
+24,Coleta,Derramamento,2023-07-20,,19095.55,,,,Perda na etapa de coleta
+25,Transporte,Vencimento,2024-02-20,,,,,4575,Perda na etapa de transporte
+26,Produção,Contaminação,06/01/2024,1139.82,8520.84,,,,
+27,Coleta,Vencimento,2023-05-20,104.49,11802.22,,,,Perda na etapa de coleta
+28,Produção,Falha de processo,2023-08-12,926.53,12624.83,,,,Perda na etapa de produção
+29,Produção,Contaminação,2023-08-10,17.05,2409.18,,2235,,Perda na etapa de produção
+30,Transporte,Derramamento,20/03/2023,184.99,16813.73,,,,Perda na etapa de transporte
+31,Transporte,Derramamento,2023-01-29,,5816.49,,,4641,
+32,Produção,Derramamento,2023-08-05,99.38,16224.15,,,,Perda na etapa de produção
+33,Coleta,Vencimento,2024-09-16,70.28,,,,,
+34,Estoque,Falha de processo,2024-05-26,1896.54,10868.38,,,,Perda na etapa de estoque
+35,Coleta,Falha de processo,2024-03-12,1157.95,10739.29,,,,Perda na etapa de coleta
+36,Estoque,Vencimento,2023-02-17,,2444.03,,,,Perda na etapa de estoque
+37,Produção,Derramamento,2024-04-20,1313.88,19220.09,,2662,,Perda na etapa de produção
+38,Estoque,Vencimento,2023-11-01,918.03,8418.97,,,,Perda na etapa de estoque
+39,Coleta,Falha de processo,2023-02-28,227.08,8656.27,,,,
+40,Produção,Devolução,2024-06-23,1986.42,6391.12,,2403,,Perda na etapa de produção
+41,Coleta,Derramamento,2023-09-24,1436.49,8059.57,33,,,Perda na etapa de coleta
+42,Transporte,Devolução,2023-07-15,1230.09,2458.42,,,1232,Perda na etapa de transporte
+43,Transporte,Contaminação,2023-02-03,760.77,2337.6,,,700,Perda na etapa de transporte
+44,Coleta,Devolução,2023-11-03,100.06,9821.43,14,,,Perda na etapa de coleta
+45,Produção,Derramamento,2024-10-21,896.74,,,1209,,Perda na etapa de produção
+46,Transporte,Devolução,2024-01-22,1347.23,13209.26,,,3719,Perda na etapa de transporte
+47,Coleta,Contaminação,2024-03-24,1485.54,1547.22,,,,Perda na etapa de coleta
+48,Estoque,Contaminação,2023-12-05,,16719.92,,,,
+49,Transporte,Contaminação,2024-09-25,561.99,,,,1886,
+50,Produção,Falha de processo,2023-04-08,1504.79,14354.52,,,,Perda na etapa de produção
+51,Coleta,Vencimento,2023-06-03,1028.02,12338.2,,,,Perda na etapa de coleta
+52,Estoque,Falha de processo,2024-11-08,1823.26,6330.19,,,,Perda na etapa de estoque
+53,Transporte,Falha de processo,2024-01-20,,12115.88,,,3866,Perda na etapa de transporte
+54,Estoque,Derramamento,2023-01-25,839.37,16134.73,,,,Perda na etapa de estoque
+55,Coleta,Derramamento,2024-05-03,1058.16,14865.41,,,,Perda na etapa de coleta
+56,Coleta,Contaminação,2023-09-29,1792.01,13429.74,,,,Perda na etapa de coleta
+57,Transporte,Devolução,2023-10-24,1026.18,1958.48,,,3549,Perda na etapa de transporte
+58,Estoque,Vencimento,2024-10-09,802.44,,,,,Perda na etapa de estoque
+59,Transporte,Contaminação,2024-02-22,1291.98,3704.95,,,1548,Perda na etapa de transporte
+60,Estoque,Derramamento,2024-08-26,947.12,18062.02,,,,Perda na etapa de estoque
+61,Transporte,Derramamento,2024-05-20,1778.07,1323.43,,,,Perda na etapa de transporte
+62,Transporte,Devolução,2024-03-19,781.08,14962.44,,,3701,Perda na etapa de transporte
+63,Estoque,Falha de processo,2024-01-24,868.06,14895.18,,,,Perda na etapa de estoque
+64,Transporte,Contaminação,2023-03-21,1993.41,17737.28,,,,Perda na etapa de transporte
+65,Estoque,Falha de processo,2024-09-26,1277.19,1741.27,,,,
+66,Coleta,Vencimento,2023-01-28,1765.32,852.79,,,,Perda na etapa de coleta
+67,Produção,Contaminação,2023-08-29,414.67,8597.09,,1497,,
+68,Produção,Falha de processo,2024-12-04,350.38,16342.93,,1174,,Perda na etapa de produção
+69,Transporte,Derramamento,2023-03-09,1146.99,6083.8,,,,Perda na etapa de transporte
+70,Estoque,Derramamento,2024-08-31,696.22,6578.98,,,,Perda na etapa de estoque
+71,Produção,Derramamento,2023-06-10,,8970.73,,2993,,Perda na etapa de produção
+72,Coleta,Devolução,2024-05-30,1504.45,,27,,,Perda na etapa de coleta
+73,Produção,Derramamento,2023-12-19,1354.37,788.76,,2969,,Perda na etapa de produção
+74,Produção,Derramamento,2023-12-02,575.5,6783.03,,2862,,Perda na etapa de produção
+75,Estoque,Vencimento,2023-12-28,959.1,2149.88,,,,Perda na etapa de estoque
+76,Coleta,Devolução,2024-02-07,,3375.74,99,,,
+77,Produção,Falha de processo,2024-11-14,1264.31,15168.5,,2440,,Perda na etapa de produção
+78,Estoque,Derramamento,2023-09-18,1442.29,9607.72,,,,Perda na etapa de estoque
+79,Coleta,Contaminação,2024-11-23,1939.83,1161.53,67,,,Perda na etapa de coleta
+80,Produção,Contaminação,2023-08-09,1893.85,10861.97,,1126,,Perda na etapa de produção
+81,Produção,Derramamento,2023-02-14,1402.45,1928.11,,1922,,Perda na etapa de produção
+82,Produção,Contaminação,2024-05-11,1780.88,1076.26,,723,,Perda na etapa de produção
+83,Produção,Contaminação,2024-09-05,647.17,9515.15,,2892,,Perda na etapa de produção
+84,Estoque,Falha de processo,2024-04-23,1815.27,10849.88,,,,Perda na etapa de estoque
+85,Produção,Devolução,2024-10-26,1582.71,19574.19,,2436,,Perda na etapa de produção
+86,Estoque,Devolução,2024-12-10,1058.72,13145.84,,,,Perda na etapa de estoque
+87,Coleta,Contaminação,2024-03-24,1491.8,13661.54,,,,Perda na etapa de coleta
+88,Estoque,Devolução,2024-09-05,941.21,3452.46,,,,Perda na etapa de estoque
+89,Transporte,Derramamento,2023-02-01,880.12,17287.35,,,2741,Perda na etapa de transporte
+90,Produção,Devolução,2024-06-01,436.79,2117.96,,2,,Perda na etapa de produção
+91,Produção,Falha de processo,2024-09-13,,10660.06,,,,Perda na etapa de produção
+92,Coleta,Falha de processo,2023-12-14,,18478.0,,,,
+93,Transporte,Devolução,2023-06-12,1255.72,7647.03,,,,
+94,Produção,Devolução,2023-10-09,1511.56,10712.92,,2168,,Perda na etapa de produção
+95,Produção,Vencimento,2024-01-09,1628.57,8232.67,,2130,,
+96,Estoque,Derramamento,2024-08-17,436.23,16241.83,,,,Perda na etapa de estoque
+97,Estoque,Falha de processo,2024-05-13,1436.71,3224.31,,,,Perda na etapa de estoque
+98,Produção,Derramamento,2023-03-10,1133.21,5660.63,,1215,,Perda na etapa de produção
+99,Transporte,Derramamento,2024-05-21,420.8,17921.45,,,4305,Perda na etapa de transporte
+100,Transporte,Falha de processo,2024-09-18,1597.3,2050.55,,,,Perda na etapa de transporte
+101,Produção,Vencimento,2023-11-14,1125.45,7180.44,,,,Perda na etapa de produção
+102,Transporte,Devolução,2024-09-21,,12902.15,,,,Perda na etapa de transporte
+103,Estoque,Vencimento,2024-04-12,1027.75,2023.51,,,,Perda na etapa de estoque
+104,Transporte,Devolução,2023-11-15,1601.12,16928.95,,,,Perda na etapa de transporte
+105,Estoque,Derramamento,28/12/2023,77.08,9896.08,,,,Perda na etapa de estoque
+106,Produção,Derramamento,2023-11-19,,15003.0,,1986,,Perda na etapa de produção
+107,Produção,Vencimento,2024-07-11,366.42,3901.99,,1754,,
+108,Transporte,Derramamento,2024-02-27,1912.91,5262.06,,,210,Perda na etapa de transporte
+109,Estoque,Contaminação,2023-10-24,900.34,6954.87,,,,Perda na etapa de estoque
+110,Produção,Derramamento,2023-04-15,1189.09,18213.35,,,,Perda na etapa de produção
+111,Transporte,Derramamento,2024-02-14,446.36,802.75,,,2956,Perda na etapa de transporte
+112,Produção,Derramamento,2023-09-14,583.21,16412.78,,,,Perda na etapa de produção
+113,Estoque,Derramamento,19/03/2024,1335.37,14830.6,,,,Perda na etapa de estoque
+114,Produção,Falha de processo,2024-08-18,658.54,18887.81,,,,Perda na etapa de produção
+115,Coleta,Derramamento,2023-04-19,116.31,13800.83,73,,,Perda na etapa de coleta
+116,Estoque,Contaminação,2023-10-18,802.16,13655.2,,,,
+117,Transporte,Contaminação,2023-01-30,1455.91,16635.4,,,,
+118,Produção,Contaminação,2024-06-01,939.18,11641.9,,868,,Perda na etapa de produção
+119,Transporte,Devolução,2024-07-30,429.44,16279.5,,,,Perda na etapa de transporte
+120,Coleta,Derramamento,2024-11-10,1596.03,16760.35,23,,,Perda na etapa de coleta
+121,Produção,Contaminação,2023-11-08,971.62,1824.29,,1541,,Perda na etapa de produção
+122,Coleta,Devolução,2024-11-27,1870.51,6955.14,15,,,Perda na etapa de coleta
+123,Estoque,Derramamento,2023-03-22,1831.48,14912.65,,,,Perda na etapa de estoque
+124,Transporte,Vencimento,2023-02-27,1635.61,17735.57,,,,Perda na etapa de transporte
+125,Transporte,Falha de processo,2024-11-12,1008.68,647.9,,,2972,Perda na etapa de transporte
+126,Transporte,Derramamento,2023-06-27,,7603.45,,,1504,Perda na etapa de transporte
+127,Produção,Derramamento,2024-09-13,329.55,,,,,Perda na etapa de produção
+128,Produção,Devolução,2023-09-17,1463.12,4666.11,,2967,,Perda na etapa de produção
+129,Transporte,Vencimento,2023-08-14,334.39,5636.89,,,4282,
+130,Estoque,Contaminação,2023-02-25,1921.25,5387.25,,,,Perda na etapa de estoque
+131,Estoque,Vencimento,2023-09-27,1631.38,11337.9,,,,Perda na etapa de estoque
+132,Produção,Falha de processo,2023-09-03,1840.15,17743.24,,,,Perda na etapa de produção
+133,Estoque,Devolução,2023-02-05,762.98,9915.6,,,,Perda na etapa de estoque
+134,Estoque,Falha de processo,2023-01-18,292.31,18592.59,,,,Perda na etapa de estoque
+135,Coleta,Devolução,2023-03-28,1492.27,19332.93,31,,,
+136,Transporte,Derramamento,2023-12-20,64.32,15745.55,,,,Perda na etapa de transporte
+137,Coleta,Contaminação,2023-01-14,277.36,16192.1,91,,,Perda na etapa de coleta
+138,Estoque,Devolução,2023-05-28,800.65,1111.07,,,,Perda na etapa de estoque
+139,Transporte,Falha de processo,2024-11-05,1579.17,14917.14,,,2992,Perda na etapa de transporte
+140,Produção,Vencimento,2023-01-21,842.08,977.37,,1801,,Perda na etapa de produção
+141,Produção,Devolução,2024-09-22,1458.12,16049.14,,,,Perda na etapa de produção
+142,Produção,Derramamento,2024-10-22,1903.28,6500.36,,,,Perda na etapa de produção
+143,Coleta,Derramamento,2024-03-04,511.43,6037.39,,,,Perda na etapa de coleta
+144,Coleta,Falha de processo,2023-02-10,1572.47,17853.02,23,,,Perda na etapa de coleta
+145,Transporte,Falha de processo,2024-10-08,936.84,13712.5,,,,
+146,Transporte,Derramamento,2023-05-06,728.34,19708.39,,,,
+147,Transporte,Contaminação,2023-10-14,684.14,3555.3,,,298,Perda na etapa de transporte
+148,Produção,Falha de processo,2024-09-15,812.64,11496.14,,618,,Perda na etapa de produção
+149,Coleta,Falha de processo,2024-12-28,322.84,1935.21,,,,Perda na etapa de coleta
+150,Estoque,Falha de processo,2024-07-06,1960.95,13941.12,,,,
+151,Estoque,Vencimento,2024-04-25,1410.06,13839.72,,,,Perda na etapa de estoque
+152,Transporte,Derramamento,2024-04-19,1894.71,1605.77,,,594,Perda na etapa de transporte
+153,Transporte,Derramamento,2023-10-05,594.76,11307.47,,,167,Perda na etapa de transporte
+154,Estoque,Devolução,2023-01-02,924.38,17265.85,,,,Perda na etapa de estoque
+155,Produção,Contaminação,2023-07-04,214.52,4823.09,,,,Perda na etapa de produção
+156,Transporte,Vencimento,2024-11-23,1588.81,4538.84,,,,Perda na etapa de transporte
+157,Transporte,Vencimento,2023-07-16,1903.82,3589.7,,,,Perda na etapa de transporte
+158,Transporte,Devolução,2023-05-16,178.53,,,,4677,Perda na etapa de transporte
+159,Coleta,Vencimento,2023-04-25,951.94,8281.25,,,,Perda na etapa de coleta
+160,Produção,Falha de processo,2023-07-10,620.77,12512.23,,,,Perda na etapa de produção
+161,Coleta,Contaminação,2023-01-26,398.39,15996.02,94,,,Perda na etapa de coleta
+162,Estoque,Contaminação,2024-06-01,159.44,3779.15,,,,Perda na etapa de estoque
+163,Transporte,Contaminação,2024-09-09,1421.0,16349.22,,,,
+164,Produção,Devolução,2023-11-26,713.89,2969.99,,,,Perda na etapa de produção
+165,Produção,Derramamento,2023-10-27,252.1,697.54,,2391,,Perda na etapa de produção
+166,Estoque,Contaminação,2024-06-29,1196.62,12158.67,,,,Perda na etapa de estoque
+167,Produção,Devolução,2024-09-22,125.17,8585.06,,,,Perda na etapa de produção
+168,Transporte,Contaminação,2024-08-03,195.85,10643.53,,,,Perda na etapa de transporte
+169,Transporte,Contaminação,2024-04-13,,343.09,,,163,Perda na etapa de transporte
+170,Coleta,Vencimento,2023-04-30,1868.14,11623.24,,,,
+171,Transporte,Falha de processo,2023-08-24,635.72,11177.8,,,,Perda na etapa de transporte
+172,Produção,Devolução,2023-05-01,,19212.0,,1978,,Perda na etapa de produção
+173,Produção,Vencimento,2024-09-11,1629.63,,,1212,,Perda na etapa de produção
+174,Produção,Devolução,2024-10-08,197.6,7682.49,,723,,Perda na etapa de produção
+175,Transporte,Falha de processo,16/07/2023,1963.3,1227.81,,,2852,Perda na etapa de transporte
+176,Transporte,Vencimento,2024-04-03,455.71,16349.26,,,,Perda na etapa de transporte
+177,Transporte,Falha de processo,2024-05-14,715.23,19577.45,,,1006,
+178,Estoque,Derramamento,2024-11-14,1477.78,4998.86,,,,Perda na etapa de estoque
+179,Produção,Devolução,2024-04-22,1640.21,19696.68,,,,Perda na etapa de produção
+180,Coleta,Contaminação,2024-12-28,1474.43,7898.73,52,,,Perda na etapa de coleta
+181,Produção,Vencimento,2023-07-31,446.4,15459.4,,,,Perda na etapa de produção
+182,Coleta,Contaminação,2024-08-25,619.2,7595.08,28,,,Perda na etapa de coleta
+183,Transporte,Derramamento,2024-12-08,867.92,18762.69,,,1412,Perda na etapa de transporte
+184,Produção,Falha de processo,2023-03-24,1659.72,19971.26,,465,,Perda na etapa de produção
+185,Coleta,Falha de processo,2024-04-15,281.19,854.83,,,,Perda na etapa de coleta
+186,Coleta,Contaminação,2023-03-07,1665.81,11953.42,50,,,Perda na etapa de coleta
+187,Estoque,Contaminação,2024-07-17,503.95,4098.48,,,,Perda na etapa de estoque
+188,Estoque,Falha de processo,13/02/2023,1049.26,12993.48,,,,Perda na etapa de estoque
+189,Estoque,Contaminação,2023-08-17,200.52,18228.17,,,,Perda na etapa de estoque
+190,Estoque,Contaminação,2023-12-10,,5743.57,,,,Perda na etapa de estoque
+191,Produção,Devolução,2024-08-06,609.83,12448.11,,2396,,Perda na etapa de produção
+192,Transporte,Contaminação,2023-11-11,617.8,7562.94,,,3561,
+193,Coleta,Contaminação,2024-03-22,269.68,4125.13,,,,Perda na etapa de coleta
+194,Estoque,Derramamento,2023-08-04,274.37,8837.28,,,,Perda na etapa de estoque
+195,Estoque,Contaminação,28/01/2023,1901.35,4851.47,,,,Perda na etapa de estoque
+196,Produção,Derramamento,2024-01-09,1335.2,17451.42,,,,Perda na etapa de produção
+197,Estoque,Falha de processo,2024-04-22,1762.12,13898.58,,,,Perda na etapa de estoque
+198,Estoque,Contaminação,2023-02-22,752.62,,,,,Perda na etapa de estoque
+199,Coleta,Falha de processo,2023-08-20,,9634.79,78,,,
+200,Produção,Derramamento,2023-06-10,318.5,15101.47,,2221,,Perda na etapa de produção
+201,Coleta,Derramamento,2024-10-17,1383.4,16925.77,,,,Perda na etapa de coleta
+202,Coleta,Derramamento,2024-12-23,1082.16,13040.51,1,,,
+203,Coleta,Derramamento,2023-07-27,930.19,8873.3,100,,,Perda na etapa de coleta
+204,Coleta,Derramamento,2023-05-31,157.95,9761.88,69,,,Perda na etapa de coleta
+205,Coleta,Falha de processo,2023-01-09,321.59,18038.67,13,,,Perda na etapa de coleta
+206,Coleta,Derramamento,2024-05-09,1128.53,7553.73,20,,,Perda na etapa de coleta
+207,Produção,Devolução,01/02/2023,1754.65,62.39,,1312,,Perda na etapa de produção
+208,Produção,Devolução,2024-04-21,726.01,5443.95,,1753,,Perda na etapa de produção
+209,Coleta,Derramamento,2023-02-11,44.93,12374.21,46,,,
+210,Produção,Vencimento,2023-04-23,,5632.55,,333,,
+211,Coleta,Devolução,2023-11-08,1538.12,1389.93,,,,Perda na etapa de coleta
+212,Transporte,Derramamento,2023-09-13,1121.83,18268.9,,,,Perda na etapa de transporte
+213,Estoque,Vencimento,2024-08-03,757.46,546.57,,,,Perda na etapa de estoque
+214,Coleta,Falha de processo,2023-02-02,130.21,16816.85,,,,Perda na etapa de coleta
+215,Produção,Contaminação,2024-10-12,1907.04,5264.98,,,,Perda na etapa de produção
+216,Transporte,Derramamento,2024-05-10,727.89,15572.06,,,2474,Perda na etapa de transporte
+217,Produção,Vencimento,2024-09-06,222.65,6156.09,,1030,,Perda na etapa de produção
+218,Transporte,Falha de processo,2023-10-15,980.56,6056.51,,,2324,Perda na etapa de transporte
+219,Estoque,Devolução,2023-02-03,1596.38,4301.87,,,,Perda na etapa de estoque
+220,Coleta,Devolução,2023-04-09,1335.6,,3,,,Perda na etapa de coleta
+221,Transporte,Devolução,2023-06-06,,14116.67,,,5248,Perda na etapa de transporte
+222,Estoque,Falha de processo,2024-01-29,1401.31,17342.69,,,,Perda na etapa de estoque
+223,Transporte,Vencimento,2023-02-10,723.78,16234.72,,,,Perda na etapa de transporte
+224,Estoque,Derramamento,2023-02-27,952.19,17770.26,,,,Perda na etapa de estoque
+225,Produção,Devolução,2024-01-09,1540.92,10698.51,,738,,Perda na etapa de produção
+226,Produção,Contaminação,2024-06-29,524.58,8770.14,,164,,
+227,Transporte,Devolução,2024-08-03,1524.52,11551.41,,,5029,Perda na etapa de transporte
+228,Transporte,Falha de processo,2023-03-26,264.07,9774.88,,,4972,Perda na etapa de transporte
+229,Transporte,Devolução,2024-10-20,1387.41,762.27,,,,Perda na etapa de transporte
+230,Estoque,Contaminação,2023-09-25,,,,,,Perda na etapa de estoque
+231,Produção,Devolução,2024-11-11,1134.24,8046.76,,1916,,Perda na etapa de produção
+232,Produção,Vencimento,2024-01-03,435.6,18800.9,,1277,,Perda na etapa de produção
+233,Transporte,Devolução,2023-10-21,1338.52,9024.7,,,,Perda na etapa de transporte
+234,Coleta,Contaminação,2023-11-02,1741.21,3746.27,,,,
+235,Coleta,Derramamento,2024-10-03,730.55,7095.52,,,,
+236,Produção,Derramamento,2023-04-21,1053.84,4527.24,,,,
+237,Coleta,Contaminação,2023-09-17,1056.64,4902.6,83,,,Perda na etapa de coleta
+238,Coleta,Contaminação,2023-02-10,1664.73,629.93,,,,Perda na etapa de coleta
+239,Coleta,Devolução,2023-07-24,359.82,9036.07,,,,Perda na etapa de coleta
+240,Coleta,Vencimento,2024-02-10,1398.04,5056.66,,,,Perda na etapa de coleta
+241,Estoque,Falha de processo,17/11/2023,947.1,8141.2,,,,Perda na etapa de estoque
+242,Transporte,Vencimento,2024-08-02,94.5,10401.51,,,4646,Perda na etapa de transporte
+243,Estoque,Derramamento,2023-11-29,203.4,15089.38,,,,Perda na etapa de estoque
+244,Transporte,Contaminação,2023-05-08,1776.65,7002.25,,,,Perda na etapa de transporte
+245,Transporte,Falha de processo,2024-10-17,168.28,16111.26,,,13,Perda na etapa de transporte
+246,Produção,Vencimento,2024-12-26,484.21,323.07,,2718,,Perda na etapa de produção
+247,Coleta,Vencimento,2024-02-01,637.06,3746.98,,,,Perda na etapa de coleta
+248,Transporte,Falha de processo,2024-06-03,1099.55,6118.35,,,,Perda na etapa de transporte
+249,Produção,Contaminação,2024-04-05,1530.49,16069.49,,,,Perda na etapa de produção
+250,Transporte,Derramamento,2023-04-15,,14632.5,,,1140,Perda na etapa de transporte
+251,Produção,Derramamento,04/07/2023,351.88,,,,,Perda na etapa de produção
+252,Estoque,Devolução,19/05/2024,1335.59,,,,,Perda na etapa de estoque
+253,Estoque,Derramamento,2024-10-20,452.65,17828.39,,,,Perda na etapa de estoque
+254,Produção,Vencimento,2024-08-31,,2309.83,,2123,,Perda na etapa de produção
+255,Transporte,Vencimento,2024-02-03,1229.85,2558.55,,,189,Perda na etapa de transporte
+256,Produção,Contaminação,2024-06-12,234.97,17365.33,,,,Perda na etapa de produção
+257,Estoque,Falha de processo,2023-07-08,1166.94,2764.78,,,,Perda na etapa de estoque
+258,Coleta,Contaminação,23/09/2023,1711.05,11204.28,77,,,Perda na etapa de coleta
+259,Produção,Derramamento,2023-03-06,823.06,2274.21,,551,,Perda na etapa de produção
+260,Estoque,Devolução,2024-09-15,1933.97,12641.13,,,,Perda na etapa de estoque
+261,Produção,Vencimento,2023-04-04,756.65,14572.43,,774,,Perda na etapa de produção
+262,Transporte,Vencimento,2024-02-23,1138.07,15203.52,,,2728,Perda na etapa de transporte
+263,Coleta,Devolução,2024-02-07,1725.25,17596.31,,,,Perda na etapa de coleta
+264,Estoque,Devolução,2024-09-19,443.45,1137.78,,,,Perda na etapa de estoque
+265,Produção,Derramamento,2024-11-26,1588.1,18164.84,,1687,,
+266,Produção,Devolução,2023-12-17,,18899.84,,794,,Perda na etapa de produção
+267,Produção,Vencimento,2024-10-30,1116.63,13163.92,,2734,,Perda na etapa de produção
+268,Produção,Falha de processo,2024-12-20,478.35,,,2464,,Perda na etapa de produção
+269,Produção,Falha de processo,2024-05-26,1091.56,17282.79,,,,Perda na etapa de produção
+270,Estoque,Contaminação,2023-06-18,,4061.21,,,,Perda na etapa de estoque
+271,Produção,Derramamento,2023-08-20,1357.01,13619.14,,,,Perda na etapa de produção
+272,Produção,Derramamento,2024-06-07,1842.42,9487.56,,,,Perda na etapa de produção
+273,Produção,Contaminação,2023-05-08,1892.31,8865.34,,1892,,Perda na etapa de produção
+274,Transporte,Contaminação,2023-10-03,1697.73,7388.22,,,2356,Perda na etapa de transporte
+275,Coleta,Devolução,2023-06-02,786.25,6651.59,42,,,
+276,Transporte,Falha de processo,2024-04-14,1879.71,18904.22,,,964,Perda na etapa de transporte
+277,Transporte,Derramamento,2023-11-04,141.06,8622.67,,,846,Perda na etapa de transporte
+278,Transporte,Vencimento,2023-04-20,1805.58,5956.16,,,575,Perda na etapa de transporte
+279,Transporte,Derramamento,2023-06-28,1365.8,1107.13,,,,Perda na etapa de transporte
+280,Estoque,Falha de processo,2024-09-24,1900.47,15920.46,,,,
+281,Produção,Devolução,2024-10-19,493.7,7077.54,,878,,Perda na etapa de produção
+282,Coleta,Falha de processo,2024-12-16,470.52,6913.87,,,,Perda na etapa de coleta
+283,Coleta,Contaminação,2024-05-22,1553.02,8490.35,10,,,Perda na etapa de coleta
+284,Produção,Contaminação,2024-06-12,337.81,,,1760,,Perda na etapa de produção
+285,Transporte,Vencimento,2024-02-22,1579.31,17553.46,,,,Perda na etapa de transporte
+286,Transporte,Contaminação,2023-04-03,1981.62,,,,2306,
+287,Transporte,Vencimento,2024-01-21,1011.97,2670.67,,,443,Perda na etapa de transporte
+288,Coleta,Derramamento,2023-01-31,273.29,8752.44,,,,Perda na etapa de coleta
+289,Produção,Falha de processo,2023-05-12,1563.76,1065.8,,2127,,Perda na etapa de produção
+290,Transporte,Contaminação,2023-05-09,331.66,3056.92,,,,Perda na etapa de transporte
+291,Produção,Devolução,2024-03-09,1735.63,19796.88,,1306,,Perda na etapa de produção
+292,Coleta,Vencimento,2024-01-18,1363.84,16622.31,,,,Perda na etapa de coleta
+293,Coleta,Devolução,2024-09-24,1869.8,4728.08,,,,Perda na etapa de coleta
+294,Estoque,Devolução,2023-04-19,1861.76,12537.51,,,,Perda na etapa de estoque
+295,Transporte,Contaminação,2024-02-02,13.99,16023.58,,,4912,Perda na etapa de transporte
+296,Estoque,Derramamento,2023-08-30,292.3,10540.82,,,,
+297,Produção,Contaminação,2023-04-01,303.48,14644.43,,,,Perda na etapa de produção
+298,Produção,Derramamento,2023-12-29,268.02,7349.45,,,,Perda na etapa de produção
+299,Coleta,Contaminação,2024-09-26,565.05,9568.49,,,,Perda na etapa de coleta
+300,Produção,Derramamento,2024-08-01,126.83,7030.13,,1760,,Perda na etapa de produção
+301,Produção,Contaminação,2023-11-12,1792.07,16535.44,,1013,,Perda na etapa de produção
+302,Coleta,Vencimento,2023-08-04,1145.0,7994.24,,,,Perda na etapa de coleta
+303,Produção,Vencimento,2024-10-26,422.65,,,,,Perda na etapa de produção
+304,Coleta,Falha de processo,2023-05-16,1173.21,17467.86,27,,,
+305,Transporte,Falha de processo,2023-05-24,1844.88,4791.2,,,,Perda na etapa de transporte
+306,Estoque,Vencimento,2023-03-18,1851.59,733.37,,,,Perda na etapa de estoque
+307,Coleta,Falha de processo,2024-08-24,96.51,19963.78,81,,,Perda na etapa de coleta
+308,Coleta,Devolução,24/06/2023,1611.16,13437.42,27,,,Perda na etapa de coleta
+309,Coleta,Contaminação,2024-11-12,348.25,8905.96,,,,
+310,Produção,Contaminação,2024-07-07,216.02,,,786,,
+311,Estoque,Contaminação,2024-10-22,1345.62,14309.9,,,,Perda na etapa de estoque
+312,Transporte,Contaminação,2023-03-21,387.93,2236.49,,,,Perda na etapa de transporte
+313,Estoque,Vencimento,2023-08-18,746.03,8091.41,,,,Perda na etapa de estoque
+314,Estoque,Falha de processo,2024-08-26,1972.28,,,,,Perda na etapa de estoque
+315,Estoque,Contaminação,2023-04-30,766.94,8198.93,,,,Perda na etapa de estoque
+316,Estoque,Contaminação,2023-07-17,1873.88,16857.6,,,,Perda na etapa de estoque
+317,Produção,Devolução,2024-04-13,791.88,,,982,,Perda na etapa de produção
+318,Estoque,Derramamento,2023-03-30,689.29,8690.75,,,,Perda na etapa de estoque
+319,Estoque,Derramamento,2024-07-31,209.75,12315.1,,,,Perda na etapa de estoque
+320,Transporte,Falha de processo,2023-01-09,1797.5,2274.71,,,,Perda na etapa de transporte
+321,Coleta,Derramamento,2023-05-06,1493.29,6717.75,2,,,Perda na etapa de coleta
+322,Produção,Vencimento,2024-03-14,512.44,4564.47,,,,
+323,Produção,Contaminação,2024-11-04,1428.6,18333.83,,,,
+324,Estoque,Vencimento,2024-11-17,841.74,7674.63,,,,Perda na etapa de estoque
+325,Produção,Derramamento,2023-02-26,1617.14,6621.34,,,,Perda na etapa de produção
+326,Produção,Vencimento,2024-01-27,344.85,4605.22,,382,,
+327,Transporte,Vencimento,2024-12-14,1934.24,15779.88,,,,Perda na etapa de transporte
+328,Transporte,Falha de processo,2024-12-29,879.73,8921.45,,,3965,Perda na etapa de transporte
+329,Coleta,Vencimento,2024-04-27,328.64,8541.84,,,,Perda na etapa de coleta
+330,Coleta,Falha de processo,2023-08-26,778.86,,34,,,Perda na etapa de coleta
+331,Produção,Derramamento,2023-11-09,1472.1,12745.38,,1467,,Perda na etapa de produção
+332,Estoque,Vencimento,2023-01-13,877.44,1579.42,,,,
+333,Produção,Devolução,2023-09-09,1425.86,3123.62,,384,,Perda na etapa de produção
+334,Transporte,Vencimento,2023-09-20,1392.83,,,,3980,
+335,Produção,Derramamento,2023-04-14,424.79,6434.03,,652,,Perda na etapa de produção
+336,Estoque,Contaminação,2023-03-27,296.33,8153.01,,,,Perda na etapa de estoque
+337,Transporte,Devolução,2024-11-13,1228.68,8084.57,,,1346,Perda na etapa de transporte
+338,Transporte,Falha de processo,2023-01-01,,,,,3236,Perda na etapa de transporte
+339,Estoque,Derramamento,2023-04-01,1002.06,4831.13,,,,Perda na etapa de estoque
+340,Transporte,Falha de processo,2024-09-24,876.65,2358.54,,,,Perda na etapa de transporte
+341,Estoque,Devolução,2023-09-25,1302.43,13779.65,,,,Perda na etapa de estoque
+342,Coleta,Derramamento,2024-10-22,1324.65,15719.4,,,,Perda na etapa de coleta
+343,Estoque,Derramamento,2024-08-26,1820.52,,,,,Perda na etapa de estoque
+344,Transporte,Falha de processo,2024-07-11,652.97,1268.06,,,3587,Perda na etapa de transporte
+345,Produção,Falha de processo,2023-01-05,1427.96,6348.3,,,,Perda na etapa de produção
+346,Estoque,Derramamento,2024-03-17,266.9,906.54,,,,
+347,Transporte,Falha de processo,2023-02-27,1393.5,8209.15,,,,Perda na etapa de transporte
+348,Coleta,Vencimento,05/07/2023,1515.36,5028.02,54,,,
+349,Coleta,Contaminação,2024-01-28,1271.44,6607.27,,,,Perda na etapa de coleta
+350,Coleta,Devolução,2024-08-28,1483.8,4727.61,,,,Perda na etapa de coleta
+351,Coleta,Falha de processo,2024-06-16,,8039.09,,,,Perda na etapa de coleta
+352,Estoque,Derramamento,2024-01-04,1593.89,19779.11,,,,Perda na etapa de estoque
+353,Estoque,Falha de processo,2024-06-15,897.44,,,,,Perda na etapa de estoque
+354,Estoque,Devolução,2024-12-22,1414.08,,,,,Perda na etapa de estoque
+355,Estoque,Devolução,2023-02-26,498.02,17215.09,,,,
+356,Produção,Contaminação,2023-04-16,,4190.36,,2591,,Perda na etapa de produção
+357,Estoque,Derramamento,2024-05-03,1228.78,,,,,Perda na etapa de estoque
+358,Transporte,Derramamento,2023-04-13,1203.44,12042.61,,,,Perda na etapa de transporte
+359,Produção,Falha de processo,2024-10-05,1522.79,5884.37,,,,Perda na etapa de produção
+360,Produção,Falha de processo,2023-09-27,791.58,10439.06,,1717,,
+361,Produção,Contaminação,2024-12-16,847.25,1105.92,,1416,,Perda na etapa de produção
+362,Estoque,Derramamento,2024-07-26,745.02,9254.05,,,,Perda na etapa de estoque
+363,Coleta,Derramamento,2023-05-18,116.34,4963.05,,,,Perda na etapa de coleta
+364,Estoque,Contaminação,2023-08-05,1677.01,,,,,Perda na etapa de estoque
+365,Produção,Falha de processo,2023-10-03,345.24,4516.46,,,,Perda na etapa de produção
+366,Coleta,Devolução,2024-07-20,378.9,14704.34,26,,,Perda na etapa de coleta
+367,Estoque,Vencimento,2024-05-19,,14858.52,,,,
+368,Estoque,Derramamento,2023-03-26,961.43,6630.98,,,,Perda na etapa de estoque
+369,Transporte,Vencimento,2024-05-26,1299.68,12745.23,,,613,Perda na etapa de transporte
+370,Coleta,Contaminação,2024-05-16,171.44,778.93,,,,Perda na etapa de coleta
+371,Produção,Derramamento,2023-04-26,1893.87,16248.11,,174,,Perda na etapa de produção
+372,Produção,Falha de processo,2023-11-14,1036.33,15972.48,,,,Perda na etapa de produção
+373,Transporte,Devolução,2024-03-17,166.94,12632.86,,,3695,Perda na etapa de transporte
+374,Estoque,Vencimento,2023-08-08,943.35,11500.3,,,,Perda na etapa de estoque
+375,Coleta,Devolução,2024-02-27,1445.26,9345.04,4,,,Perda na etapa de coleta
+376,Estoque,Falha de processo,2024-01-07,1092.16,,,,,Perda na etapa de estoque
+377,Produção,Devolução,2023-12-10,228.57,15090.13,,2280,,Perda na etapa de produção
+378,Produção,Derramamento,2023-09-24,,17164.42,,,,Perda na etapa de produção
+379,Transporte,Vencimento,2023-09-15,783.47,1431.36,,,,
+380,Produção,Derramamento,2023-01-21,609.16,13735.81,,,,Perda na etapa de produção
+381,Estoque,Falha de processo,2023-09-02,450.63,9527.64,,,,Perda na etapa de estoque
+382,Produção,Vencimento,14/01/2023,1874.47,,,,,Perda na etapa de produção
+383,Transporte,Vencimento,2023-02-03,691.69,1752.21,,,2768,Perda na etapa de transporte
+384,Transporte,Vencimento,2024-03-28,844.96,10740.07,,,829,Perda na etapa de transporte
+385,Coleta,Derramamento,2024-07-03,,13214.14,,,,
+386,Coleta,Derramamento,2024-03-17,1907.31,5168.96,,,,Perda na etapa de coleta
+387,Coleta,Contaminação,2023-08-17,964.58,13531.35,42,,,Perda na etapa de coleta
+388,Transporte,Contaminação,2024-06-04,558.9,5350.46,,,4522,Perda na etapa de transporte
+389,Estoque,Derramamento,2023-03-27,1042.35,19676.84,,,,Perda na etapa de estoque
+390,Produção,Contaminação,2024-08-01,1835.6,11051.55,,,,Perda na etapa de produção
+391,Transporte,Vencimento,2023-05-21,216.52,3253.62,,,4865,Perda na etapa de transporte
+392,Estoque,Vencimento,2023-08-06,1606.0,3439.75,,,,Perda na etapa de estoque
+393,Coleta,Falha de processo,2023-04-14,75.46,6941.6,,,,
+394,Coleta,Devolução,2023-07-10,1647.77,16619.87,,,,Perda na etapa de coleta
+395,Estoque,Vencimento,2024-07-22,,18579.96,,,,Perda na etapa de estoque
+396,Coleta,Derramamento,2024-02-20,1404.61,9711.32,29,,,Perda na etapa de coleta
+397,Transporte,Contaminação,2024-02-21,875.04,11377.7,,,3451,Perda na etapa de transporte
+398,Estoque,Devolução,2023-10-23,1746.73,12426.66,,,,Perda na etapa de estoque
+399,Coleta,Contaminação,2024-01-29,1777.4,11336.72,,,,Perda na etapa de coleta
+400,Produção,Vencimento,2023-02-14,1532.39,16020.5,,,,
+401,Estoque,Falha de processo,18/05/2024,870.57,6834.36,,,,Perda na etapa de estoque
+402,Coleta,Devolução,2023-05-06,1579.78,11948.08,47,,,Perda na etapa de coleta
+403,Produção,Vencimento,2024-10-13,1931.15,630.93,,1002,,Perda na etapa de produção
+404,Transporte,Devolução,2023-06-30,1141.87,604.92,,,2424,
+405,Produção,Devolução,2023-09-29,1841.25,13539.98,,,,Perda na etapa de produção
+406,Estoque,Vencimento,2024-12-18,707.49,6862.07,,,,Perda na etapa de estoque
+407,Transporte,Devolução,2023-09-02,347.13,7116.95,,,5270,Perda na etapa de transporte
+408,Estoque,Derramamento,2023-05-12,128.02,2933.78,,,,Perda na etapa de estoque
+409,Transporte,Devolução,2024-11-12,643.63,1191.34,,,5266,
+410,Estoque,Falha de processo,2024-10-02,386.05,11204.43,,,,Perda na etapa de estoque
+411,Coleta,Falha de processo,2023-03-04,277.65,,93,,,Perda na etapa de coleta
+412,Coleta,Devolução,05/04/2024,1585.32,2231.54,,,,Perda na etapa de coleta
+413,Estoque,Derramamento,2023-12-04,1439.92,16378.07,,,,Perda na etapa de estoque
+414,Transporte,Vencimento,2024-12-16,670.58,17943.14,,,1949,Perda na etapa de transporte
+415,Coleta,Devolução,2024-05-11,90.83,4080.2,,,,Perda na etapa de coleta
+416,Transporte,Devolução,2024-05-13,469.56,5255.9,,,,
+417,Coleta,Derramamento,2023-10-28,892.26,7000.96,,,,Perda na etapa de coleta
+418,Coleta,Contaminação,2023-11-12,1882.47,7696.89,84,,,Perda na etapa de coleta
+419,Produção,Falha de processo,2023-01-02,1300.23,17563.36,,512,,Perda na etapa de produção
+420,Coleta,Contaminação,2023-12-16,1708.99,,,,,Perda na etapa de coleta
+421,Transporte,Devolução,2024-05-22,255.45,,,,3846,Perda na etapa de transporte
+422,Coleta,Falha de processo,12/03/2023,,7045.08,94,,,
+423,Estoque,Vencimento,2024-06-21,24.21,16695.17,,,,Perda na etapa de estoque
+424,Produção,Vencimento,2023-07-13,1813.62,9046.23,,1553,,
+425,Transporte,Contaminação,2023-03-16,1196.39,17853.67,,,1023,Perda na etapa de transporte
+426,Coleta,Contaminação,2024-12-01,,8722.9,43,,,Perda na etapa de coleta
+427,Coleta,Contaminação,2023-03-28,109.64,18213.3,10,,,Perda na etapa de coleta
+428,Transporte,Devolução,2023-03-07,1783.15,5158.53,,,,Perda na etapa de transporte
+429,Transporte,Vencimento,2024-03-11,1191.06,7592.75,,,5071,
+430,Coleta,Falha de processo,2023-07-04,1924.76,11933.52,,,,Perda na etapa de coleta
+431,Estoque,Derramamento,2023-05-16,1258.29,8884.21,,,,
+432,Coleta,Contaminação,2023-02-04,1502.43,,70,,,Perda na etapa de coleta
+433,Transporte,Vencimento,2024-01-29,349.98,11527.47,,,,Perda na etapa de transporte
+434,Produção,Falha de processo,2024-08-27,214.95,13697.96,,,,Perda na etapa de produção
+435,Transporte,Falha de processo,2023-02-14,1966.38,5157.85,,,,Perda na etapa de transporte
+436,Coleta,Contaminação,2023-05-08,642.3,14844.82,8,,,Perda na etapa de coleta
+437,Coleta,Derramamento,2023-05-11,117.23,54.5,38,,,Perda na etapa de coleta
+438,Produção,Falha de processo,2023-09-28,1003.19,19163.92,,861,,Perda na etapa de produção
+439,Transporte,Vencimento,2024-11-02,111.14,13917.61,,,,Perda na etapa de transporte
+440,Produção,Contaminação,2024-06-26,1713.06,3307.44,,,,Perda na etapa de produção
+441,Coleta,Contaminação,2024-10-10,1206.12,3445.0,,,,Perda na etapa de coleta
+442,Transporte,Falha de processo,2023-12-16,835.43,10015.89,,,,Perda na etapa de transporte
+443,Coleta,Vencimento,2024-04-07,1869.7,3365.46,4,,,Perda na etapa de coleta
+444,Estoque,Vencimento,2023-02-06,,17763.85,,,,Perda na etapa de estoque
+445,Coleta,Vencimento,2024-10-31,1327.85,7055.57,,,,
+446,Coleta,Devolução,2023-10-27,368.57,2951.7,,,,Perda na etapa de coleta
+447,Estoque,Derramamento,2023-04-12,1497.22,4781.07,,,,Perda na etapa de estoque
+448,Coleta,Devolução,2023-03-29,954.55,975.31,,,,Perda na etapa de coleta
+449,Estoque,Vencimento,2023-12-20,554.9,19618.21,,,,
+450,Estoque,Vencimento,2024-07-11,472.47,16901.69,,,,Perda na etapa de estoque
+451,Transporte,Derramamento,2024-09-26,614.27,8807.66,,,966,
+452,Coleta,Contaminação,2024-12-21,1148.26,,,,,Perda na etapa de coleta
+453,Produção,Derramamento,2024-01-09,157.41,5910.04,,,,Perda na etapa de produção
+454,Coleta,Derramamento,2024-05-10,732.59,6516.44,71,,,
+455,Coleta,Falha de processo,2024-03-06,,5143.81,50,,,Perda na etapa de coleta
+456,Transporte,Vencimento,2023-09-04,819.69,11740.8,,,,
+457,Estoque,Derramamento,2023-08-13,847.7,14375.71,,,,Perda na etapa de estoque
+458,Coleta,Falha de processo,2023-09-09,1746.37,9732.74,76,,,Perda na etapa de coleta
+459,Transporte,Contaminação,2024-02-07,1885.66,5374.29,,,,Perda na etapa de transporte
+460,Produção,Vencimento,2024-12-29,1710.64,16791.11,,1549,,Perda na etapa de produção
+461,Produção,Falha de processo,2023-08-12,,9983.03,,1002,,Perda na etapa de produção
+462,Produção,Vencimento,2024-07-23,768.96,10702.49,,,,Perda na etapa de produção
+463,Transporte,Derramamento,2023-09-23,591.26,19458.53,,,,Perda na etapa de transporte
+464,Coleta,Falha de processo,2023-05-01,582.84,6373.15,,,,Perda na etapa de coleta
+465,Coleta,Vencimento,2024-05-11,1116.85,3003.16,28,,,Perda na etapa de coleta
+466,Produção,Derramamento,2023-12-22,,7702.42,,1979,,Perda na etapa de produção
+467,Produção,Vencimento,2023-01-24,460.81,14850.22,,,,Perda na etapa de produção
+468,Estoque,Contaminação,2024-08-17,197.51,19634.84,,,,Perda na etapa de estoque
+469,Estoque,Devolução,30/04/2023,964.79,7360.78,,,,Perda na etapa de estoque
+470,Transporte,Derramamento,2023-09-03,973.27,14468.62,,,,
+471,Transporte,Vencimento,2023-10-14,1980.96,5348.8,,,,Perda na etapa de transporte
+472,Produção,Falha de processo,2024-11-14,1149.06,7483.48,,,,Perda na etapa de produção
+473,Coleta,Derramamento,2024-07-27,1408.86,8049.96,17,,,
+474,Produção,Vencimento,2024-01-03,332.45,2697.55,,1199,,Perda na etapa de produção
+475,Produção,Falha de processo,2023-01-25,969.49,7036.79,,2118,,Perda na etapa de produção
+476,Estoque,Vencimento,2024-07-31,1767.95,,,,,
+477,Transporte,Devolução,2024-07-14,,12935.4,,,,Perda na etapa de transporte
+478,Coleta,Devolução,18/12/2024,1210.22,8094.85,,,,Perda na etapa de coleta
+479,Transporte,Devolução,30/07/2023,700.89,15128.56,,,2393,Perda na etapa de transporte
+480,Estoque,Falha de processo,2024-05-25,1346.69,442.89,,,,Perda na etapa de estoque
+481,Transporte,Derramamento,2024-02-05,874.51,8449.39,,,,Perda na etapa de transporte
+482,Coleta,Vencimento,2024-05-24,253.62,8882.33,,,,Perda na etapa de coleta
+483,Transporte,Vencimento,2024-10-23,1713.06,14648.83,,,,Perda na etapa de transporte
+484,Coleta,Contaminação,2024-05-09,729.29,,,,,Perda na etapa de coleta
+485,Transporte,Falha de processo,2024-11-17,1199.27,7246.04,,,,Perda na etapa de transporte
+486,Transporte,Devolução,2023-11-14,,15247.28,,,789,Perda na etapa de transporte
+487,Coleta,Vencimento,2024-09-08,466.22,16177.4,,,,Perda na etapa de coleta
+488,Estoque,Devolução,2023-11-01,737.87,10022.69,,,,Perda na etapa de estoque
+489,Estoque,Contaminação,2024-12-03,1940.54,3524.73,,,,Perda na etapa de estoque
+490,Produção,Devolução,2024-03-08,293.66,8864.96,,1367,,Perda na etapa de produção
+491,Transporte,Derramamento,2024-11-20,578.49,5508.87,,,4655,Perda na etapa de transporte
+492,Transporte,Contaminação,2024-01-02,998.82,15130.76,,,4935,Perda na etapa de transporte
+493,Estoque,Contaminação,2024-08-21,64.34,2459.04,,,,Perda na etapa de estoque
+494,Produção,Devolução,2023-05-07,1640.78,13100.9,,,,Perda na etapa de produção
+495,Estoque,Devolução,2023-08-02,1851.63,1157.31,,,,
+496,Produção,Derramamento,2024-10-02,44.33,14650.01,,,,Perda na etapa de produção
+497,Coleta,Vencimento,2024-01-12,90.51,8891.48,5,,,Perda na etapa de coleta
+498,Produção,Vencimento,2024-03-19,236.2,806.06,,555,,
+499,Coleta,Falha de processo,2023-01-29,1921.37,6006.97,8,,,Perda na etapa de coleta
+500,Transporte,Vencimento,2023-06-26,25.68,7691.99,,,,
+501,Produção,Devolução,2024-08-12,1595.91,4168.24,,,,Perda na etapa de produção
+502,Produção,Devolução,2024-05-04,1235.42,2326.39,,1327,,Perda na etapa de produção
+503,Coleta,Devolução,2023-05-26,1296.86,4011.38,,,,Perda na etapa de coleta
+504,Transporte,Vencimento,2024-12-02,1203.67,14263.21,,,3651,Perda na etapa de transporte
+505,Estoque,Contaminação,2023-01-14,266.25,10640.01,,,,Perda na etapa de estoque
+506,Produção,Derramamento,2024-09-06,1260.71,8092.05,,494,,Perda na etapa de produção
+507,Coleta,Contaminação,2024-07-05,1634.88,15754.54,,,,
+508,Transporte,Vencimento,2023-11-29,1746.91,18876.16,,,924,Perda na etapa de transporte
+509,Transporte,Falha de processo,2023-11-25,1053.12,5348.26,,,4249,Perda na etapa de transporte
+510,Coleta,Contaminação,31/12/2024,1853.03,15940.92,45,,,
+511,Coleta,Derramamento,2023-11-10,1164.16,6584.46,,,,Perda na etapa de coleta
+512,Coleta,Devolução,2023-05-18,1621.33,1943.37,,,,Perda na etapa de coleta
+513,Estoque,Vencimento,25/04/2023,560.13,11339.5,,,,Perda na etapa de estoque
+514,Produção,Derramamento,2024-01-05,1623.24,,,930,,Perda na etapa de produção
+515,Estoque,Derramamento,2024-07-10,999.58,1265.5,,,,Perda na etapa de estoque
+516,Estoque,Falha de processo,2023-07-05,512.23,,,,,
+517,Produção,Contaminação,2024-03-04,668.97,10616.76,,1594,,
+518,Transporte,Derramamento,2023-11-29,1624.81,18625.09,,,1143,
+519,Transporte,Contaminação,2023-07-06,1001.92,7069.15,,,2597,
+520,Produção,Devolução,2023-06-14,1016.27,18761.84,,,,
+521,Produção,Falha de processo,2024-02-17,1668.46,17845.13,,2967,,Perda na etapa de produção
+522,Transporte,Falha de processo,2024-02-26,1646.91,18169.63,,,,Perda na etapa de transporte
+523,Coleta,Devolução,2024-12-29,,12762.29,97,,,
+524,Coleta,Devolução,2023-03-18,482.2,12381.81,,,,Perda na etapa de coleta
+525,Produção,Vencimento,2024-11-07,1547.75,,,,,Perda na etapa de produção
+526,Estoque,Derramamento,2023-10-20,1015.58,3240.97,,,,Perda na etapa de estoque
+527,Transporte,Falha de processo,2023-04-06,202.36,7378.9,,,4904,Perda na etapa de transporte
+528,Coleta,Devolução,2024-08-26,1706.7,13003.48,99,,,Perda na etapa de coleta
+529,Produção,Devolução,2024-06-17,839.42,19484.5,,,,Perda na etapa de produção
+530,Transporte,Vencimento,2024-11-16,1166.84,11779.0,,,,Perda na etapa de transporte
+531,Coleta,Contaminação,2024-03-01,128.25,10820.43,35,,,Perda na etapa de coleta
+532,Produção,Derramamento,2023-09-26,1157.02,1431.91,,512,,
+533,Produção,Vencimento,12/10/2023,1044.25,16808.81,,2910,,Perda na etapa de produção
+534,Produção,Derramamento,2023-07-19,1056.27,19048.3,,675,,Perda na etapa de produção
+535,Coleta,Contaminação,08/07/2023,1494.21,18606.28,75,,,Perda na etapa de coleta
+536,Transporte,Falha de processo,2023-01-11,596.98,18959.9,,,,Perda na etapa de transporte
+537,Coleta,Devolução,2023-08-27,534.66,,94,,,
+538,Transporte,Falha de processo,2023-05-18,1141.07,11270.8,,,,Perda na etapa de transporte
+539,Estoque,Contaminação,2024-05-24,1038.75,13288.89,,,,Perda na etapa de estoque
+540,Transporte,Vencimento,2024-12-14,1179.52,4385.23,,,1705,Perda na etapa de transporte
+541,Produção,Falha de processo,2024-10-22,1995.64,19667.55,,272,,Perda na etapa de produção
+542,Produção,Contaminação,2024-08-06,1651.39,,,2077,,Perda na etapa de produção
+543,Produção,Falha de processo,2024-07-14,1489.48,14957.1,,106,,Perda na etapa de produção
+544,Transporte,Vencimento,2024-02-27,196.43,9078.13,,,2028,
+545,Produção,Falha de processo,2024-11-15,931.53,8250.06,,,,Perda na etapa de produção
+546,Produção,Derramamento,2024-04-29,695.1,3424.41,,1664,,Perda na etapa de produção
+547,Estoque,Falha de processo,2023-11-22,1222.49,12575.09,,,,Perda na etapa de estoque
+548,Estoque,Contaminação,2024-03-23,1520.39,11959.8,,,,Perda na etapa de estoque
+549,Produção,Devolução,2024-09-09,1583.85,4145.21,,907,,Perda na etapa de produção
+550,Estoque,Derramamento,2024-10-27,1653.37,,,,,Perda na etapa de estoque
+551,Estoque,Contaminação,2023-05-21,1126.69,14384.19,,,,Perda na etapa de estoque
+552,Transporte,Vencimento,2024-09-04,1024.32,6194.15,,,,Perda na etapa de transporte
+553,Estoque,Contaminação,2024-03-04,381.33,19521.48,,,,Perda na etapa de estoque
+554,Estoque,Derramamento,2024-10-01,1033.8,,,,,
+555,Transporte,Contaminação,2024-09-09,1454.89,9141.54,,,2966,Perda na etapa de transporte
+556,Estoque,Derramamento,2024-02-10,1772.53,3469.24,,,,Perda na etapa de estoque
+557,Produção,Derramamento,2024-09-20,216.76,19264.88,,,,Perda na etapa de produção
+558,Produção,Contaminação,2023-07-01,614.78,18962.81,,1453,,Perda na etapa de produção
+559,Produção,Derramamento,2023-01-08,1840.41,3400.83,,,,Perda na etapa de produção
+560,Produção,Devolução,2023-11-11,1164.95,587.61,,,,Perda na etapa de produção
+561,Transporte,Vencimento,2023-04-23,1418.72,7086.05,,,4947,
+562,Coleta,Vencimento,2024-04-23,1265.67,5245.41,80,,,Perda na etapa de coleta
+563,Produção,Contaminação,2023-09-24,848.7,15119.77,,724,,Perda na etapa de produção
+564,Estoque,Contaminação,2023-11-07,1909.65,5914.6,,,,
+565,Coleta,Derramamento,2024-02-26,1062.9,10598.74,77,,,Perda na etapa de coleta
+566,Coleta,Vencimento,2024-06-13,1677.51,14665.87,,,,Perda na etapa de coleta
+567,Coleta,Contaminação,2023-04-21,284.31,4479.67,,,,
+568,Produção,Vencimento,2024-06-15,857.86,1720.37,,,,Perda na etapa de produção
+569,Estoque,Derramamento,2023-03-26,772.39,18947.53,,,,Perda na etapa de estoque
+570,Transporte,Falha de processo,2023-04-08,496.43,18922.27,,,4827,
+571,Coleta,Falha de processo,2024-04-12,1105.68,11503.09,,,,Perda na etapa de coleta
+572,Estoque,Vencimento,2023-10-15,493.57,16433.39,,,,
+573,Estoque,Devolução,2024-04-08,1164.95,6521.87,,,,Perda na etapa de estoque
+574,Transporte,Falha de processo,2023-12-21,115.61,7915.89,,,,Perda na etapa de transporte
+575,Transporte,Devolução,2023-12-20,1902.92,4442.27,,,,
+576,Transporte,Vencimento,2024-12-31,,7063.12,,,2242,Perda na etapa de transporte
+577,Transporte,Falha de processo,2024-08-27,811.6,2313.43,,,275,Perda na etapa de transporte
+578,Produção,Falha de processo,2024-01-19,1502.18,1794.65,,,,
+579,Transporte,Derramamento,2023-07-09,1613.25,11040.94,,,,Perda na etapa de transporte
+580,Coleta,Falha de processo,2024-10-03,307.01,4091.21,58,,,Perda na etapa de coleta
+581,Produção,Falha de processo,2023-07-22,1664.79,,,1989,,Perda na etapa de produção
+582,Estoque,Derramamento,2024-12-26,551.09,,,,,Perda na etapa de estoque
+583,Coleta,Contaminação,2023-10-24,1993.8,17474.21,,,,Perda na etapa de coleta
+584,Transporte,Contaminação,2023-06-27,272.61,11454.41,,,,
+585,Estoque,Devolução,13/04/2023,774.74,10892.51,,,,Perda na etapa de estoque
+586,Produção,Falha de processo,2023-02-24,812.23,6511.6,,2193,,Perda na etapa de produção
+587,Estoque,Falha de processo,2023-04-22,,15735.94,,,,Perda na etapa de estoque
+588,Produção,Vencimento,2024-11-14,1921.7,7911.57,,,,Perda na etapa de produção
+589,Transporte,Falha de processo,2024-07-24,1203.97,10953.77,,,702,
+590,Coleta,Derramamento,2024-08-12,499.68,7215.7,85,,,Perda na etapa de coleta
+591,Produção,Devolução,2023-07-02,192.22,19765.65,,2260,,Perda na etapa de produção
+592,Estoque,Falha de processo,2024-06-13,884.62,5085.75,,,,Perda na etapa de estoque
+593,Produção,Vencimento,2023-07-18,9.67,7440.17,,,,Perda na etapa de produção
+594,Estoque,Derramamento,2023-07-04,,12732.72,,,,Perda na etapa de estoque
+595,Estoque,Devolução,2024-10-19,1408.28,6937.22,,,,Perda na etapa de estoque
+596,Transporte,Devolução,2023-05-26,563.95,17676.17,,,4158,Perda na etapa de transporte
+597,Transporte,Derramamento,2024-10-08,1725.45,18643.32,,,4894,Perda na etapa de transporte
+598,Transporte,Falha de processo,25/01/2024,142.88,14680.95,,,,Perda na etapa de transporte
+599,Coleta,Derramamento,2024-11-12,260.92,11606.0,60,,,Perda na etapa de coleta
+600,Produção,Devolução,2023-10-18,93.44,,,2860,,Perda na etapa de produção
+601,Estoque,Vencimento,2023-10-23,1071.32,16910.98,,,,Perda na etapa de estoque
+602,Transporte,Vencimento,2023-10-21,67.07,11530.31,,,,Perda na etapa de transporte
+603,Produção,Contaminação,2023-04-06,1428.18,2459.27,,1210,,
+604,Transporte,Vencimento,2024-03-23,266.5,8632.9,,,,Perda na etapa de transporte
+605,Estoque,Devolução,2023-06-18,1132.31,6593.84,,,,Perda na etapa de estoque
+606,Estoque,Devolução,2023-08-12,774.3,,,,,
+607,Transporte,Derramamento,2023-01-08,,15969.63,,,511,Perda na etapa de transporte
+608,Coleta,Falha de processo,2023-10-21,886.71,13398.89,,,,Perda na etapa de coleta
+609,Coleta,Vencimento,2023-02-22,372.35,8225.92,80,,,Perda na etapa de coleta
+610,Coleta,Vencimento,2023-05-22,1811.62,17250.05,12,,,
+611,Produção,Derramamento,2023-08-29,1411.16,6576.67,,2535,,Perda na etapa de produção
+612,Transporte,Falha de processo,2024-06-06,782.19,12873.6,,,4487,Perda na etapa de transporte
+613,Coleta,Contaminação,2024-01-22,752.73,16724.55,,,,Perda na etapa de coleta
+614,Produção,Vencimento,2024-09-07,1151.31,19028.52,,1102,,
+615,Coleta,Derramamento,2023-03-14,768.89,,26,,,
+616,Transporte,Contaminação,2023-03-01,1630.75,,,,,Perda na etapa de transporte
+617,Transporte,Devolução,2024-08-26,1349.09,,,,,Perda na etapa de transporte
+618,Transporte,Vencimento,2024-05-14,764.04,15168.75,,,,Perda na etapa de transporte
+619,Produção,Derramamento,2024-06-25,1611.97,16907.19,,2069,,Perda na etapa de produção
+620,Estoque,Falha de processo,2024-07-29,118.04,14936.56,,,,Perda na etapa de estoque
+621,Estoque,Contaminação,2024-04-25,,13954.27,,,,Perda na etapa de estoque
+622,Estoque,Vencimento,2024-10-19,478.56,18858.25,,,,Perda na etapa de estoque
+623,Transporte,Falha de processo,2024-09-20,715.2,15055.93,,,,Perda na etapa de transporte
+624,Estoque,Devolução,2024-04-23,1221.15,15375.99,,,,Perda na etapa de estoque
+625,Produção,Devolução,2024-06-12,1941.01,,,1019,,Perda na etapa de produção
+626,Transporte,Devolução,2023-02-20,419.21,16242.29,,,,
+627,Estoque,Derramamento,2024-11-02,1936.08,18284.72,,,,Perda na etapa de estoque
+628,Estoque,Derramamento,2024-01-23,1720.16,11684.56,,,,Perda na etapa de estoque
+629,Estoque,Contaminação,2023-10-28,1931.41,10594.18,,,,Perda na etapa de estoque
+630,Produção,Vencimento,2024-06-29,1308.79,14997.07,,1337,,Perda na etapa de produção
+631,Transporte,Derramamento,2024-03-21,,2395.52,,,,
+632,Coleta,Derramamento,09/10/2024,1272.2,,,,,Perda na etapa de coleta
+633,Coleta,Derramamento,2024-04-18,1393.65,18916.63,77,,,Perda na etapa de coleta
+634,Transporte,Derramamento,2023-12-05,1346.86,19629.31,,,,
+635,Transporte,Falha de processo,2024-08-24,,2618.32,,,,
+636,Transporte,Falha de processo,2023-10-12,1243.97,12803.34,,,3741,Perda na etapa de transporte
+637,Transporte,Vencimento,2024-02-23,785.72,14592.68,,,836,
+638,Produção,Vencimento,2024-01-20,1179.22,15582.84,,583,,Perda na etapa de produção
+639,Transporte,Contaminação,2024-03-31,,16382.13,,,4549,Perda na etapa de transporte
+640,Estoque,Contaminação,2023-04-27,1101.8,15604.35,,,,
+641,Produção,Contaminação,28/09/2024,1311.98,3843.99,,620,,Perda na etapa de produção
+642,Transporte,Derramamento,2024-08-12,202.87,3844.58,,,1481,Perda na etapa de transporte
+643,Transporte,Falha de processo,2024-12-21,1271.79,1653.28,,,,Perda na etapa de transporte
+644,Estoque,Contaminação,2024-10-03,1950.97,10230.32,,,,
+645,Transporte,Derramamento,2023-03-11,711.1,12813.82,,,,Perda na etapa de transporte
+646,Produção,Falha de processo,2023-04-11,383.83,3304.81,,,,Perda na etapa de produção
+647,Produção,Devolução,2023-03-15,643.83,6764.37,,2304,,Perda na etapa de produção
+648,Transporte,Falha de processo,2024-07-05,490.18,16716.35,,,3455,Perda na etapa de transporte
+649,Produção,Derramamento,2023-08-01,113.79,4841.16,,,,
+650,Coleta,Contaminação,2023-01-16,1620.71,14694.85,90,,,Perda na etapa de coleta
+651,Produção,Vencimento,2023-08-20,442.02,15406.46,,235,,Perda na etapa de produção
+652,Coleta,Devolução,2024-12-01,53.49,2290.1,70,,,Perda na etapa de coleta
+653,Coleta,Vencimento,2024-05-05,1816.56,15022.67,57,,,Perda na etapa de coleta
+654,Produção,Derramamento,2023-03-28,824.63,3209.56,,,,Perda na etapa de produção
+655,Estoque,Vencimento,2023-10-28,959.46,19930.42,,,,Perda na etapa de estoque
+656,Produção,Derramamento,2023-10-09,554.39,3412.96,,2495,,Perda na etapa de produção
+657,Estoque,Falha de processo,11/10/2024,48.2,5248.07,,,,Perda na etapa de estoque
+658,Transporte,Vencimento,2023-12-02,1920.08,16665.75,,,,Perda na etapa de transporte
+659,Produção,Contaminação,2024-07-07,821.86,18482.74,,1946,,Perda na etapa de produção
+660,Estoque,Contaminação,2023-06-15,354.51,10413.5,,,,Perda na etapa de estoque
+661,Coleta,Falha de processo,2023-01-03,1122.49,9390.36,,,,Perda na etapa de coleta
+662,Coleta,Vencimento,2024-12-12,794.56,16913.72,60,,,Perda na etapa de coleta
+663,Coleta,Devolução,2024-10-17,1297.22,15185.22,,,,Perda na etapa de coleta
+664,Estoque,Falha de processo,2023-09-08,1671.84,10119.06,,,,Perda na etapa de estoque
+665,Produção,Vencimento,2023-11-15,,14396.31,,1676,,
+666,Produção,Vencimento,2024-11-28,937.33,1878.34,,,,Perda na etapa de produção
+667,Produção,Derramamento,2023-01-15,658.54,3255.8,,,,
+668,Transporte,Falha de processo,2024-10-03,787.57,,,,362,Perda na etapa de transporte
+669,Estoque,Devolução,2023-01-04,905.49,,,,,Perda na etapa de estoque
+670,Coleta,Devolução,2024-09-01,1330.62,19340.42,70,,,Perda na etapa de coleta
+671,Transporte,Derramamento,2024-03-19,774.79,14812.56,,,,Perda na etapa de transporte
+672,Coleta,Derramamento,2024-10-13,360.56,4533.21,,,,Perda na etapa de coleta
+673,Estoque,Devolução,2023-01-25,304.4,9433.49,,,,Perda na etapa de estoque
+674,Coleta,Derramamento,2024-01-23,399.95,17287.34,47,,,Perda na etapa de coleta
+675,Estoque,Falha de processo,2024-03-17,1854.85,10135.1,,,,Perda na etapa de estoque
+676,Transporte,Contaminação,2024-11-12,204.09,15258.55,,,,Perda na etapa de transporte
+677,Transporte,Vencimento,2023-09-07,1584.27,,,,3858,Perda na etapa de transporte
+678,Estoque,Contaminação,2023-07-17,17.74,15642.83,,,,
+679,Estoque,Devolução,2024-10-05,770.98,1464.0,,,,Perda na etapa de estoque
+680,Transporte,Devolução,2023-01-24,1437.65,9436.27,,,,Perda na etapa de transporte
+681,Transporte,Falha de processo,2024-08-01,1435.45,5232.04,,,2173,
+682,Transporte,Contaminação,2024-12-25,506.84,18286.93,,,2564,Perda na etapa de transporte
+683,Estoque,Derramamento,2023-08-08,757.54,13391.84,,,,Perda na etapa de estoque
+684,Estoque,Falha de processo,2023-03-09,1616.09,17649.07,,,,Perda na etapa de estoque
+685,Coleta,Devolução,2023-04-18,1629.76,11560.12,28,,,Perda na etapa de coleta
+686,Estoque,Derramamento,2023-08-23,1618.42,8418.79,,,,Perda na etapa de estoque
+687,Produção,Vencimento,2023-09-13,820.36,,,1281,,Perda na etapa de produção
+688,Produção,Vencimento,2023-06-03,701.08,19827.93,,1494,,Perda na etapa de produção
+689,Estoque,Derramamento,2023-04-09,624.47,6855.48,,,,Perda na etapa de estoque
+690,Transporte,Vencimento,2024-03-20,1336.8,17100.24,,,701,Perda na etapa de transporte
+691,Transporte,Contaminação,2024-12-15,1684.87,9978.07,,,1447,Perda na etapa de transporte
+692,Coleta,Falha de processo,2023-11-03,1086.02,4971.26,49,,,Perda na etapa de coleta
+693,Coleta,Falha de processo,2024-12-09,27.93,7127.45,,,,
+694,Transporte,Vencimento,2023-08-04,742.78,7407.54,,,5077,Perda na etapa de transporte
+695,Produção,Falha de processo,2024-02-21,295.12,6302.69,,1715,,
+696,Transporte,Derramamento,2024-06-26,570.94,8234.13,,,5449,Perda na etapa de transporte
+697,Produção,Contaminação,2024-08-21,306.01,15638.9,,2074,,Perda na etapa de produção
+698,Coleta,Contaminação,2024-11-02,160.53,11317.95,,,,Perda na etapa de coleta
+699,Produção,Contaminação,2023-05-31,929.12,14267.07,,,,
+700,Produção,Vencimento,2023-12-25,1618.61,19624.01,,,,Perda na etapa de produção
+701,Estoque,Vencimento,2024-04-19,575.44,15876.68,,,,Perda na etapa de estoque
+702,Coleta,Derramamento,2023-07-06,558.45,4670.75,,,,Perda na etapa de coleta
+703,Coleta,Vencimento,2023-05-09,1263.07,1834.89,10,,,Perda na etapa de coleta
+704,Transporte,Falha de processo,2024-10-18,1691.17,9436.7,,,4450,Perda na etapa de transporte
+705,Coleta,Devolução,2023-07-31,1404.5,,,,,Perda na etapa de coleta
+706,Transporte,Devolução,2024-07-26,1335.48,12565.27,,,4906,Perda na etapa de transporte
+707,Estoque,Vencimento,2023-07-03,239.3,,,,,
+708,Coleta,Falha de processo,2024-02-27,,7127.89,,,,
+709,Estoque,Falha de processo,2023-09-20,1449.07,4496.3,,,,Perda na etapa de estoque
+710,Estoque,Falha de processo,2023-01-25,622.37,5591.87,,,,Perda na etapa de estoque
+711,Transporte,Vencimento,2024-02-07,215.54,14614.17,,,2456,Perda na etapa de transporte
+712,Estoque,Devolução,2023-05-29,1124.46,9996.99,,,,
+713,Produção,Vencimento,2024-03-11,1378.43,11560.63,,1089,,Perda na etapa de produção
+714,Produção,Falha de processo,2023-02-10,1560.45,5704.44,,1092,,Perda na etapa de produção
+715,Produção,Devolução,2023-04-06,44.67,,,1999,,Perda na etapa de produção
+716,Produção,Falha de processo,2024-01-24,794.77,3487.27,,1764,,Perda na etapa de produção
+717,Transporte,Contaminação,2024-11-18,,11110.29,,,,Perda na etapa de transporte
+718,Estoque,Derramamento,2024-08-25,1301.87,10349.31,,,,Perda na etapa de estoque
+719,Coleta,Contaminação,2024-10-29,635.15,,4,,,Perda na etapa de coleta
+720,Estoque,Contaminação,2024-04-10,1132.25,7264.57,,,,
+721,Produção,Contaminação,2024-08-17,1636.7,9263.13,,1377,,Perda na etapa de produção
+722,Produção,Vencimento,2024-05-08,1618.6,11642.09,,1332,,Perda na etapa de produção
+723,Coleta,Vencimento,22/03/2023,1630.16,15705.86,81,,,Perda na etapa de coleta
+724,Coleta,Devolução,2023-02-19,330.17,12031.55,86,,,Perda na etapa de coleta
+725,Produção,Derramamento,2024-05-14,1415.9,12037.02,,,,
+726,Transporte,Contaminação,2024-08-15,612.41,15528.06,,,4917,Perda na etapa de transporte
+727,Produção,Falha de processo,2023-12-30,1897.83,,,1898,,Perda na etapa de produção
+728,Produção,Devolução,2024-11-08,813.25,8801.22,,,,
+729,Produção,Falha de processo,2023-01-21,354.02,4187.49,,,,Perda na etapa de produção
+730,Produção,Falha de processo,2024-09-01,185.47,13706.97,,972,,
+731,Produção,Devolução,2024-12-01,210.33,9792.72,,1008,,Perda na etapa de produção
+732,Estoque,Derramamento,2024-10-21,23.93,5112.52,,,,Perda na etapa de estoque
+733,Coleta,Falha de processo,2023-07-03,1151.77,598.86,38,,,
+734,Estoque,Derramamento,2024-06-29,1448.63,855.8,,,,Perda na etapa de estoque
+735,Transporte,Derramamento,2024-06-08,1361.52,,,,487,Perda na etapa de transporte
+736,Coleta,Vencimento,2023-06-25,916.05,6532.42,95,,,Perda na etapa de coleta
+737,Transporte,Devolução,2024-08-29,1464.15,7385.94,,,,Perda na etapa de transporte
+738,Transporte,Contaminação,2023-07-19,1006.58,,,,5270,Perda na etapa de transporte
+739,Transporte,Vencimento,2023-05-03,1095.26,2043.44,,,608,Perda na etapa de transporte
+740,Estoque,Vencimento,2024-01-26,1972.15,11818.24,,,,Perda na etapa de estoque
+741,Transporte,Falha de processo,2024-03-12,1875.05,8972.7,,,3803,Perda na etapa de transporte
+742,Estoque,Devolução,2024-03-12,638.87,5775.82,,,,Perda na etapa de estoque
+743,Transporte,Derramamento,2023-02-26,1104.42,18670.56,,,4445,Perda na etapa de transporte
+744,Coleta,Devolução,2023-04-10,1512.34,10037.68,,,,Perda na etapa de coleta
+745,Transporte,Contaminação,2024-07-03,255.04,13624.66,,,2845,
+746,Coleta,Vencimento,2023-11-05,1801.83,8626.63,,,,
+747,Coleta,Devolução,2023-05-07,1927.36,10299.42,,,,Perda na etapa de coleta
+748,Transporte,Vencimento,2023-12-13,283.38,6513.51,,,3713,
+749,Produção,Derramamento,2023-08-02,481.78,14070.88,,,,Perda na etapa de produção
+750,Transporte,Falha de processo,2024-10-31,783.98,5546.53,,,3832,Perda na etapa de transporte
+751,Estoque,Devolução,2023-07-18,359.09,5106.53,,,,Perda na etapa de estoque
+752,Coleta,Contaminação,2023-12-19,142.65,11994.7,74,,,Perda na etapa de coleta
+753,Produção,Falha de processo,2024-10-21,211.12,14544.11,,,,Perda na etapa de produção
+754,Produção,Contaminação,2024-02-02,579.34,14150.85,,,,Perda na etapa de produção
+755,Produção,Derramamento,2024-10-05,1410.69,9054.73,,186,,Perda na etapa de produção
+756,Transporte,Contaminação,2024-09-28,839.41,1198.77,,,,
+757,Coleta,Vencimento,2023-04-20,1160.69,,,,,Perda na etapa de coleta
+758,Coleta,Vencimento,2023-06-26,1783.27,13520.08,,,,
+759,Coleta,Devolução,2024-07-21,18.13,14597.99,53,,,Perda na etapa de coleta
+760,Produção,Falha de processo,2023-08-13,1063.14,706.88,,1699,,Perda na etapa de produção
+761,Coleta,Contaminação,2023-01-03,1912.63,18310.86,,,,Perda na etapa de coleta
+762,Estoque,Vencimento,2024-10-21,885.26,12371.78,,,,Perda na etapa de estoque
+763,Coleta,Devolução,2024-11-07,1288.82,3148.87,,,,Perda na etapa de coleta
+764,Produção,Derramamento,2024-01-07,649.27,5339.49,,,,
+765,Transporte,Devolução,2023-10-27,1734.75,1972.33,,,1094,Perda na etapa de transporte
+766,Coleta,Contaminação,2024-06-03,277.51,19089.47,,,,Perda na etapa de coleta
+767,Produção,Devolução,2023-04-25,935.02,19987.16,,2142,,Perda na etapa de produção
+768,Estoque,Vencimento,2024-11-23,372.09,7674.64,,,,Perda na etapa de estoque
+769,Coleta,Devolução,2023-11-28,241.37,7230.06,35,,,Perda na etapa de coleta
+770,Coleta,Falha de processo,2023-04-15,620.57,18271.38,,,,Perda na etapa de coleta
+771,Transporte,Vencimento,2023-01-20,1635.83,14429.93,,,,Perda na etapa de transporte
+772,Transporte,Vencimento,2023-05-15,1083.33,16537.19,,,711,Perda na etapa de transporte
+773,Transporte,Vencimento,2023-04-19,1175.84,747.88,,,4670,Perda na etapa de transporte
+774,Produção,Devolução,2024-12-14,176.1,5141.87,,372,,Perda na etapa de produção
+775,Estoque,Falha de processo,2023-02-03,469.8,7269.3,,,,Perda na etapa de estoque
+776,Estoque,Derramamento,2023-10-24,1900.49,16910.32,,,,Perda na etapa de estoque
+777,Coleta,Falha de processo,2024-03-06,1416.45,16950.56,13,,,Perda na etapa de coleta
+778,Estoque,Derramamento,2023-04-09,1874.16,8096.07,,,,
+779,Coleta,Falha de processo,2024-10-23,873.47,2326.69,4,,,Perda na etapa de coleta
+780,Estoque,Contaminação,2024-10-12,501.48,827.37,,,,Perda na etapa de estoque
+781,Transporte,Devolução,2023-04-18,248.23,9195.31,,,,Perda na etapa de transporte
+782,Transporte,Vencimento,2023-11-13,119.8,17872.01,,,,Perda na etapa de transporte
+783,Estoque,Falha de processo,2023-02-26,116.43,10762.06,,,,
+784,Estoque,Derramamento,2023-08-31,1302.73,14582.29,,,,Perda na etapa de estoque
+785,Produção,Falha de processo,2023-03-15,1967.89,15263.04,,,,
+786,Coleta,Contaminação,20/01/2024,83.61,11550.56,,,,Perda na etapa de coleta
+787,Transporte,Derramamento,2024-05-29,1480.21,4021.93,,,4087,Perda na etapa de transporte
+788,Transporte,Devolução,2023-05-06,1667.21,10995.59,,,1333,Perda na etapa de transporte
+789,Transporte,Vencimento,2024-04-25,1087.76,11602.34,,,3050,Perda na etapa de transporte
+790,Coleta,Contaminação,2023-06-24,1429.78,11037.48,92,,,Perda na etapa de coleta
+791,Transporte,Derramamento,2024-05-16,1805.2,638.28,,,3039,Perda na etapa de transporte
+792,Transporte,Contaminação,2024-12-21,243.68,12669.65,,,3052,Perda na etapa de transporte
+793,Transporte,Derramamento,2024-11-24,1974.43,1875.03,,,1715,Perda na etapa de transporte
+794,Estoque,Vencimento,2024-10-03,375.55,12787.74,,,,Perda na etapa de estoque
+795,Produção,Vencimento,2023-09-19,22.69,10632.7,,,,Perda na etapa de produção
+796,Estoque,Falha de processo,2023-01-14,359.1,6210.85,,,,Perda na etapa de estoque
+797,Estoque,Derramamento,2024-09-30,1920.34,2310.22,,,,Perda na etapa de estoque
+798,Coleta,Derramamento,2023-05-12,1503.96,14790.35,,,,Perda na etapa de coleta
+799,Produção,Contaminação,2024-03-08,,5650.6,,801,,Perda na etapa de produção
+800,Produção,Devolução,2023-08-30,142.72,16324.81,,1930,,Perda na etapa de produção
